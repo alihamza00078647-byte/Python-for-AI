@@ -1,0 +1,15 @@
+d = {}
+
+Name = input("Enter Your Name: ")
+lang = input("Enter Your Favourite Language: ")
+d.update({Name : lang})
+Name1 = input("Enter Your Name: ")
+lang1 = input("Enter Your Favourite Language: ")
+d.update({Name1 : lang1})
+Name2 = input("Enter Your Name: ")
+lang2 = input("Enter Your Favourite Language: ")
+d.update({Name2 : lang2})
+Name3 = input("Enter Your Name: ")
+lang3 = input("Enter Your Favourite Language: ")
+d.update({Name3 : lang3})
+print(d)
