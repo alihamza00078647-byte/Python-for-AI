@@ -1,0 +1,32 @@
+employee_id,name,age,salary(INR),experience,city,department,performance_rating
+E001,Ali Hassan,28, 55000 ,4,Lahore,Engineering,4.2
+E002,Sara Ahmed,32, NaN ,8,Karachi,Marketing,3.8
+E003,Usman Khan,25, 42000 ,inf,Islamabad,HR,3.5
+E004,Ayesha Malik,35, 95000,12,Lahore,Engineering,4.7
+E005,Bilal Raza,29, -61000 ,5,Peshawar,Finance,NaN
+E006,Fatima Noor,NaN, 48000000 ,3,Karachi,HR,3.2
+E007,Hamza Sheikh,40, 120000 ,16,Lahore,Engineering,NaN
+E008,Ali Hassan,28, 55000,4,Lahore,Engineering,4.2
+E009,Omar Farooq,NaN, 45000,2,Karachi,Finance,3.9
+E010,Hina Baig,38, 105000 ,14,Lahore,Engineering,4.6
+E011,Tariq Mehmood,33, 78000,9,Peshawar,Marketing,4.1
+E012,Sana Javed,24, NaN ,1,Islamabad,HR,3
+E013,Asad Butt,45, 135000000 ,20,Karachi,Engineering,4.8
+E014,Nadia Chaudhry,30, 65000 ,6,Lahore,Finance,3.7
+E015,Imran Qureshi,37, 98000 ,13,Islamabad,Engineering,4.5
+E016,Maria Tahir,28, 52000 ,4,Karachi,Marketing,3.4
+E017,Faisal Mirza,42, inf ,18,Lahore,Finance,4.3
+E018,Rabia Siddiqui,26, 44000 ,2,Peshawar,HR,3.1
+E019,Kamran Aziz,34,82000 ,10,Islamabad,Engineering,4.4
+E020,Amna Shafi,29, 59000 ,5,Karachi,Marketing,3.9
+E021,Zubair Hussain,48, 145000 ,22,Lahore,Engineering,5
+E022,Saima Rehman,31, 70000 ,7,Islamabad,Finance,4
+E023,Danish Ali,27, 47000 ,3,Karachi,HR,3.3
+E024,Mehwish Akhtar,36, 92000 ,11,Lahore,Marketing,4.2
+E025,Naveed Sultan,43, 128000 ,19,Peshawar,Engineering,4.7
+E026,Lubna Waheed,25, 41000 ,1,Islamabad,HR,2.9
+E027,Shoaib Ansari,39, inf ,15,Karachi,Engineering,4.6
+E028,Iqra Yousaf,30, 63000 ,6,Lahore,Marketing,3.8
+E029,Adnan Malik,44, 138000 ,21,Islamabad,Finance,4.9
+E030,Bushra Karim,28, 53000 ,4,Karachi,HR,3.6
+E031,Saima Rehman,31, 70000 ,7,Islamabad,Finance,4
