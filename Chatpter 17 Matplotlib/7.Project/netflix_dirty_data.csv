@@ -1,0 +1,991 @@
+show_id,type,title,director,cast,country,date_added,release_year,rating,duration,listed_in,description
+s604,Movie,Quantum Break,Mahira Khan Productions,"Rajkummar Rao, Kangana Ranaut",Canada,08 October 2019,2007,PG13,,"Anime Series, Romantic Movies",An emotional journey of self discovery across three generations.
+s214,Movie,silent echoes,Ashutosh Gowariker,,Pakistan,"September 21, 2016",2008,tv-14,161 minutes,"Action & Adventure, Reality TV, British TV Shows",Friends become rivals as ambition tears apart years of loyalty.
+s571,Movie,Mirage,Reema Kagti,"Aamir Khan, Kareena Kapoor",india,"December 31, 2024",2006,TV-MA,113,"Comedies, Action & Adventure",Friends become rivals as ambition tears apart years of loyalty.
+s256,TV Show,Family Matters,Vishal Bhardwaj,"Priyanka Chopra, Farhan Akhtar",South Korea, 2019-12-02 ,2010,TV-PG ,5 Seasons,"Music & Musicals, Kids' TV","In a city full of strangers, one chance encounter changes two lives forever."
+s729,TV Show,High School Heroes,Meghna Gulzar,,Pakistan,26/02/2023,2021,TV-Y,8,"Stand-Up Comedy, Kids' TV",Friends become rivals as ambition tears apart years of loyalty.
+s732,TV Show,City Lights,Sajal Aly,Nawazuddin Siddiqui,India,"March 10, 2016",2020,r,3seasons,"Sports Movies, Anime Series, International Movies",An emotional journey of self discovery across three generations.
+s283,TV Show,The Trial,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar",United Kingdom,13 February 2018,2024,TV-MA,3seasons,Horror Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s402,Movie,Lost in Karachi,Sooraj Barjatya,"Ayushmann Khurrana, Bhumi Pednekar",France,07-21-2021,2012,PG,113,Romantic Movies,A small town hides a big secret that threatens to unravel everything.
+s843,TV Show,THE NEGOTIATOR,Reema Kagti,"Aamir Khan, Kareena Kapoor",Pakistan,2017-06-27,2000,,,"International Movies, Kids' TV","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s76,TV Show,  Family Matters,Zoya Akhtar,"Priyanka Chopra, Farhan Akhtar",Germany,,2008,TV-PG,7seasons,Documentaries,
+s207,Movie,Midnight Garden,Rajkumar Hirani,,pakistan,21/10/2016,2002,R,86 min,"Music & Musicals, Comedies",
+s614,Movie,The Outsiders Club,Sooraj Barjatya,,pakistan, 22 July 2018 ,2017,TV-PG,166,"Music & Musicals, Thrillers","In a city full of strangers, one chance encounter changes two lives forever."
+s69,Movie,Falling Stars,Meghna Gulzar,"Shah Rukh Khan, Deepika Padukone", India,08-09-2021,2010,TV-Y,102,International Movies,
+s53,Movie,Rebel Hearts,Karan Johar,,, 06-19-2018 ,2009,TV-14,,Crime TV Shows,A young detective races against time to solve a case that could change everything.
+s759,Movie,Ocean's Whisper,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",pakistan,"October 14, 2019",2024,unrated,,"Documentaries, Anime Series, Crime TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s134,TV Show,The Investigators,Karan Johar,"Hania Aamir, Asim Azhar",Japan,"August 31, 2019",2021,r,,Sports Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s653,TV Show,Medical Files,Hansal Mehta,"Mahira Khan, Hamza Ali Abbasi",South Korea,2015-10-27,2012,PG13,,"Crime TV Shows, Reality TV, Thrillers","In a city full of strangers, one chance encounter changes two lives forever."
+s850,TV Show,The Office India,Mahira Khan Productions,"Shah Rukh Khan, Deepika Padukone",United Kingdom, 26/10/2018 ,2011,TV-PG,,Sports Movies,A small town hides a big secret that threatens to unravel everything.
+s654,Movie,City of Dreams,Anand L. Rai,"Vicky Kaushal, Yami Gautam",Turkey,11-21-2021,2006,R,82 minutes,"Sports Movies, Kids' TV, Romantic Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s405,Movie,Love in Lahore,Ashutosh Gowariker,Nawazuddin Siddiqui,Turkey,10-15-2018,2021,TV-PG,,"Music & Musicals, Action & Adventure","A thrilling ride through betrayal, power, and the cost of ambition."
+s864,Movie,Desert Storm,Mahira Khan Productions,"Rajkummar Rao, Kangana Ranaut",United States,18 November 2015,2010,UR,125 minutes,Music & Musicals,A small town hides a big secret that threatens to unravel everything.
+s781,Movie,Midnight Garden,Rajkumar Hirani,"Irrfan Khan, Tabu",india,2024-06-29,2017,R,91,"International Movies, Horror Movies, Sports Movies",A young detective races against time to solve a case that could change everything.
+s297,Movie,Burning Bridges,Karan Johar,"Priyanka Chopra, Farhan Akhtar",united kingdom,14/03/2016,2000,NR,,Thrillers,
+s788,TV Show,Power Play   ,Sooraj Barjatya,"Aamir Khan, Kareena Kapoor",india,2015-02-19,2016,TV-PG ,,"Kids' TV, Music & Musicals, International Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s443,Movie,  The Maze Runner X,Hansal Mehta,,U.S.A,14/03/2024,2003,TV-14,,"Anime Series, Action & Adventure, Comedies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s929,Movie,Iron Will,,"Ranbir Kapoor, Alia Bhatt",France,02-14-2021,2015,PG-13,,"Music & Musicals, Romantic Movies, Kids' TV",An emotional journey of self discovery across three generations.
+s396,Movie,The Final Note,Asim Abbasi,"Ranbir Kapoor, Alia Bhatt",Germany,2017-07-23,2011,PG,161 minutes,Music & Musicals,A young detective races against time to solve a case that could change everything.
+s793,Movie,Falling Stars,Vishal Bhardwaj,"Ranbir Kapoor, Alia Bhatt",Turkey," December 06, 2015 ",2023,TV-PG,129 min,"Romantic Movies, Dramas, Music & Musicals",A small town hides a big secret that threatens to unravel everything.
+s898,TV Show,Power Play,,"Mahira Khan, Hamza Ali Abbasi",Pakistan,,2002,TV-PG,6 Seasons,Reality TV,Friends become rivals as ambition tears apart years of loyalty.
+s703,Movie,Echoes of War,Sooraj Barjatya,"Shah Rukh Khan, Deepika Padukone",U.S.A,04-17-2021,2007,r,158 min,"Comedies, International Movies, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s857,Movie,The Forgotten Path,,"Ayushmann Khurrana, Bhumi Pednekar",india,2024-07-09,2022,UNKNOWN,144 minutes,Anime Series,
+s308,TV Show,High School Heroes,Karan Johar,"Ayushmann Khurrana, Bhumi Pednekar",United States,06-11-2023,2005,TV-PG,,"Horror Movies, Dramas, Stand-Up Comedy","In a city full of strangers, one chance encounter changes two lives forever."
+s104,Movie,  Broken Mirror,Hansal Mehta,"Mahira Khan, Hamza Ali Abbasi",,11-06-2024,2004,R,101 min,Thrillers,
+s545,TV Show,Power Play,Anurag Kashyap,Nawazuddin Siddiqui,india,04-01-2020,2001,,,"Reality TV, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s106,TV Show,Royal Affairs,Karan Johar,"Rajkummar Rao, Kangana Ranaut",pakistan,06/04/2016,2012,TV-PG,1,"Crime TV Shows, Action & Adventure",
+s650,Movie,  Eternal Sunshine 2,Anurag Kashyap,"Hania Aamir, Asim Azhar",Pakistan ,13 February 2018,2023,PG13,,"Dramas, British TV Shows, Horror Movies",
+s504,Movie,The Forgotten Path,Farhan Akhtar,"Sajal Aly, Bilal Abbas",France,"January 07, 2023",2001,r,138 minutes,Horror Movies,"When secrets from the past resurface, a family must confront their darkest truths."
+s557,TV Show,Office Hours,,"Aamir Khan, Kareena Kapoor",USA,13 August 2018,2022,TV-PG ,,Reality TV,"In a city full of strangers, one chance encounter changes two lives forever."
+s682,Movie,Quantum Break,Karan Johar,"Sajal Aly, Bilal Abbas",,"September 03, 2018",2014,tv-14,,Music & Musicals,"In a city full of strangers, one chance encounter changes two lives forever."
+s79,Movie,Echoes of War   ,Asim Abbasi,"Rajkummar Rao, Kangana Ranaut",united states,"August 27, 2019",2009,tv-14,63 minutes,Stand-Up Comedy,A young detective races against time to solve a case that could change everything.
+s862,Movie,Sunset Boulevard 2,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",United States,"November 12, 2018",2000,PG,,"Comedies, Action & Adventure",
+s641,tv show,Late Night Tales   ,,"Vicky Kaushal, Yami Gautam",Germany,2019-05-26,2013,R,8seasons,Anime Series,"In a city full of strangers, one chance encounter changes two lives forever."
+s933,TV Show,OFFICE HOURS,Farhan Akhtar,"Hania Aamir, Asim Azhar",united states,20/12/2019,1998,R,6seasons,Dramas,An emotional journey of self discovery across three generations.
+s882,Movie,Falling Stars,Karan Johar,,Pakistan," August 19, 2023 ",2009,UR,,"Sports Movies, Kids' TV, Dramas",
+s244,TV Show,The Negotiator,Reema Kagti,Nawazuddin Siddiqui,Japan,10 April 2019,2018,TV-PG,,"Anime Series, British TV Shows, Comedies","When secrets from the past resurface, a family must confront their darkest truths."
+s905,Movie,Whispering Pines,Sajal Aly,"Ayushmann Khurrana, Bhumi Pednekar",Japan,12-16-2015,2016,PG13,170 minutes,"International Movies, Documentaries, Music & Musicals","In a city full of strangers, one chance encounter changes two lives forever."
+s910,movie,City of Dreams,Imtiaz Ali,"Fawad Khan, Mahira Khan",United States,21 August 2024,2012,UR,136 min,International Movies,
+s763,Movie,The Last Heist,Karan Johar,"Hania Aamir, Asim Azhar",Japan,02-11-2017,2004,UR,,Romantic Movies,A young detective races against time to solve a case that could change everything.
+s631,Movie,THE LAST HEIST,Karan Johar,"Ayushmann Khurrana, Bhumi Pednekar",,06-14-2020,1999,r,,"Horror Movies, Anime Series",A small town hides a big secret that threatens to unravel everything.
+s379,Movie,The Outsiders Club,Shoojit Sircar,"Shah Rukh Khan, Deepika Padukone",United States,2016-01-19,2003,NR,,Dramas,
+s821,TV Show,Office Hours,Reema Kagti,"Vicky Kaushal, Yami Gautam",USA,,2016,TV-14,4,"Thrillers, Anime Series",
+s365,TV Show,Power Play   ,Karan Johar,"Fawad Khan, Mahira Khan",UK,2021-03-05,1999,PG,1 Season,Stand-Up Comedy,
+s95,Movie,Falling Stars,Sajal Aly,"Rajkummar Rao, Kangana Ranaut",South korea ,2017-02-16,2014,r,,"Music & Musicals, International Movies, Sports Movies",
+s683,Movie,Falling Stars,Anurag Kashyap,"Mahira Khan, Hamza Ali Abbasi",South Korea,06-17-2015,2006,unrated,,"Thrillers, Kids' TV","When secrets from the past resurface, a family must confront their darkest truths."
+s410,Movie,The Silent Witness,Shoojit Sircar,"Priyanka Chopra, Farhan Akhtar",France,"January 08, 2018",2015,unrated,112,Kids' TV,
+s120,Movie,Northern Lights,Shoojit Sircar,,Japan,21/03/2023,2021,TV-PG,177 min,"Comedies, British TV Shows, Music & Musicals","When secrets from the past resurface, a family must confront their darkest truths."
+s832,Movie,The Outsiders Club   ,Sajal Aly,"Fawad Khan, Mahira Khan",united kingdom,2016-07-26,2000,PG,,Stand-Up Comedy,A small town hides a big secret that threatens to unravel everything.
+s846,TV Show,Medical Files,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",Pakistan,"August 29, 2019",2019,NR,6seasons,Action & Adventure,"In a city full of strangers, one chance encounter changes two lives forever."
+s9,Movie,Mirage,Ashutosh Gowariker,"Sajal Aly, Bilal Abbas",United Kingdom,23/06/2019,2014,PG13,88 min,"Thrillers, Reality TV, International Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s403,Movie,The Long Road Home,Zoya Akhtar,,U.S.A,,2003,TV-Y,,International Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s408,Movie,Beyond the Horizon,Imtiaz Ali,"Hania Aamir, Asim Azhar",USA,,2014,r,,Reality TV,A young detective races against time to solve a case that could change everything.
+s721,TV Show,Family Matters   ,Mahira Khan Productions,,,"October 27, 2023",2023,,7seasons,"Kids' TV, International Movies",
+s450,TV Show,Late Night Tales,Imtiaz Ali,"Sajal Aly, Bilal Abbas",South Korea, 23 April 2017 ,2019,PG-13,,"Documentaries, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s397,TV Show,Startup Wars,Anurag Kashyap,"Hania Aamir, Asim Azhar",UK,09-09-2015,2019,TV-PG,,"British TV Shows, Crime TV Shows",
+s213,Movie,Mirage,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",Japan,2018-04-29,2000,TV-PG,158 min,"Action & Adventure, International Movies, Stand-Up Comedy",Friends become rivals as ambition tears apart years of loyalty.
+s411,TV Show,The Detective,,"Vicky Kaushal, Yami Gautam",South korea ,10 December 2015,2002,TV-PG ,,"Music & Musicals, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s12,TV Show,The Trial,Hansal Mehta,"Shah Rukh Khan, Deepika Padukone",south korea,2016-01-18,2013,UR,1 season,"Dramas, Crime TV Shows","In a city full of strangers, one chance encounter changes two lives forever."
+s911,movie,Rebel Hearts,Sajal Aly,"Rajkummar Rao, Kangana Ranaut",Japan,05-26-2024,2011,TV-14,,Romantic Movies,A small town hides a big secret that threatens to unravel everything.
+s115,Movie,The Final Note,Rajkumar Hirani,"Priyanka Chopra, Farhan Akhtar",United States,16 October 2019,2009,TV-G,,"Romantic Movies, Sports Movies",An emotional journey of self discovery across three generations.
+s748,Movie,Quantum Break,Nadeem Baig,"Aamir Khan, Kareena Kapoor",South korea ,2023-03-15,2010,TV-MA,,"Documentaries, Dramas",
+s595,TV Show,Suits & Lies,Ashutosh Gowariker,Nawazuddin Siddiqui,united kingdom,"February 14, 2018",2023,PG13,2,Stand-Up Comedy,"In a city full of strangers, one chance encounter changes two lives forever."
+s694,Movie,The Outsiders Club,Asim Abbasi,Nawazuddin Siddiqui,united kingdom,12-09-2021,2011,TV-PG ,,"Comedies, Music & Musicals, Documentaries",A small town hides a big secret that threatens to unravel everything.
+s806,Movie,City of Dreams,Hansal Mehta,Nawazuddin Siddiqui,U.S.A,"February 13, 2018",2000,UR,129 minutes,"Dramas, Music & Musicals, Reality TV","When secrets from the past resurface, a family must confront their darkest truths."
+s563,TV Show,royal affairs,Shoojit Sircar,"Aamir Khan, Kareena Kapoor", India,12/07/2020,2010,tv-14,,"Romantic Movies, Dramas","In a city full of strangers, one chance encounter changes two lives forever."
+s453,movie,Stolen Memories,Karan Johar,"Priyanka Chopra, Farhan Akhtar",Canada,06-06-2018,2015,TV-14,,Romantic Movies,Friends become rivals as ambition tears apart years of loyalty.
+s22,TV Show,High School Heroes,Zoya Akhtar,,Germany,31/07/2019,2007,PG-13,,"Documentaries, Reality TV, Music & Musicals","In a city full of strangers, one chance encounter changes two lives forever."
+s274,TV Show,Late Night Tales,Ashutosh Gowariker,"Sajal Aly, Bilal Abbas",France,15/10/2021,2002,TV-PG ,9seasons,Reality TV,
+s919,TV Show,The Negotiator,Asim Abbasi,"Ayushmann Khurrana, Bhumi Pednekar",Germany,17 February 2015,2023,,,"Stand-Up Comedy, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s745,Movie,velvet sky,Imtiaz Ali,"Aamir Khan, Kareena Kapoor",united kingdom,2018-09-29,2021,NR,110,"Sports Movies, Kids' TV",
+s226,Movie,Broken Mirror,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",India,07 January 2017,2017,TV-MA,153 minutes,Crime TV Shows,A small town hides a big secret that threatens to unravel everything.
+s436,Movie,Static,,"Fawad Khan, Mahira Khan",India,21/09/2016,2023,TV-G,108 min,"Anime Series, International Movies, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s380,Movie,Love in Lahore,Shoojit Sircar,,united states,,2019,TV-14,110 min,"Romantic Movies, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s627,Movie,Crimson Tide,Karan Johar,"Sajal Aly, Bilal Abbas",Canada,2017-01-26,2011,PG13,131 minutes,Sports Movies,A young detective races against time to solve a case that could change everything.
+s704,TV Show,The Investigators,,"Hania Aamir, Asim Azhar",Germany,,2007,NR,9 Seasons,"British TV Shows, Horror Movies, Kids' TV",
+s157,TV Show,Reality Check,Hansal Mehta,Nawazuddin Siddiqui,Pakistan ,19/10/2023,2005,,8seasons,"Thrillers, Action & Adventure, Dramas",An emotional journey of self discovery across three generations.
+s362,Movie,Paper Moon,Anurag Kashyap,,Germany,09 November 2019,2011,,,Dramas,
+s232,TV Show,The Restaurant   ,Asim Abbasi,Nawazuddin Siddiqui,United States,09-13-2020,2023,TV-MA,,"Dramas, Anime Series, Comedies",A young detective races against time to solve a case that could change everything.
+s270,Movie,northern lights,Hansal Mehta,"Sajal Aly, Bilal Abbas",south korea,02-25-2021,2002,TV-MA,,Kids' TV,A young detective races against time to solve a case that could change everything.
+s159,TV Show,The Investigators   ,Karan Johar,,Pakistan,09-13-2015,2002,r,,"Stand-Up Comedy, Documentaries, Thrillers","In a city full of strangers, one chance encounter changes two lives forever."
+s141,TV Show,The Negotiator,Rajkumar Hirani,"Vicky Kaushal, Yami Gautam",Germany,"October 08, 2019",2018,R,,"Horror Movies, British TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s218,TV Show,Office Hours   ,,Nawazuddin Siddiqui,South Korea,2022-05-08,2017,PG13,,"Stand-Up Comedy, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s878,TV Show,HIGH SCHOOL HEROES,Vishal Bhardwaj,,Japan,11-07-2018,2016,,4seasons,"Horror Movies, Comedies",Friends become rivals as ambition tears apart years of loyalty.
+s84,Movie,Static,Rajkumar Hirani,"Vicky Kaushal, Yami Gautam",Canada,"October 04, 2023",2008,NR,,"Stand-Up Comedy, Action & Adventure",A small town hides a big secret that threatens to unravel everything.
+s934,TV Show,The Negotiator,Sooraj Barjatya,"Mahira Khan, Hamza Ali Abbasi",INDIA,01-24-2017,2007,UR,,"Horror Movies, International Movies, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s467,TV Show,Family Matters,,"Ayushmann Khurrana, Bhumi Pednekar",USA,,2012,r,,"Music & Musicals, Action & Adventure, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s789,Movie,Beyond the Horizon,Shoojit Sircar,"Vicky Kaushal, Yami Gautam",U.S.A,11-09-2016,2019,NR,,"Stand-Up Comedy, Sports Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s758,Movie,sunset boulevard 2,Ashutosh Gowariker,"Shah Rukh Khan, Deepika Padukone",INDIA,"July 28, 2022",2012,TV-PG ,,"Comedies, Romantic Movies",
+s676,Movie,Beyond the Horizon,Asim Abbasi,"Ranbir Kapoor, Alia Bhatt",india,04/06/2020,2024,TV-G,,"Music & Musicals, Comedies","In a city full of strangers, one chance encounter changes two lives forever."
+s652,TV Show,the detective,Anand L. Rai,"Ranbir Kapoor, Alia Bhatt",South korea ,"February 10, 2018",2021,TV-14,,"Comedies, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s534,Movie,Sunset Boulevard 2,Sajal Aly,"Aamir Khan, Kareena Kapoor",INDIA,29 January 2022,2001,TV-Y,,Documentaries,
+s391,TV Show,Late Night Tales,Ashutosh Gowariker,"Fawad Khan, Mahira Khan",,11-09-2018,2005,TV-Y,8seasons,"Anime Series, Crime TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s894,Movie,Velvet Sky,Shoojit Sircar,"Ayushmann Khurrana, Bhumi Pednekar",Pakistan,05 January 2020,2016,TV-PG ,133 min,Comedies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s66,TV Show,Family Matters   ,,"Fawad Khan, Mahira Khan",Canada,10-03-2019,2011,,2,"International Movies, Romantic Movies",
+s74,TV Show,  High School Heroes,Zoya Akhtar,"Priyanka Chopra, Farhan Akhtar",Canada,20 July 2024,2008,UNKNOWN,3,"Anime Series, Action & Adventure",
+s144,TV Show,Medical Files   ,,"Aamir Khan, Kareena Kapoor",France,"February 08, 2022",2021,NR,,"Dramas, British TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s581,movie,Beyond the Horizon,Meghna Gulzar,"Aamir Khan, Kareena Kapoor",Turkey,,2007,TV-Y,93,"Music & Musicals, Dramas",A small town hides a big secret that threatens to unravel everything.
+s331,TV Show,The Investigators,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar",India,26/07/2022,2001,unrated,1,"Documentaries, Stand-Up Comedy",
+s487,Movie,Stolen Memories,Sajal Aly,"Priyanka Chopra, Farhan Akhtar",Pakistan,05-12-2022,2009,TV-MA,173,Crime TV Shows,"In a city full of strangers, one chance encounter changes two lives forever."
+s30,TV Show,Mystery Lane,Meghna Gulzar,"Sajal Aly, Bilal Abbas",India,2017-10-09,2017,TV-PG ,8 Seasons,"Crime TV Shows, Thrillers, Horror Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s871,TV Show,The Newsroom 2,Rajkumar Hirani,"Priyanka Chopra, Farhan Akhtar",Canada,28 December 2021,2023,TV-MA,3seasons,Stand-Up Comedy,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s152,TV Show,Beyond Borders,,,USA,"July 06, 2019",2015,R,2,Crime TV Shows,A young detective races against time to solve a case that could change everything.
+s478,TV Show,Family Matters,Anurag Kashyap,,United Kingdom,27 April 2021,2011,TV-Y,,Thrillers,"When secrets from the past resurface, a family must confront their darkest truths."
+s414,Movie,Broken Mirror,Imtiaz Ali,"Ayushmann Khurrana, Bhumi Pednekar",india,20 August 2019,2020,UR,128 min,"Dramas, Music & Musicals, British TV Shows",A small town hides a big secret that threatens to unravel everything.
+s255,Movie,  The Last Train,Rajkumar Hirani,"Ayushmann Khurrana, Bhumi Pednekar",Japan,26/09/2016,2005,tv-14,147 min,Horror Movies,A young detective races against time to solve a case that could change everything.
+s633,Movie,Whispering Pines,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",South Korea,14/10/2018,1998,TV-PG,97 min,"Stand-Up Comedy, Romantic Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s127,Movie,The Forgotten Path,,"Ranbir Kapoor, Alia Bhatt",South Korea,"January 10, 2016",2012,r,76,"Music & Musicals, Kids' TV",
+s400,Movie,The Long Road Home,Rajkumar Hirani,"Vicky Kaushal, Yami Gautam",Pakistan,"June 02, 2021",2005,NR,89 minutes,"Reality TV, Stand-Up Comedy",
+s48,Movie,Silent Echoes,Anand L. Rai,"Shah Rukh Khan, Deepika Padukone",U.S.A,,2002,UNKNOWN,120 minutes,"Anime Series, Stand-Up Comedy","When secrets from the past resurface, a family must confront their darkest truths."
+s914,Movie,Whispering Pines,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",Japan,"April 08, 2022",2016,tv-14,,"Reality TV, Comedies, Crime TV Shows",An emotional journey of self discovery across three generations.
+s491,Movie,Rebel Hearts,Ashutosh Gowariker,"Fawad Khan, Mahira Khan",Pakistan,04-07-2019,2020,PG-13,,British TV Shows,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s309,Movie,Crimson Tide,Shoojit Sircar,"Aamir Khan, Kareena Kapoor",UK,08-15-2017,2010,TV-PG ,127 min,"Music & Musicals, Crime TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s890,Movie,The Glass House,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",Japan,25 September 2016,2008,tv-14,,"Thrillers, Horror Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s389,Movie,The Forgotten Path,Anand L. Rai,Nawazuddin Siddiqui,united kingdom,2017-09-20,2024,TV-MA,,"Sports Movies, Horror Movies",
+s663,TV Show,Mystery Lane,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",South Korea,,2011,NR,,"Reality TV, Sports Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s426,Movie,Northern Lights,Sooraj Barjatya,"Sajal Aly, Bilal Abbas",united kingdom," January 26, 2019 ",1998,TV-PG,,"Comedies, Dramas",Friends become rivals as ambition tears apart years of loyalty.
+s638,Movie,  The Outsiders Club,Vishal Bhardwaj,"Hania Aamir, Asim Azhar",U.S.A,07-31-2024,2020,UR,,Sports Movies,
+s198,Movie,Midnight Garden,Karan Johar,Nawazuddin Siddiqui,Pakistan," December 11, 2019 ",2018,UNKNOWN,,"Thrillers, Stand-Up Comedy, British TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s869,TV Show,Beyond Borders,Shoojit Sircar,"Sajal Aly, Bilal Abbas",Germany,"August 23, 2016",1998,TV-PG ,2seasons,Thrillers,"A thrilling ride through betrayal, power, and the cost of ambition."
+s93,Movie,Neon Nights,,"Fawad Khan, Mahira Khan",,14/03/2022,2023,TV-G,98 min,Music & Musicals,An emotional journey of self discovery across three generations.
+s742,TV Show,  Medical Files,Ashutosh Gowariker,"Priyanka Chopra, Farhan Akhtar",Pakistan ,2017-05-05,1998,tv-14,,Anime Series,Friends become rivals as ambition tears apart years of loyalty.
+s687,Movie,NEON NIGHTS,,"Hania Aamir, Asim Azhar",USA,03-06-2023,2006,UNKNOWN,91 minutes,"Comedies, Documentaries",A small town hides a big secret that threatens to unravel everything.
+s151,Movie,Mirage,Imtiaz Ali,"Hania Aamir, Asim Azhar",United States,29 May 2024,2015,PG,,Dramas,"In a city full of strangers, one chance encounter changes two lives forever."
+s101,TV Show,Startup Wars,Sajal Aly,Nawazuddin Siddiqui,South Korea,31/07/2022,2004,R,9,Reality TV,"In a city full of strangers, one chance encounter changes two lives forever."
+s435,Movie,Rebel Hearts,Ashutosh Gowariker,"Sajal Aly, Bilal Abbas",united kingdom,2019-03-15,2002,TV-MA,144 minutes,"Thrillers, Crime TV Shows",An emotional journey of self discovery across three generations.
+s470,TV Show,  Beyond Borders,Farhan Akhtar,"Aamir Khan, Kareena Kapoor",United Kingdom, 02-22-2021 ,2008,TV-MA,,"Documentaries, Reality TV, Action & Adventure",A small town hides a big secret that threatens to unravel everything.
+s825,Movie,  Velvet Sky,,"Irrfan Khan, Tabu",pakistan,12-23-2024,2000,PG13,71 minutes,"Thrillers, Dramas, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s887,TV Show,Startup Wars,Sooraj Barjatya,"Ayushmann Khurrana, Bhumi Pednekar",Japan,2024-07-15,2018,R,7seasons,"Dramas, Action & Adventure, Documentaries",
+s527,TV Show,The Restaurant,Farhan Akhtar,,Pakistan," January 15, 2024 ",1998,TV-G,,"International Movies, Stand-Up Comedy, Thrillers",
+s531,Movie,Dark Waters,,"Mahira Khan, Hamza Ali Abbasi",south korea, 2018-08-13 ,1998,UNKNOWN,158 min,"Action & Adventure, Reality TV, Crime TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s577,Movie,The Final Note,,Nawazuddin Siddiqui,Pakistan ,08 June 2024,2021,TV-14,152,Thrillers,A small town hides a big secret that threatens to unravel everything.
+s665,Movie,Neon Nights,Reema Kagti,"Vicky Kaushal, Yami Gautam",France,03 July 2019,2017,TV-MA,,Kids' TV,Friends become rivals as ambition tears apart years of loyalty.
+s824,Movie,Echoes of War,Imtiaz Ali,,South korea ,08-05-2017,2004,,,"Romantic Movies, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s41,Movie,Stolen Memories,,"Mahira Khan, Hamza Ali Abbasi", India,05-30-2018,2014,PG,,"Stand-Up Comedy, Reality TV, Romantic Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s596,TV Show,The Restaurant,Vishal Bhardwaj,"Mahira Khan, Hamza Ali Abbasi",France,28 November 2022,2024,TV-MA,1 season,Anime Series,Friends become rivals as ambition tears apart years of loyalty.
+s578,Movie,  City of Dreams,Rajkumar Hirani,"Aamir Khan, Kareena Kapoor",USA,"December 13, 2015",2017,TV-MA,,Thrillers,Friends become rivals as ambition tears apart years of loyalty.
+s421,TV Show,  Undercover,Karan Johar,"Fawad Khan, Mahira Khan",Japan, 11-06-2021 ,2019,TV-MA,,"International Movies, Reality TV",An emotional journey of self discovery across three generations.
+s874,TV Show,  Dance Academy,,,Japan,07-10-2020,2017,TV-G,,"Romantic Movies, British TV Shows, Music & Musicals",A young detective races against time to solve a case that could change everything.
+s767,TV Show,Dance Academy,,"Ranbir Kapoor, Alia Bhatt", India,03 November 2018,2018,UNKNOWN,5,"Thrillers, Documentaries","A thrilling ride through betrayal, power, and the cost of ambition."
+s476,Movie,The Last Heist,Rajkumar Hirani,"Priyanka Chopra, Farhan Akhtar",Canada,2019-12-28,2020,NR,128,"International Movies, Stand-Up Comedy, British TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s229,Movie,Echoes of War,Meghna Gulzar,"Rajkummar Rao, Kangana Ranaut",south korea,12-31-2023,2010,,77 minutes,"Thrillers, Music & Musicals","When secrets from the past resurface, a family must confront their darkest truths."
+s762,Movie,The Outsiders Club,Anurag Kashyap,"Vicky Kaushal, Yami Gautam",Turkey,"April 11, 2021",2002,UR,,International Movies,
+s412,TV Show,Dance Academy,Sajal Aly,"Fawad Khan, Mahira Khan",U.S.A,10-24-2017,2024,NR,5 Seasons,Action & Adventure,"In a city full of strangers, one chance encounter changes two lives forever."
+s930,TV Show,The Office India,,"Aamir Khan, Kareena Kapoor",India,2021-11-18,2019,UNKNOWN,8,Anime Series,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s685,Movie,Silent Echoes,Shoojit Sircar,"Sajal Aly, Bilal Abbas",United Kingdom,19/06/2022,2022,PG,,"Anime Series, Dramas",
+s686,TV Show,Late Night Tales,,"Shah Rukh Khan, Deepika Padukone",UK,04 July 2021,2010,TV-MA,,"Comedies, Crime TV Shows",An emotional journey of self discovery across three generations.
+s239,TV Show,Royal Affairs,Shoojit Sircar,"Hania Aamir, Asim Azhar",Japan,17 November 2024,2013,,,Romantic Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s254,Movie,Beyond the Horizon,Hansal Mehta,"Priyanka Chopra, Farhan Akhtar",U.S.A,24/03/2017,2019,tv-14,115 minutes,Documentaries,"In a city full of strangers, one chance encounter changes two lives forever."
+s150,Movie,The Silent Witness,,"Aamir Khan, Kareena Kapoor",India,20/05/2022,2017,TV-G,142,"Anime Series, Comedies",Friends become rivals as ambition tears apart years of loyalty.
+s702,Movie,Shadow Protocol,Shoojit Sircar,"Vicky Kaushal, Yami Gautam",Turkey,"October 30, 2020",2008,NR,,"Crime TV Shows, Romantic Movies, Documentaries",A young detective races against time to solve a case that could change everything.
+s879,tv show,Suits & Lies,Sooraj Barjatya,"Hania Aamir, Asim Azhar",,12-12-2017,2015,,,"Reality TV, British TV Shows, Romantic Movies",Friends become rivals as ambition tears apart years of loyalty.
+s118,Movie,Fragments,,,Pakistan ,12/09/2023,2015,R,,"International Movies, Anime Series",A small town hides a big secret that threatens to unravel everything.
+s117,TV Show,  Power Play,Sooraj Barjatya,,India,09 February 2017,2015,PG13,6,Crime TV Shows,Friends become rivals as ambition tears apart years of loyalty.
+s522,Movie,Echoes of War,,"Ranbir Kapoor, Alia Bhatt", India,01/12/2015,2012,NR,174 minutes,Comedies,"When secrets from the past resurface, a family must confront their darkest truths."
+s695,Movie,  Burning Bridges,Nadeem Baig,"Ayushmann Khurrana, Bhumi Pednekar",,,2017,TV-PG ,,"Reality TV, Documentaries",Friends become rivals as ambition tears apart years of loyalty.
+s153,Movie,Love in Lahore,Ashutosh Gowariker,,United Kingdom,12-20-2015,2017,R,154,Dramas,A young detective races against time to solve a case that could change everything.
+s805,Movie,echoes of war,Sajal Aly,"Hania Aamir, Asim Azhar",pakistan,30 January 2021,2000,TV-14,179,Kids' TV,A young detective races against time to solve a case that could change everything.
+s15,Movie,Velvet Sky,,"Aamir Khan, Kareena Kapoor",UK,02-08-2015,2016,TV-14,124 minutes,Horror Movies,"When secrets from the past resurface, a family must confront their darkest truths."
+s558,Movie,The Maze Runner X,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",France,11-26-2020,2014,TV-Y,,"British TV Shows, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s210,Movie,Hidden Truth,Karan Johar,"Ranbir Kapoor, Alia Bhatt",Canada,,2012,TV-PG,178 minutes,"Comedies, Anime Series, Stand-Up Comedy",
+s102,TV Show,Medical Files,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",Canada,06 June 2021,2010,TV-PG,5 Seasons,"Action & Adventure, Documentaries",A small town hides a big secret that threatens to unravel everything.
+s230,TV Show,City Lights,Imtiaz Ali,,India, 27 April 2016 ,2018,NR,7,Romantic Movies,An emotional journey of self discovery across three generations.
+s590,TV Show,The Detective,Zoya Akhtar,"Hania Aamir, Asim Azhar",South Korea,"November 30, 2021",1999,NR,,"Music & Musicals, Horror Movies, British TV Shows",An emotional journey of self discovery across three generations.
+s359,Movie,Shadow Protocol,Asim Abbasi,"Sajal Aly, Bilal Abbas",Turkey,"September 19, 2022",2001,TV-MA,,"British TV Shows, Reality TV, Kids' TV",An emotional journey of self discovery across three generations.
+s593,Movie,Whispering Pines,Sajal Aly,"Aamir Khan, Kareena Kapoor",Canada,"June 14, 2023",2019,tv-14,,Dramas,
+s107,tv show,City Lights,Anurag Kashyap,"Irrfan Khan, Tabu",United States,09/05/2020,1998,PG13,8,"Reality TV, Sports Movies",
+s289,Movie,Northern Lights,Ashutosh Gowariker,"Mahira Khan, Hamza Ali Abbasi",Germany,17/02/2023,1998,UNKNOWN,177 minutes,Romantic Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s129,movie,Whispering Pines   ,Sajal Aly,"Irrfan Khan, Tabu",pakistan,12/11/2015,2005,PG,,Romantic Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s324,TV Show,Medical Files,Sajal Aly,,India,2018-03-13,2008,PG,1 Season,"Comedies, Music & Musicals, Kids' TV",A young detective races against time to solve a case that could change everything.
+s427,Movie,Velvet Sky,Vishal Bhardwaj,"Rajkummar Rao, Kangana Ranaut",United States,22/12/2016,1998,TV-PG,108 min,"Crime TV Shows, Romantic Movies",A small town hides a big secret that threatens to unravel everything.
+s526,TV Show,The Trial,Meghna Gulzar,"Hania Aamir, Asim Azhar",France,31/07/2023,2003,NR,,"Documentaries, Kids' TV, Crime TV Shows",An emotional journey of self discovery across three generations.
+s872,TV Show,The Detective,Hansal Mehta,"Irrfan Khan, Tabu",Turkey,24 October 2017,2018,,,"Action & Adventure, Stand-Up Comedy, Comedies","In a city full of strangers, one chance encounter changes two lives forever."
+s63,TV Show,The Office India,Meghna Gulzar,"Vicky Kaushal, Yami Gautam",india,19 April 2021,2001,UNKNOWN,7 Seasons,"Reality TV, Documentaries","When secrets from the past resurface, a family must confront their darkest truths."
+s27,TV Show,undercover,Ashutosh Gowariker,"Irrfan Khan, Tabu",U.S.A,04-27-2017,2022,TV-MA,,Horror Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s249,TV Show,The Newsroom 2,Imtiaz Ali,"Vicky Kaushal, Yami Gautam",pakistan,"December 08, 2023",2004,,,Documentaries,An emotional journey of self discovery across three generations.
+s404,movie,The Forgotten Path   ,Farhan Akhtar,"Hania Aamir, Asim Azhar",U.S.A,,2002,,179 minutes,"Crime TV Shows, Action & Adventure",A small town hides a big secret that threatens to unravel everything.
+s551,Movie,The Last Heist,Shoojit Sircar,"Ayushmann Khurrana, Bhumi Pednekar",united kingdom,"March 24, 2016",2016,R,,Romantic Movies,"When secrets from the past resurface, a family must confront their darkest truths."
+s128,Movie,Desert Storm,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar",South Korea,20/02/2015,2022,,,Anime Series,A young detective races against time to solve a case that could change everything.
+s718,TV Show,High School Heroes,Vishal Bhardwaj,"Mahira Khan, Hamza Ali Abbasi",United Kingdom,22/05/2017,2009,TV-Y,,"Documentaries, Romantic Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s485,Movie,The Last Train,Zoya Akhtar,"Aamir Khan, Kareena Kapoor",pakistan,10 January 2015,2007,NR,,"Sports Movies, Dramas, Documentaries","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s488,Movie,Northern Lights,Sajal Aly,,U.S.A,"December 24, 2017",2015,UNKNOWN,,"Anime Series, Action & Adventure, Comedies","When secrets from the past resurface, a family must confront their darkest truths."
+s48,Movie,Silent Echoes,Anand L. Rai,"Shah Rukh Khan, Deepika Padukone",U.S.A,,2002,UNKNOWN,120 minutes,"Anime Series, Stand-Up Comedy","When secrets from the past resurface, a family must confront their darkest truths."
+s57,TV Show,Family Matters,,"Shah Rukh Khan, Deepika Padukone",Turkey,"February 19, 2018",2004,PG13,6 Seasons,"Horror Movies, Kids' TV, Stand-Up Comedy","A thrilling ride through betrayal, power, and the cost of ambition."
+s39,Movie,Quantum Break,Farhan Akhtar,"Ayushmann Khurrana, Bhumi Pednekar",Turkey,2016-02-11,2006,TV-PG,90 min,Dramas,An emotional journey of self discovery across three generations.
+s663,TV Show,Mystery Lane,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",South Korea,,2011,NR,,"Reality TV, Sports Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s923,Movie,Static,Nadeem Baig,"Mahira Khan, Hamza Ali Abbasi",India,26/09/2020,2012,,73,Horror Movies,
+s660,TV Show,The Investigators,Rajkumar Hirani,"Vicky Kaushal, Yami Gautam",Japan,21 October 2021,2001,NR,,"Music & Musicals, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s354,TV Show,The Investigators,,"Irrfan Khan, Tabu",,07-15-2019,2002,TV-14,2,"Sports Movies, International Movies",A young detective races against time to solve a case that could change everything.
+s54,TV Show,The Negotiator,Nadeem Baig,"Rajkummar Rao, Kangana Ranaut",united kingdom,17/01/2024,2008,PG,2seasons,Anime Series,
+s163,Movie,Sunset Boulevard 2,Anurag Kashyap,"Mahira Khan, Hamza Ali Abbasi",South Korea,"March 03, 2020",2016,UR,,Horror Movies,Friends become rivals as ambition tears apart years of loyalty.
+s462,TV Show,The Detective,,,Japan, 2022-05-28 ,2018,TV-Y,1,Stand-Up Comedy,A small town hides a big secret that threatens to unravel everything.
+s206,Movie,Falling Stars,Meghna Gulzar,"Mahira Khan, Hamza Ali Abbasi",United States,14/10/2022,2022,unrated,,"Reality TV, Music & Musicals, British TV Shows",An emotional journey of self discovery across three generations.
+s305,TV Show,  The Restaurant,,"Priyanka Chopra, Farhan Akhtar",Canada,08 November 2018,2013,unrated,,"Reality TV, Romantic Movies",A young detective races against time to solve a case that could change everything.
+s723,Movie,Stolen Memories,Shoojit Sircar,"Irrfan Khan, Tabu",,10-25-2022,2023,TV-G,150,"Kids' TV, Sports Movies",Friends become rivals as ambition tears apart years of loyalty.
+s318,TV Show,The Trial,Imtiaz Ali,"Fawad Khan, Mahira Khan",united states,06-25-2015,2023,NR,,Thrillers,"When secrets from the past resurface, a family must confront their darkest truths."
+s189,Movie,The Final Note,Anand L. Rai,"Ranbir Kapoor, Alia Bhatt",,11-28-2015,2003,TV-MA,117,Documentaries,A small town hides a big secret that threatens to unravel everything.
+s611,Movie,Falling Stars,Sajal Aly,"Shah Rukh Khan, Deepika Padukone",south korea,"November 13, 2018",2006,UR,99 minutes,"Anime Series, Music & Musicals, Romantic Movies",
+s492,Movie,Hidden Truth,Ashutosh Gowariker,"Sajal Aly, Bilal Abbas",india,"January 03, 2015",2008,unrated,95 min,"Documentaries, Romantic Movies",A small town hides a big secret that threatens to unravel everything.
+s434,TV Show,The Newsroom 2,Shoojit Sircar,,UK,09-14-2024,2021,PG,,"Music & Musicals, Horror Movies, British TV Shows",A small town hides a big secret that threatens to unravel everything.
+s180,Movie,Hidden Truth,Imtiaz Ali,"Hania Aamir, Asim Azhar",Canada,06-14-2024,2019,PG13,,"Kids' TV, Horror Movies",An emotional journey of self discovery across three generations.
+s300,Movie,Falling Stars,Mahira Khan Productions,"Sajal Aly, Bilal Abbas",South Korea,28/11/2023,2011,TV-Y,,"Anime Series, British TV Shows, Action & Adventure","In a city full of strangers, one chance encounter changes two lives forever."
+s706,TV Show,High School Heroes,Sooraj Barjatya,"Rajkummar Rao, Kangana Ranaut",united kingdom,2016-09-30,2017,TV-G,5seasons,"Kids' TV, Crime TV Shows, Horror Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s155,Movie,NEON NIGHTS,Sajal Aly,"Aamir Khan, Kareena Kapoor",Turkey,2016-04-17,1998,TV-MA,120 minutes,"Romantic Movies, Action & Adventure","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s433,Movie,Love in Lahore,Hansal Mehta,"Sajal Aly, Bilal Abbas",,24/05/2018,2017,NR,61 minutes,"Horror Movies, Anime Series",An emotional journey of self discovery across three generations.
+s834,Movie,  The Silent Witness,Karan Johar,"Hania Aamir, Asim Azhar",,26/08/2020,2006,,,"Sports Movies, Romantic Movies, Thrillers",
+s924,TV Show,City Lights,Hansal Mehta,"Ranbir Kapoor, Alia Bhatt",South korea ,2023-09-25,2010,NR,,British TV Shows,A young detective races against time to solve a case that could change everything.
+s570,Movie,Broken Mirror,Farhan Akhtar,"Shah Rukh Khan, Deepika Padukone",Pakistan , 23/01/2021 ,2024,R,109 min,Reality TV,"When secrets from the past resurface, a family must confront their darkest truths."
+s529,Movie,Velvet Sky,Ashutosh Gowariker,,USA,,1998,NR,,"Stand-Up Comedy, Action & Adventure",
+s681,Movie,The Final Note   ,Shoojit Sircar,"Rajkummar Rao, Kangana Ranaut",UK,09-20-2017,2018,,166 minutes,Thrillers,"In a city full of strangers, one chance encounter changes two lives forever."
+s947,Movie,Silent Echoes   ,Zoya Akhtar,,Japan,,2024,,,Crime TV Shows,A young detective races against time to solve a case that could change everything.
+s429,Movie,Beyond the Horizon,,"Sajal Aly, Bilal Abbas",Canada, 2018-09-04 ,2023,TV-PG ,,Action & Adventure,A small town hides a big secret that threatens to unravel everything.
+s721,TV Show,Family Matters   ,Mahira Khan Productions,,,"October 27, 2023",2023,,7seasons,"Kids' TV, International Movies",
+s477,Movie,Stolen Memories,Mahira Khan Productions,"Ranbir Kapoor, Alia Bhatt",United Kingdom,2018-02-10,2011,r,108,"Music & Musicals, Comedies","In a city full of strangers, one chance encounter changes two lives forever."
+s242,TV Show,Power Play   ,Karan Johar,Nawazuddin Siddiqui,United States,04 July 2016,2008,R,,"Comedies, Crime TV Shows, Sports Movies",A young detective races against time to solve a case that could change everything.
+s418,Movie,Shadow Protocol,Vishal Bhardwaj,"Irrfan Khan, Tabu",France,17 August 2022,2009,TV-MA,173 min,"British TV Shows, Kids' TV",A small town hides a big secret that threatens to unravel everything.
+s227,Movie,FRAGMENTS,Ashutosh Gowariker,"Ayushmann Khurrana, Bhumi Pednekar",South korea ,14 January 2017,2006,UNKNOWN,,"Action & Adventure, International Movies, Crime TV Shows",An emotional journey of self discovery across three generations.
+s364,Movie,Love in Lahore,Ashutosh Gowariker,"Aamir Khan, Kareena Kapoor",United States,2021-09-28,2001,TV-MA,165 minutes,"Sports Movies, Kids' TV",An emotional journey of self discovery across three generations.
+s521,Movie,The Silent Witness,Shoojit Sircar,"Shah Rukh Khan, Deepika Padukone",india,2020-04-08,2008,TV-G,163 minutes,"Sports Movies, International Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s72,Movie,Desert Storm,Reema Kagti,"Irrfan Khan, Tabu",south korea,"April 15, 2023",2023,PG-13,,Comedies,A small town hides a big secret that threatens to unravel everything.
+s829,Movie,Silent Echoes,Sajal Aly,"Aamir Khan, Kareena Kapoor",Germany,14 December 2020,2016,PG,,"Crime TV Shows, Thrillers, Sports Movies",A young detective races against time to solve a case that could change everything.
+s508,TV Show,legal eagles,Anurag Kashyap,"Sajal Aly, Bilal Abbas",Pakistan ,12/03/2015,2002,TV-MA,6,Reality TV,A small town hides a big secret that threatens to unravel everything.
+s714,Movie,Beyond the Horizon,Hansal Mehta,"Rajkummar Rao, Kangana Ranaut",USA,10/01/2022,2010,UR,,"Music & Musicals, Documentaries","A thrilling ride through betrayal, power, and the cost of ambition."
+s866,movie,Hidden Truth,Rajkumar Hirani,"Sajal Aly, Bilal Abbas",,02-21-2016,2001,PG,,Documentaries,"When secrets from the past resurface, a family must confront their darkest truths."
+s549,Movie,  The Last Train,Zoya Akhtar,"Aamir Khan, Kareena Kapoor",South korea ,07-16-2019,2005,R,86,"Reality TV, Horror Movies",
+s272,Movie,OCEAN'S WHISPER,Anand L. Rai,"Priyanka Chopra, Farhan Akhtar",India,,2014,unrated,110 min,"Horror Movies, Documentaries","In a city full of strangers, one chance encounter changes two lives forever."
+s861,Movie,Ocean's Whisper,Reema Kagti,"Sajal Aly, Bilal Abbas",Japan, 2022-01-12 ,2009,r,,"Music & Musicals, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s329,TV Show,Suits & Lies,Asim Abbasi,"Shah Rukh Khan, Deepika Padukone",India,2019-07-24,2007,tv-14,,"Reality TV, Action & Adventure, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s501,Movie,Ocean's Whisper,,"Sajal Aly, Bilal Abbas", India,02-07-2020,2014,TV-MA,,International Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s503,TV Show,Reality Check,Karan Johar,"Sajal Aly, Bilal Abbas",," February 04, 2021 ",1999,r,,"Romantic Movies, Dramas",Friends become rivals as ambition tears apart years of loyalty.
+s138,TV Show,Reality Check,,"Shah Rukh Khan, Deepika Padukone",South Korea,"June 04, 2018",2020,UR,,Anime Series,An emotional journey of self discovery across three generations.
+s771,Movie,Whispering Pines,Shoojit Sircar,"Irrfan Khan, Tabu", India,18/05/2016,1999,tv-14,,"Romantic Movies, Anime Series","When secrets from the past resurface, a family must confront their darkest truths."
+s386,movie,  Dark Waters,Ashutosh Gowariker,"Mahira Khan, Hamza Ali Abbasi",South Korea,02-07-2020,2006,TV-PG ,,"International Movies, Crime TV Shows",
+s776,TV Show,BEYOND BORDERS,Sooraj Barjatya,"Sajal Aly, Bilal Abbas",united states,15/10/2017,2010,PG,,Action & Adventure,A small town hides a big secret that threatens to unravel everything.
+s259,Movie,  Love in Lahore,Karan Johar,"Ranbir Kapoor, Alia Bhatt",United Kingdom," February 23, 2017 ",2018,PG,,"Comedies, Documentaries",Friends become rivals as ambition tears apart years of loyalty.
+s483,Movie,The Last Heist,Ashutosh Gowariker,,,01 August 2020,2019,TV-14,61,"Dramas, Horror Movies, Crime TV Shows",
+s14,TV Show,The Office India,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar",united kingdom,06 May 2016,2017,tv-14,,"Stand-Up Comedy, Music & Musicals, Romantic Movies",Friends become rivals as ambition tears apart years of loyalty.
+s313,TV Show,Office Hours,Vishal Bhardwaj,"Aamir Khan, Kareena Kapoor", India,09-13-2015,1999,r,,Sports Movies,Friends become rivals as ambition tears apart years of loyalty.
+s345,tv show,STARTUP WARS,,"Ranbir Kapoor, Alia Bhatt",Turkey,05/02/2021,2024,R,5,Horror Movies,A young detective races against time to solve a case that could change everything.
+s123,TV Show,The Trial,Asim Abbasi,"Aamir Khan, Kareena Kapoor",Pakistan," August 16, 2024 ",2010,unrated,1 Season,"Documentaries, Comedies, Thrillers",An emotional journey of self discovery across three generations.
+s422,Movie,  Falling Stars,Sooraj Barjatya,Nawazuddin Siddiqui,Turkey,"October 23, 2018",2008,TV-14,73 min,"Crime TV Shows, Music & Musicals, Reality TV",A young detective races against time to solve a case that could change everything.
+s921,TV Show,Medical Files,Rajkumar Hirani,"Aamir Khan, Kareena Kapoor",united states,27/04/2016,2000,TV-G,2,"Comedies, Thrillers",
+s594,TV Show,Royal Affairs,Mahira Khan Productions,"Fawad Khan, Mahira Khan",united kingdom,,2004,,,"Romantic Movies, British TV Shows, Thrillers","In a city full of strangers, one chance encounter changes two lives forever."
+s755,Movie,  Rebel Hearts,Imtiaz Ali,"Aamir Khan, Kareena Kapoor",INDIA," August 19, 2022 ",2012,TV-G,,Reality TV,"A thrilling ride through betrayal, power, and the cost of ambition."
+s132,Movie,Stolen Memories,Karan Johar,,USA,09-15-2021,2015,TV-G,161 minutes,"Action & Adventure, Comedies, Anime Series",Friends become rivals as ambition tears apart years of loyalty.
+s943,TV Show,Undercover,Zoya Akhtar,"Priyanka Chopra, Farhan Akhtar",united kingdom,26 April 2020,2000,TV-Y,3,"Kids' TV, Music & Musicals","A thrilling ride through betrayal, power, and the cost of ambition."
+s169,Movie,Crimson Tide,Ashutosh Gowariker,"Vicky Kaushal, Yami Gautam",Japan,14 December 2016,2017,PG-13,135,"Reality TV, Horror Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s28,TV Show,City Lights,Hansal Mehta,"Vicky Kaushal, Yami Gautam",United Kingdom,01-22-2018,2010,UNKNOWN,7seasons,"Romantic Movies, Reality TV",
+s493,Movie,Silent Echoes,Hansal Mehta,"Vicky Kaushal, Yami Gautam",South Korea,31/01/2024,2016,TV-Y,143,"Anime Series, Comedies, Music & Musicals",A young detective races against time to solve a case that could change everything.
+s784,TV Show,Family Matters,,"Vicky Kaushal, Yami Gautam",United States,05-21-2018,1998,PG,,"Music & Musicals, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s286,tv show,Reality Check,Vishal Bhardwaj,"Aamir Khan, Kareena Kapoor",South korea ,15 June 2016,2014,PG,8seasons,"Thrillers, Horror Movies, Romantic Movies",Friends become rivals as ambition tears apart years of loyalty.
+s709,TV Show,Medical Files,Zoya Akhtar,"Sajal Aly, Bilal Abbas",USA,"July 21, 2023",2017,TV-PG ,,Crime TV Shows,Friends become rivals as ambition tears apart years of loyalty.
+s394,Movie,Shadow Protocol,Anand L. Rai,"Vicky Kaushal, Yami Gautam",united kingdom,09 March 2016,2001,TV-MA,124 min,Horror Movies,A young detective races against time to solve a case that could change everything.
+s261,TV Show,Royal Affairs,Mahira Khan Productions,"Priyanka Chopra, Farhan Akhtar",Turkey,02 January 2017,2011,TV-Y,,Documentaries,A young detective races against time to solve a case that could change everything.
+s917,Movie,Midnight Garden,,"Aamir Khan, Kareena Kapoor",south korea,"December 18, 2023",2019,NR,,"Romantic Movies, Music & Musicals","When secrets from the past resurface, a family must confront their darkest truths."
+s193,Movie,City of Dreams,Sooraj Barjatya,"Shah Rukh Khan, Deepika Padukone",U.S.A,"April 21, 2017",2019,,139,"International Movies, Kids' TV",
+s649,Movie,The Last Heist,Reema Kagti,,Germany,2021-12-08,2018,,,"Documentaries, British TV Shows",
+s111,Movie,The Maze Runner X,Farhan Akhtar,,pakistan,2023-05-13,1999,tv-14,129 min,"Comedies, Romantic Movies",An emotional journey of self discovery across three generations.
+s944,Movie,static,Hansal Mehta,"Mahira Khan, Hamza Ali Abbasi", India,2021-12-12,2023,TV-MA,143 minutes,International Movies,A young detective races against time to solve a case that could change everything.
+s812,TV Show,  The Detective,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",Germany,23 November 2015,2020,NR,5 Seasons,"Comedies, Romantic Movies",An emotional journey of self discovery across three generations.
+s174,Movie,The Outsiders Club,Hansal Mehta,"Aamir Khan, Kareena Kapoor",Canada,07-23-2015,2024,TV-MA,106 min,"Sports Movies, International Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s26,Movie,Velvet Sky,,"Aamir Khan, Kareena Kapoor",Germany,06/09/2017,2020,r,,Romantic Movies,A young detective races against time to solve a case that could change everything.
+s448,TV Show,Undercover,Shoojit Sircar,"Shah Rukh Khan, Deepika Padukone",South korea ,01-13-2020,2021,,1 season,International Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s912,Movie,Hidden Truth,Ashutosh Gowariker,"Shah Rukh Khan, Deepika Padukone",united states,"April 13, 2015",1999,unrated,75 minutes,Dramas,"In a city full of strangers, one chance encounter changes two lives forever."
+s820,Movie,Rebel Hearts,Nadeem Baig,"Rajkummar Rao, Kangana Ranaut",USA,2020-05-21,2002,PG13,122,"Romantic Movies, Comedies, Sports Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s769,Movie,The Maze Runner X,Sajal Aly,"Shah Rukh Khan, Deepika Padukone",Canada,22 April 2017,2024,UNKNOWN,123,"Sports Movies, Horror Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s334,Movie,Love in Lahore   ,Nadeem Baig,"Shah Rukh Khan, Deepika Padukone",Japan,16 April 2017,1998,UNKNOWN,,"British TV Shows, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s241,Movie,Hidden Truth,,"Hania Aamir, Asim Azhar",U.S.A,13/09/2019,2010,TV-PG ,76,Kids' TV,Friends become rivals as ambition tears apart years of loyalty.
+s809,Movie,Lost in Karachi,Ashutosh Gowariker,,South Korea,2015-12-16,2017,TV-14,,"Stand-Up Comedy, Comedies, Reality TV","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s605,TV Show,Royal Affairs,Farhan Akhtar,"Mahira Khan, Hamza Ali Abbasi",Germany,03-12-2015,2009,TV-14,8seasons,"Dramas, Crime TV Shows, Anime Series",Friends become rivals as ambition tears apart years of loyalty.
+s42,TV Show,The Investigators,Imtiaz Ali,"Vicky Kaushal, Yami Gautam",Canada,2023-07-23,2018,r,,"Sports Movies, Comedies",A small town hides a big secret that threatens to unravel everything.
+s171,Movie,Burning Bridges,Sajal Aly,,Pakistan,07/07/2022,2006,tv-14,104 min,"Dramas, Sports Movies, Crime TV Shows",A small town hides a big secret that threatens to unravel everything.
+s733,TV Show,Late Night Tales   ,,"Aamir Khan, Kareena Kapoor",France,2021-09-19,2008,TV-PG,,"Action & Adventure, Dramas",A small town hides a big secret that threatens to unravel everything.
+s822,Movie,Mirage,,Nawazuddin Siddiqui,India,22/03/2015,2022,TV-Y,121,Reality TV,An emotional journey of self discovery across three generations.
+s796,TV Show,The Trial,Reema Kagti,"Aamir Khan, Kareena Kapoor",,2019-09-09,2007,PG-13,,Romantic Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s224,TV Show,The Office India,Sooraj Barjatya,"Mahira Khan, Hamza Ali Abbasi",USA,24/09/2024,2013,TV-MA,9seasons,"Documentaries, International Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s635,Movie,Silent Echoes,Anurag Kashyap,"Hania Aamir, Asim Azhar",Canada,2015-04-02,2006,TV-14,167 min,Kids' TV,"In a city full of strangers, one chance encounter changes two lives forever."
+s58,Movie,City of Dreams,Anand L. Rai,"Shah Rukh Khan, Deepika Padukone",Turkey,27/07/2015,2002,PG-13,,Crime TV Shows,Friends become rivals as ambition tears apart years of loyalty.
+s401,TV Show,Startup Wars,Zoya Akhtar,"Hania Aamir, Asim Azhar",Pakistan , 01-19-2019 ,2020,UR,2 Seasons,British TV Shows,A young detective races against time to solve a case that could change everything.
+s223,TV Show,Beyond Borders,Anand L. Rai,"Mahira Khan, Hamza Ali Abbasi",,22 November 2022,2006,R,,Anime Series,An emotional journey of self discovery across three generations.
+s384,Movie,Beyond the Horizon,Anand L. Rai,,,21 July 2020,2014,unrated,,"Romantic Movies, Action & Adventure","In a city full of strangers, one chance encounter changes two lives forever."
+s597,Movie,The Forgotten Path,Sajal Aly,,INDIA,"October 27, 2024",2021,TV-MA,,"Crime TV Shows, Horror Movies, Action & Adventure","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s547,Movie,THE MAZE RUNNER X,Imtiaz Ali,Nawazuddin Siddiqui,Japan, 29 April 2016 ,2011,UR,125 minutes,Music & Musicals,"In a city full of strangers, one chance encounter changes two lives forever."
+s371,TV Show,Code Red,,"Ranbir Kapoor, Alia Bhatt",Pakistan , 09 July 2018 ,2003,UNKNOWN,,"British TV Shows, Anime Series, Documentaries",A small town hides a big secret that threatens to unravel everything.
+s251,movie,Sunset Boulevard 2,,Nawazuddin Siddiqui,india,"December 31, 2020",2001,TV-PG ,151 min,Action & Adventure,A young detective races against time to solve a case that could change everything.
+s268,Movie,  The Last Train,Ashutosh Gowariker,"Hania Aamir, Asim Azhar",Turkey,07-14-2022,2009,NR,63 minutes,Horror Movies,
+s64,Movie,fragments,Zoya Akhtar,"Hania Aamir, Asim Azhar",South Korea,15 February 2018,2011,NR,178 minutes,Documentaries,"In a city full of strangers, one chance encounter changes two lives forever."
+s765,TV Show,The Detective,Karan Johar,Nawazuddin Siddiqui,Germany,2022-03-31,2014,tv-14,,British TV Shows,"When secrets from the past resurface, a family must confront their darkest truths."
+s181,Movie,sunset boulevard 2,Ashutosh Gowariker,,south korea,"March 16, 2024",2003,,,"Dramas, Action & Adventure, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s599,TV Show,The Newsroom 2,Ashutosh Gowariker,Nawazuddin Siddiqui,,12-22-2016,2019,UR,,"British TV Shows, Stand-Up Comedy",Friends become rivals as ambition tears apart years of loyalty.
+s625,TV Show,The Investigators,Ashutosh Gowariker,,united kingdom,10/02/2023,2013,R,1 season,"International Movies, Crime TV Shows, Music & Musicals","In a city full of strangers, one chance encounter changes two lives forever."
+s532,Movie,The Maze Runner X,Meghna Gulzar,"Ranbir Kapoor, Alia Bhatt",Pakistan ,2021-01-02,2023,R,144 min,Dramas,
+s87,TV Show,The Negotiator,,"Fawad Khan, Mahira Khan",Japan,03-04-2019,2016,NR,7,"Kids' TV, International Movies, Comedies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s221,TV Show,Royal Affairs,Karan Johar,"Hania Aamir, Asim Azhar",UK,11/08/2024,2014,TV-G,,Thrillers,
+s97,Movie,The Outsiders Club,Sooraj Barjatya,"Priyanka Chopra, Farhan Akhtar",south korea,27 December 2021,2001,NR,180,Anime Series,
+s761,Movie,Hidden Truth,Ashutosh Gowariker,"Shah Rukh Khan, Deepika Padukone",pakistan,15/06/2022,2014,TV-PG,75 min,"Documentaries, Stand-Up Comedy, International Movies",A small town hides a big secret that threatens to unravel everything.
+s855,Movie,Echoes of War,Hansal Mehta,"Fawad Khan, Mahira Khan",,,2015,UR,,Music & Musicals,A young detective races against time to solve a case that could change everything.
+s307,TV Show,Office Hours   ,Nadeem Baig,"Aamir Khan, Kareena Kapoor",India,2021-10-09,2021,unrated,6seasons,"Thrillers, Sports Movies",A young detective races against time to solve a case that could change everything.
+s598,Movie,Eternal Sunshine 2,Asim Abbasi,,south korea,07/01/2017,2007,PG,,"Sports Movies, Romantic Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s603,Movie,midnight garden,Asim Abbasi,"Fawad Khan, Mahira Khan", India,03-28-2019,2021,TV-14,,Dramas,
+s177,Movie,Beyond the Horizon,Reema Kagti,"Vicky Kaushal, Yami Gautam",Turkey,06-29-2023,2003,PG-13,76 min,"British TV Shows, International Movies, Sports Movies",A young detective races against time to solve a case that could change everything.
+s770,Movie,Northern Lights   ,,"Shah Rukh Khan, Deepika Padukone",USA," May 30, 2019 ",2023,PG,,"British TV Shows, International Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s59,Movie,  The Silent Witness,Karan Johar,"Ranbir Kapoor, Alia Bhatt",UK,"May 31, 2022",2009,PG-13,101,"Comedies, Action & Adventure",An emotional journey of self discovery across three generations.
+s643,Movie,THE LAST TRAIN,,Nawazuddin Siddiqui,South Korea,,2017,TV-G,125,Music & Musicals,"A thrilling ride through betrayal, power, and the cost of ambition."
+s564,Movie,The Last Heist,Rajkumar Hirani,,Turkey,2018-12-23,2021,TV-MA,,Horror Movies,
+s439,TV Show,Code Red,Farhan Akhtar,"Ayushmann Khurrana, Bhumi Pednekar",, 2018-02-02 ,2002,UR,,"Sports Movies, Thrillers",A small town hides a big secret that threatens to unravel everything.
+s848,Movie,Love in Lahore,Nadeem Baig,"Hania Aamir, Asim Azhar", India,30/05/2015,2015,TV-MA,166 min,"Thrillers, Sports Movies",An emotional journey of self discovery across three generations.
+s830,TV Show,Office Hours,,"Sajal Aly, Bilal Abbas",India,04-25-2018,2012,TV-14,3 Seasons,International Movies,
+s238,TV Show,OFFICE HOURS,Mahira Khan Productions,Nawazuddin Siddiqui,United Kingdom,14/10/2024,2004,TV-Y,3 Seasons,Action & Adventure,A small town hides a big secret that threatens to unravel everything.
+s680,TV Show,Power Play,Sooraj Barjatya,"Aamir Khan, Kareena Kapoor",south korea,05-05-2020,2021,TV-MA,2,"Reality TV, International Movies, Horror Movies",
+s583,TV Show,mystery lane,,"Fawad Khan, Mahira Khan",south korea, 03/07/2021 ,2020,r,5 Seasons,"Horror Movies, Kids' TV, Sports Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s642,TV Show,The Newsroom 2,Sajal Aly,,France,09-09-2019,2018,PG13,,"Action & Adventure, Reality TV, Music & Musicals",An emotional journey of self discovery across three generations.
+s669,TV Show,The Negotiator,Vishal Bhardwaj,"Irrfan Khan, Tabu", India,01-13-2019,2001,TV-MA,,"Anime Series, British TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s267,Movie,Broken Mirror,Shoojit Sircar,"Ayushmann Khurrana, Bhumi Pednekar",Germany,12-15-2015,2022,TV-PG,,"Crime TV Shows, Kids' TV",
+s852,Movie,  The Final Note,Asim Abbasi,,,24/02/2016,2020,TV-MA,,"Action & Adventure, Anime Series, Romantic Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s860,TV Show,startup wars,Anurag Kashyap,,South korea ," March 26, 2024 ",2000,TV-MA,5 Seasons,"Action & Adventure, British TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s828,Movie,Paper Moon,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",United States,2024-05-07,1998,TV-MA,,Action & Adventure,A young detective races against time to solve a case that could change everything.
+s672,Movie,  Crimson Tide,Mahira Khan Productions,"Aamir Khan, Kareena Kapoor",united states,22 December 2017,2023,TV-MA,120,"Comedies, Kids' TV",An emotional journey of self discovery across three generations.
+s417,movie,The Silent Witness,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar", India,2021-05-23,2021,PG-13,,"Kids' TV, Stand-Up Comedy, Sports Movies",A small town hides a big secret that threatens to unravel everything.
+s773,Movie,IRON WILL,Sooraj Barjatya,"Sajal Aly, Bilal Abbas",india,09 January 2016,2006,TV-14,,Thrillers,A small town hides a big secret that threatens to unravel everything.
+s215,Movie,Sunset Boulevard 2,Ashutosh Gowariker,"Hania Aamir, Asim Azhar",, 25 January 2015 ,2021,TV-14,105 min,"Reality TV, Sports Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s445,TV Show,The Detective,Asim Abbasi,"Sajal Aly, Bilal Abbas",USA,,1998,PG13,2seasons,Documentaries,A young detective races against time to solve a case that could change everything.
+s684,TV Show,Dance Academy,Asim Abbasi,"Rajkummar Rao, Kangana Ranaut",Japan, 11-07-2019 ,2001,R,5,"Stand-Up Comedy, Crime TV Shows, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s374,TV Show,Office Hours,Shoojit Sircar,"Irrfan Khan, Tabu",united kingdom,01/06/2017,2004,UR,3 Seasons,"Kids' TV, International Movies",
+s203,TV Show,Legal Eagles,Zoya Akhtar,"Aamir Khan, Kareena Kapoor",United Kingdom,07-22-2024,2024,TV-Y,,International Movies,A small town hides a big secret that threatens to unravel everything.
+s566,Movie,Quantum Break,Sooraj Barjatya,"Shah Rukh Khan, Deepika Padukone",united kingdom,"August 07, 2017",2013,PG,157,Documentaries,An emotional journey of self discovery across three generations.
+s160,TV Show,Family Matters,,"Shah Rukh Khan, Deepika Padukone",INDIA,07-10-2018,2009,PG-13,8,"Kids' TV, British TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s787,Movie,Mirage,Anand L. Rai,"Vicky Kaushal, Yami Gautam",UK,22 June 2022,2016,TV-PG,108 minutes,"Music & Musicals, Horror Movies, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s338,TV Show,The Trial,Karan Johar,"Fawad Khan, Mahira Khan",Germany,18/09/2018,2007,TV-PG,8,"International Movies, Horror Movies, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s658,Movie,Burning Bridges,Vishal Bhardwaj,Nawazuddin Siddiqui,South korea ,"September 05, 2019",2010,UR,142,"Kids' TV, Dramas",Friends become rivals as ambition tears apart years of loyalty.
+s88,Movie,Eternal Sunshine 2,Zoya Akhtar,"Aamir Khan, Kareena Kapoor",Japan,11/11/2021,2013,TV-PG ,69,"Music & Musicals, Comedies, Anime Series","A thrilling ride through betrayal, power, and the cost of ambition."
+s539,TV Show,Power Play,Vishal Bhardwaj,"Mahira Khan, Hamza Ali Abbasi", India,2021-09-30,2001,TV-14,,"Stand-Up Comedy, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s393,Movie,CRIMSON TIDE,Reema Kagti,"Fawad Khan, Mahira Khan",South Korea,2021-12-04,2005,NR,160 min,"Kids' TV, Music & Musicals, Action & Adventure",
+s540,Movie,Beyond the Horizon,Ashutosh Gowariker,"Shah Rukh Khan, Deepika Padukone",INDIA,08-18-2021,1998,UNKNOWN,160 min,"Reality TV, Action & Adventure",An emotional journey of self discovery across three generations.
+s166,TV Show,Suits & Lies,Asim Abbasi,"Aamir Khan, Kareena Kapoor",UK,2015-08-18,2023,TV-PG ,3seasons,"Stand-Up Comedy, Anime Series, Horror Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s231,Movie,Static,Meghna Gulzar,"Ayushmann Khurrana, Bhumi Pednekar",,04-14-2017,2015,NR,121 minutes,"Horror Movies, Anime Series",An emotional journey of self discovery across three generations.
+s279,TV Show,MYSTERY LANE,Anand L. Rai,"Irrfan Khan, Tabu",Canada,27/09/2019,1999,TV-PG,,International Movies,A young detective races against time to solve a case that could change everything.
+s727,Movie,Rebel Hearts,Hansal Mehta,"Ayushmann Khurrana, Bhumi Pednekar",Pakistan,2015-11-07,2008,PG-13,,"British TV Shows, Kids' TV","In a city full of strangers, one chance encounter changes two lives forever."
+s289,Movie,Northern Lights,Ashutosh Gowariker,"Mahira Khan, Hamza Ali Abbasi",Germany,17/02/2023,1998,UNKNOWN,177 minutes,Romantic Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s350,Movie,The Last Heist,Mahira Khan Productions,"Aamir Khan, Kareena Kapoor",UK,"February 19, 2023",2014,PG,149,"International Movies, Action & Adventure","A thrilling ride through betrayal, power, and the cost of ambition."
+s664,TV Show,The Investigators   ,Hansal Mehta,"Vicky Kaushal, Yami Gautam",INDIA,"June 28, 2024",2012,PG-13,,"Music & Musicals, Thrillers",A young detective races against time to solve a case that could change everything.
+s419,Movie,Northern Lights   ,,"Vicky Kaushal, Yami Gautam",,09-25-2022,2005,NR,99 min,Sports Movies,An emotional journey of self discovery across three generations.
+s797,Movie,City of Dreams   ,Anand L. Rai,"Ranbir Kapoor, Alia Bhatt", India,24/09/2018,2020,UR,,"Reality TV, Music & Musicals, Horror Movies",Friends become rivals as ambition tears apart years of loyalty.
+s679,Movie,The Silent Witness,,"Rajkummar Rao, Kangana Ranaut",india,25 January 2019,2014,TV-PG ,,Romantic Movies,
+s708,Movie,Crimson Tide,Nadeem Baig,,France,19/03/2018,2006,tv-14,165,Sports Movies,Friends become rivals as ambition tears apart years of loyalty.
+s837,TV Show,Mystery Lane,Asim Abbasi,"Irrfan Khan, Tabu",Turkey,06/12/2021,1998,NR,3seasons,Comedies,"In a city full of strangers, one chance encounter changes two lives forever."
+s70,TV Show,The Negotiator,,"Rajkummar Rao, Kangana Ranaut", India,2017-03-19,2022,TV-14,,"Music & Musicals, Stand-Up Comedy",
+s388,Movie,Midnight Garden,Mahira Khan Productions,"Rajkummar Rao, Kangana Ranaut",U.S.A,2022-04-15,2018,NR,,Sports Movies,An emotional journey of self discovery across three generations.
+s701,Movie,The Silent Witness   ,,"Mahira Khan, Hamza Ali Abbasi",U.S.A,02-22-2021,2001,TV-14,91,Sports Movies,Friends become rivals as ambition tears apart years of loyalty.
+s425,TV Show,Dance Academy,,"Ayushmann Khurrana, Bhumi Pednekar",Turkey,2018-09-08,2023,PG,4 Seasons,"Thrillers, Horror Movies, International Movies",A small town hides a big secret that threatens to unravel everything.
+s197,Movie,City of Dreams,Anand L. Rai,"Aamir Khan, Kareena Kapoor",Japan,2022-04-11,2020,TV-PG,,"Music & Musicals, Action & Adventure",
+s46,TV Show,The Office India,Ashutosh Gowariker,"Hania Aamir, Asim Azhar",Germany,11/01/2015,2024,PG,,"Sports Movies, Documentaries, Music & Musicals",
+s774,TV Show,The Detective,Imtiaz Ali,"Sajal Aly, Bilal Abbas",France,09-22-2021,2005,tv-14,,"Romantic Movies, Horror Movies",An emotional journey of self discovery across three generations.
+s78,Movie,The Final Note,Mahira Khan Productions,"Vicky Kaushal, Yami Gautam",Canada,22/05/2020,2001,NR,168 min,Kids' TV,A small town hides a big secret that threatens to unravel everything.
+s818,TV Show,Suits & Lies,Vishal Bhardwaj,"Irrfan Khan, Tabu",south korea,2019-12-22,2002,NR,4seasons,"Sports Movies, Romantic Movies",An emotional journey of self discovery across three generations.
+s939,TV Show,Code Red,Nadeem Baig,"Priyanka Chopra, Farhan Akhtar",INDIA,2021-04-02,2006,r,1 Season,"British TV Shows, Romantic Movies, Music & Musicals","A thrilling ride through betrayal, power, and the cost of ambition."
+s514,TV Show,Mystery Lane,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar",Turkey," June 04, 2020 ",2000,TV-MA,6,"Crime TV Shows, Documentaries",An emotional journey of self discovery across three generations.
+s262,Movie,Crimson Tide,,Nawazuddin Siddiqui,South Korea,22/08/2018,2018,NR,,Anime Series,
+s212,Movie,Falling Stars,Hansal Mehta,"Rajkummar Rao, Kangana Ranaut",India,11-18-2018,2018,PG-13,173 minutes,"International Movies, Crime TV Shows","In a city full of strangers, one chance encounter changes two lives forever."
+s632,TV Show,The Negotiator   ,Sajal Aly,"Irrfan Khan, Tabu",USA, 2015-11-24 ,2020,PG-13,,"Music & Musicals, Crime TV Shows, Dramas",A small town hides a big secret that threatens to unravel everything.
+s277,Movie,rebel hearts,Ashutosh Gowariker,"Vicky Kaushal, Yami Gautam",Canada,2017-06-30,2000,unrated,122 minutes,"Thrillers, Crime TV Shows",An emotional journey of self discovery across three generations.
+s815,TV Show,Power Play,Asim Abbasi,"Fawad Khan, Mahira Khan",South korea ,27 February 2017,2002,,,"Kids' TV, International Movies",
+s810,TV Show,The Detective,Ashutosh Gowariker,"Aamir Khan, Kareena Kapoor", India,2018-05-14,2024,TV-PG ,5,"Action & Adventure, Kids' TV","A thrilling ride through betrayal, power, and the cost of ambition."
+s126,Movie,Falling Stars,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",,01-20-2020,2015,TV-G,,Reality TV,Friends become rivals as ambition tears apart years of loyalty.
+s777,Movie,Neon Nights,Sooraj Barjatya,"Fawad Khan, Mahira Khan",,"October 04, 2019",2009,NR,93,Thrillers,
+s585,TV Show,  Dance Academy,Meghna Gulzar,"Fawad Khan, Mahira Khan",INDIA,"April 15, 2015",2023,,6seasons,"Comedies, Stand-Up Comedy",A young detective races against time to solve a case that could change everything.
+s347,Movie,Midnight Garden,Farhan Akhtar,,united kingdom,13 September 2021,2008,r,63 min,Romantic Movies,A young detective races against time to solve a case that could change everything.
+s216,TV Show,Beyond Borders,Imtiaz Ali,Nawazuddin Siddiqui,Pakistan ,21 May 2019,2018,UNKNOWN,6 Seasons,"Romantic Movies, Comedies, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s463,Movie,Falling Stars,Meghna Gulzar,"Irrfan Khan, Tabu",Japan,"August 11, 2024",2007,TV-PG,,"Comedies, Action & Adventure, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s21,Movie,Quantum Break,Nadeem Baig,"Fawad Khan, Mahira Khan",USA,27/10/2023,2014,,,Crime TV Shows,"A thrilling ride through betrayal, power, and the cost of ambition."
+s867,Movie,Desert Storm,,"Priyanka Chopra, Farhan Akhtar",Pakistan,05 December 2017,2011,,,"Music & Musicals, International Movies, Anime Series",An emotional journey of self discovery across three generations.
+s17,Movie,Velvet Sky,Nadeem Baig,"Mahira Khan, Hamza Ali Abbasi",India, 01/10/2019 ,2008,R,,"British TV Shows, Kids' TV, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s883,Movie,  Fragments,Meghna Gulzar,"Ranbir Kapoor, Alia Bhatt",south korea,09/08/2024,2002,NR,,"Comedies, Documentaries",
+s8,Movie,Mirage,,"Hania Aamir, Asim Azhar", India,08/11/2024,2005,TV-14,70 min,"Romantic Movies, Action & Adventure, Stand-Up Comedy",A small town hides a big secret that threatens to unravel everything.
+s36,TV Show,The Newsroom 2,Mahira Khan Productions,"Sajal Aly, Bilal Abbas",Canada,11 July 2023,2001,R,4,Reality TV,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s712,Movie,The Last Heist,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",United Kingdom,25 May 2015,1998,PG,,"Anime Series, Thrillers",Friends become rivals as ambition tears apart years of loyalty.
+s170,TV Show,Undercover,Sooraj Barjatya,"Rajkummar Rao, Kangana Ranaut",Turkey,,2017,,,Sports Movies,A young detective races against time to solve a case that could change everything.
+s432,Movie,Northern Lights,Anand L. Rai,"Irrfan Khan, Tabu",UK, 01-23-2018 ,2012,UNKNOWN,69 min,"Action & Adventure, Anime Series","In a city full of strangers, one chance encounter changes two lives forever."
+s753,Movie,The Outsiders Club,Sajal Aly,,,"June 26, 2020",2024,NR,,Horror Movies,An emotional journey of self discovery across three generations.
+s113,TV Show,City Lights,Asim Abbasi,"Sajal Aly, Bilal Abbas",INDIA," October 24, 2024 ",2019,TV-MA,4seasons,International Movies,
+s833,Movie,  Northern Lights,Imtiaz Ali,"Vicky Kaushal, Yami Gautam",," September 04, 2024 ",2003,TV-14,,Music & Musicals,
+s750,TV Show,  Legal Eagles,Meghna Gulzar,"Shah Rukh Khan, Deepika Padukone",Japan,2021-02-08,2009,NR,3,"Horror Movies, Crime TV Shows, Action & Adventure",
+s294,TV Show,Startup Wars   ,Hansal Mehta,"Hania Aamir, Asim Azhar",pakistan,25/11/2022,2003,,,"Comedies, Action & Adventure","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s619,TV Show,  Mystery Lane,Reema Kagti,"Ranbir Kapoor, Alia Bhatt",Pakistan,02/07/2015,2020,TV-PG,1,"Horror Movies, Comedies","A thrilling ride through betrayal, power, and the cost of ambition."
+s96,Movie,Whispering Pines,,,south korea,,2001,r,,"Comedies, Crime TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s644,Movie,Fragments,Mahira Khan Productions,"Hania Aamir, Asim Azhar", India,27 April 2017,2005,PG,,"International Movies, Anime Series, Reality TV","A thrilling ride through betrayal, power, and the cost of ambition."
+s926,Movie,Paper Moon,Ashutosh Gowariker,"Mahira Khan, Hamza Ali Abbasi",INDIA,29/06/2015,2014,NR,159 min,Horror Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s299,Movie,SUNSET BOULEVARD 2,Sooraj Barjatya,"Shah Rukh Khan, Deepika Padukone",Turkey,02/04/2019,2019,PG13,,"Dramas, Anime Series, Action & Adventure",A young detective races against time to solve a case that could change everything.
+s524,Movie,  The Glass House,Anand L. Rai,"Mahira Khan, Hamza Ali Abbasi",united kingdom,11-19-2023,2021,unrated,166,"Music & Musicals, Stand-Up Comedy, Reality TV","When secrets from the past resurface, a family must confront their darkest truths."
+s406,TV Show,Dance Academy,Asim Abbasi,"Mahira Khan, Hamza Ali Abbasi",south korea,07-09-2022,2018,TV-PG ,,"Reality TV, Kids' TV, Stand-Up Comedy","When secrets from the past resurface, a family must confront their darkest truths."
+s889,Movie,The Last Heist,Reema Kagti,"Sajal Aly, Bilal Abbas",U.S.A,18 January 2023,1998,PG,111 min,"Music & Musicals, Action & Adventure, Anime Series",A young detective races against time to solve a case that could change everything.
+s236,TV Show,Office Hours,,"Aamir Khan, Kareena Kapoor",France,2023-08-20,2022,unrated,,Kids' TV,"When secrets from the past resurface, a family must confront their darkest truths."
+s861,Movie,Ocean's Whisper,Reema Kagti,"Sajal Aly, Bilal Abbas",Japan, 2022-01-12 ,2009,r,,"Music & Musicals, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s147,TV Show,Legal Eagles,Asim Abbasi,"Irrfan Khan, Tabu",Pakistan,,2013,,,"Music & Musicals, Dramas, Sports Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s849,TV Show,  Legal Eagles,Zoya Akhtar,"Shah Rukh Khan, Deepika Padukone",France,"March 15, 2015",1999,PG-13,,"Action & Adventure, British TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s201,Movie,The Outsiders Club,Anurag Kashyap,"Vicky Kaushal, Yami Gautam",Turkey,24 December 2024,2018,TV-Y,165,"Stand-Up Comedy, Kids' TV",
+s67,TV Show,mystery lane,,"Fawad Khan, Mahira Khan",pakistan,2023-08-10,2007,TV-MA,,Romantic Movies,An emotional journey of self discovery across three generations.
+s131,TV Show,High School Heroes,Sooraj Barjatya,"Hania Aamir, Asim Azhar",South korea ,2021-02-12,2015,unrated,,"Action & Adventure, British TV Shows",An emotional journey of self discovery across three generations.
+s161,TV Show,Reality Check,,"Fawad Khan, Mahira Khan",united kingdom,2016-01-09,2010,R,5seasons,Anime Series,A small town hides a big secret that threatens to unravel everything.
+s195,TV Show,The Investigators,Karan Johar,"Shah Rukh Khan, Deepika Padukone",Pakistan,19/02/2016,2012,R,,International Movies,A young detective races against time to solve a case that could change everything.
+s109,Movie,The Silent Witness,Hansal Mehta,"Mahira Khan, Hamza Ali Abbasi",south korea,2024-04-04,2019,TV-14,127 minutes,International Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s253,TV Show,Beyond Borders,Zoya Akhtar,"Vicky Kaushal, Yami Gautam",France,2019-12-20,1999,tv-14,9seasons,"Anime Series, Stand-Up Comedy","In a city full of strangers, one chance encounter changes two lives forever."
+s615,Movie,Echoes of War,Sajal Aly,"Fawad Khan, Mahira Khan",Japan,11-18-2018,2015,PG-13,108 min,Music & Musicals,"A thrilling ride through betrayal, power, and the cost of ambition."
+s775,TV Show,Crime Diaries,Nadeem Baig,"Sajal Aly, Bilal Abbas",Japan,24 October 2024,1998,,,"Crime TV Shows, Documentaries, Action & Adventure","When secrets from the past resurface, a family must confront their darkest truths."
+s179,TV Show,Royal Affairs,Ashutosh Gowariker,"Aamir Khan, Kareena Kapoor",U.S.A,"April 21, 2020",2010,,7 Seasons,"Stand-Up Comedy, Horror Movies",Friends become rivals as ambition tears apart years of loyalty.
+s325,Movie,The Long Road Home   ,Asim Abbasi,,South korea ,25/03/2017,2001,tv-14,154,"Thrillers, Comedies",A small town hides a big secret that threatens to unravel everything.
+s731,TV Show,The Restaurant,Karan Johar,"Ayushmann Khurrana, Bhumi Pednekar",United Kingdom,05-22-2019,2008,unrated,7seasons,"Kids' TV, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s437,TV Show,Late Night Tales,Anurag Kashyap,"Ranbir Kapoor, Alia Bhatt",south korea,08 April 2024,2003,UR,5seasons,Reality TV,
+s713,TV Show,The Negotiator,,Nawazuddin Siddiqui,INDIA,11/11/2024,2007,TV-PG,7,Horror Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s168,TV Show,Family Matters,Sajal Aly,"Mahira Khan, Hamza Ali Abbasi",South Korea,28 August 2016,2002,NR,6 Seasons,"Anime Series, Reality TV","When secrets from the past resurface, a family must confront their darkest truths."
+s172,TV Show,City Lights,Sooraj Barjatya,"Hania Aamir, Asim Azhar", India,05 November 2023,2019,unrated,2 Seasons,"Dramas, Documentaries","In a city full of strangers, one chance encounter changes two lives forever."
+s675,Movie,Stolen Memories,Anand L. Rai,,Germany,28/11/2024,2002,NR,144 min,"Anime Series, Stand-Up Comedy, Dramas",Friends become rivals as ambition tears apart years of loyalty.
+s389,Movie,The Forgotten Path,Anand L. Rai,Nawazuddin Siddiqui,united kingdom,2017-09-20,2024,TV-MA,,"Sports Movies, Horror Movies",
+s194,Movie,Silent Echoes,,"Sajal Aly, Bilal Abbas",Germany,01-06-2019,1999,PG-13,121 minutes,Dramas,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s235,Movie,The Outsiders Club,Meghna Gulzar,"Hania Aamir, Asim Azhar",Canada,03-07-2017,2016,TV-PG ,,Reality TV,"A thrilling ride through betrayal, power, and the cost of ambition."
+s252,Movie,The Final Note,Shoojit Sircar,"Hania Aamir, Asim Azhar",UK,,2000,TV-PG,,Sports Movies,A young detective races against time to solve a case that could change everything.
+s202,TV Show,The Negotiator,Zoya Akhtar,"Shah Rukh Khan, Deepika Padukone",United Kingdom,,2009,R,,"International Movies, Dramas",A young detective races against time to solve a case that could change everything.
+s741,tv show,office hours,Rajkumar Hirani,,India,2024-06-14,1999,PG13,3seasons,"Stand-Up Comedy, Documentaries, Crime TV Shows",An emotional journey of self discovery across three generations.
+s756,Movie,Echoes of War,Shoojit Sircar,,India,05-10-2015,1998,unrated,,British TV Shows,
+s116,Movie,The Last Train,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",Japan,04-22-2021,2015,TV-G,86 minutes,"Action & Adventure, Music & Musicals, Thrillers","A thrilling ride through betrayal, power, and the cost of ambition."
+s479,Movie,The Outsiders Club,Vishal Bhardwaj,,united states,2016-08-22,2001,PG13,108 min,Reality TV,
+s507,Movie,Fragments,Ashutosh Gowariker,"Ayushmann Khurrana, Bhumi Pednekar",South Korea,2022-05-02,2015,,128,"Action & Adventure, Reality TV",An emotional journey of self discovery across three generations.
+s899,TV Show,Legal Eagles,Rajkumar Hirani,"Ayushmann Khurrana, Bhumi Pednekar",India,"April 09, 2020",2016,,2seasons,"Comedies, Stand-Up Comedy",A young detective races against time to solve a case that could change everything.
+s667,TV Show,High School Heroes,Asim Abbasi,,pakistan,2018-01-15,2004,TV-MA,,Anime Series,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s148,TV Show,City Lights,Shoojit Sircar,"Shah Rukh Khan, Deepika Padukone", India,"February 24, 2016",2007,TV-PG ,3 Seasons,"Dramas, Reality TV, Stand-Up Comedy",A young detective races against time to solve a case that could change everything.
+s659,TV Show,Reality Check,Imtiaz Ali,"Hania Aamir, Asim Azhar",USA,2021-04-12,2017,R,2 Seasons,Documentaries,"A thrilling ride through betrayal, power, and the cost of ambition."
+s100,Movie,Neon Nights,Zoya Akhtar,"Sajal Aly, Bilal Abbas",united states,2019-08-19,2022,PG,171 min,"Romantic Movies, Kids' TV, International Movies",
+s340,Movie,The Silent Witness,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",France,07-29-2024,2009,NR,,Crime TV Shows,A small town hides a big secret that threatens to unravel everything.
+s737,Movie,The Long Road Home,Sooraj Barjatya,"Irrfan Khan, Tabu",India,2017-04-16,1998,TV-G,107,"Anime Series, Kids' TV",A young detective races against time to solve a case that could change everything.
+s367,Movie,Eternal Sunshine 2,Asim Abbasi,"Mahira Khan, Hamza Ali Abbasi",INDIA,26/05/2017,2006,TV-MA,122 min,"British TV Shows, Thrillers",Friends become rivals as ambition tears apart years of loyalty.
+s798,TV Show,The Negotiator   ,Mahira Khan Productions,"Hania Aamir, Asim Azhar",india,05/01/2024,2024,UNKNOWN,7,"Romantic Movies, British TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s349,Movie,Stolen Memories,Zoya Akhtar,"Vicky Kaushal, Yami Gautam",South korea ,2017-03-30,1998,r,104,"Thrillers, Kids' TV, Reality TV","When secrets from the past resurface, a family must confront their darkest truths."
+s546,TV Show,Suits & Lies,Asim Abbasi,"Mahira Khan, Hamza Ali Abbasi",U.S.A,2020-10-04,2004,UR,3,"International Movies, Action & Adventure, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s137,TV Show,ROYAL AFFAIRS,Vishal Bhardwaj,"Sajal Aly, Bilal Abbas",pakistan,27 June 2020,2008,TV-G,2,"Music & Musicals, Reality TV",A young detective races against time to solve a case that could change everything.
+s257,Movie,NEON NIGHTS,Meghna Gulzar,"Hania Aamir, Asim Azhar",Canada,18 September 2021,2014,r,129 minutes,"Dramas, Anime Series",
+s246,TV Show,the office india,Sooraj Barjatya,"Shah Rukh Khan, Deepika Padukone",U.S.A,04-18-2015,2000,,3 Seasons,"Anime Series, Romantic Movies, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s124,Movie,Silent Echoes,Rajkumar Hirani,"Sajal Aly, Bilal Abbas",united kingdom,05-10-2021,2000,R,175 min,Stand-Up Comedy,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s515,TV Show,Undercover,Vishal Bhardwaj,"Irrfan Khan, Tabu",Germany, 2024-01-21 ,2023,,1,Romantic Movies,A small town hides a big secret that threatens to unravel everything.
+s705,Movie,Beyond the Horizon,Zoya Akhtar,Nawazuddin Siddiqui,United Kingdom,2015-10-26,2016,TV-MA,178,"International Movies, Music & Musicals, Romantic Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s908,Movie,beyond the horizon,Ashutosh Gowariker,"Priyanka Chopra, Farhan Akhtar",U.S.A,"July 25, 2023",2011,NR,72 minutes,"International Movies, Action & Adventure",
+s689,TV Show,Late Night Tales,,Nawazuddin Siddiqui,France,08-07-2024,2023,NR,3seasons,"Dramas, Comedies",Friends become rivals as ambition tears apart years of loyalty.
+s245,Movie,The Glass House,Nadeem Baig,"Ayushmann Khurrana, Bhumi Pednekar",Canada,04/10/2023,2014,TV-G,81 min,Thrillers,"In a city full of strangers, one chance encounter changes two lives forever."
+s636,movie,The Last Train,Rajkumar Hirani,"Hania Aamir, Asim Azhar",United Kingdom,25/11/2019,2022,,,Reality TV,"In a city full of strangers, one chance encounter changes two lives forever."
+s901,Movie,Broken Mirror,Reema Kagti,"Vicky Kaushal, Yami Gautam",Pakistan , 2021-12-26 ,2016,UR,103 min,"Documentaries, Thrillers, Stand-Up Comedy","In a city full of strangers, one chance encounter changes two lives forever."
+s873,TV Show,Startup Wars,Rajkumar Hirani,,Pakistan,2017-01-03,2010,unrated,,"Documentaries, Dramas, Reality TV",A small town hides a big secret that threatens to unravel everything.
+s678,TV Show,Suits & Lies   ,Farhan Akhtar,"Ranbir Kapoor, Alia Bhatt",Canada,"March 16, 2021",2014,,4seasons,"Thrillers, Anime Series, Dramas",Friends become rivals as ambition tears apart years of loyalty.
+s38,Movie,  Whispering Pines,,,INDIA,"May 29, 2018",2001,TV-G,,Anime Series,A small town hides a big secret that threatens to unravel everything.
+s469,TV Show,The Detective,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",United States,02-27-2023,2024,TV-PG,,"Stand-Up Comedy, Crime TV Shows",A small town hides a big secret that threatens to unravel everything.
+s281,Movie,Eternal Sunshine 2,Reema Kagti,"Ayushmann Khurrana, Bhumi Pednekar",France,2015-06-29,2016,TV-PG,171,"Comedies, Crime TV Shows, Romantic Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s691,Movie,Wild Fire,Anurag Kashyap,"Hania Aamir, Asim Azhar",Japan,04 October 2017,2006,PG13,148,Music & Musicals,Friends become rivals as ambition tears apart years of loyalty.
+s511,TV Show,Crime Diaries,Karan Johar,"Fawad Khan, Mahira Khan",India,11 December 2016,2010,PG,9,"Reality TV, Horror Movies, International Movies",An emotional journey of self discovery across three generations.
+s293,tv show,Crime Diaries,Farhan Akhtar,,South Korea,19/03/2018,2022,tv-14,5seasons,Kids' TV,"When secrets from the past resurface, a family must confront their darkest truths."
+s204,Movie,The Long Road Home   ,Shoojit Sircar,"Fawad Khan, Mahira Khan",india,08 November 2019,2014,TV-PG,134,Anime Series,
+s835,Movie,Ocean's Whisper,Farhan Akhtar,"Priyanka Chopra, Farhan Akhtar",India,"April 04, 2020",2012,,144 minutes,Anime Series,"A thrilling ride through betrayal, power, and the cost of ambition."
+s330,TV Show,Crime Diaries,Anand L. Rai,"Vicky Kaushal, Yami Gautam",,10/11/2023,2020,TV-14,7,"Comedies, Romantic Movies, Crime TV Shows","In a city full of strangers, one chance encounter changes two lives forever."
+s754,TV Show,The Detective,Anand L. Rai,"Ranbir Kapoor, Alia Bhatt",United Kingdom,25 November 2023,2013,tv-14,5seasons,"Reality TV, British TV Shows",Friends become rivals as ambition tears apart years of loyalty.
+s296,Movie,The Maze Runner X,Asim Abbasi,"Ranbir Kapoor, Alia Bhatt",Turkey,01-28-2019,2019,NR,118 min,"International Movies, Documentaries",A small town hides a big secret that threatens to unravel everything.
+s292,TV Show,The Restaurant,Mahira Khan Productions,,USA," November 09, 2020 ",1999,TV-14,,International Movies,
+s250,Movie,Desert Storm,Asim Abbasi,"Priyanka Chopra, Farhan Akhtar",Turkey,05/09/2022,2021,R,112 min,Romantic Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s519,TV Show,The Restaurant   ,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",South Korea,08-26-2022,2006,TV-MA,1 season,"Dramas, Action & Adventure, British TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s31,Movie,The Silent Witness,Zoya Akhtar,"Vicky Kaushal, Yami Gautam",Canada,16/04/2015,2010,PG13,135,Reality TV,
+s18,TV Show,Family Matters,Meghna Gulzar,"Ayushmann Khurrana, Bhumi Pednekar",France,16/06/2018,2023,TV-MA,6seasons,"Thrillers, Stand-Up Comedy, Comedies","A thrilling ride through betrayal, power, and the cost of ambition."
+s502,TV Show,Mystery Lane   ,Anurag Kashyap,"Aamir Khan, Kareena Kapoor",,"November 20, 2023",2001,TV-Y,2seasons,Sports Movies,
+s639,Movie,Mirage,Farhan Akhtar,"Vicky Kaushal, Yami Gautam",,30 September 2016,2017,UR,62 minutes,"Sports Movies, International Movies, Crime TV Shows",
+s186,TV Show,Dance Academy,Vishal Bhardwaj,,india,25/04/2018,2010,TV-MA,4,"Thrillers, Stand-Up Comedy, Kids' TV",A small town hides a big secret that threatens to unravel everything.
+s510,Movie,  Crimson Tide,Meghna Gulzar,"Ranbir Kapoor, Alia Bhatt", India,,2024,TV-PG,83,"Reality TV, Thrillers, Crime TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s76,TV Show,  Family Matters,Zoya Akhtar,"Priyanka Chopra, Farhan Akhtar",Germany,,2008,TV-PG,7seasons,Documentaries,
+s175,Movie,Wild Fire,Shoojit Sircar,"Rajkummar Rao, Kangana Ranaut",UK, 26/06/2020 ,2015,NR,108,"Comedies, Romantic Movies",A small town hides a big secret that threatens to unravel everything.
+s291,Movie,City of Dreams,Rajkumar Hirani,"Vicky Kaushal, Yami Gautam", India,04-13-2015,2002,unrated,127 minutes,"Romantic Movies, Anime Series","When secrets from the past resurface, a family must confront their darkest truths."
+s352,TV Show,The Restaurant,Anand L. Rai,"Sajal Aly, Bilal Abbas",Canada,2019-10-19,2024,TV-Y,3 Seasons,"Sports Movies, Stand-Up Comedy, Comedies",An emotional journey of self discovery across three generations.
+s893,TV Show,The Detective,Hansal Mehta,"Sajal Aly, Bilal Abbas",pakistan,05-15-2016,2012,PG,4seasons,"Reality TV, International Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s931,Movie,Desert Storm,Rajkumar Hirani,"Sajal Aly, Bilal Abbas",Germany,03-24-2021,2008,UNKNOWN,,"Stand-Up Comedy, Documentaries",
+s125,Movie,Dark Waters,Farhan Akhtar,"Ranbir Kapoor, Alia Bhatt",Turkey,13 May 2019,2022,TV-14,124 min,British TV Shows,Friends become rivals as ambition tears apart years of loyalty.
+s385,Movie,Wild Fire,Hansal Mehta,"Shah Rukh Khan, Deepika Padukone",Germany, 10-07-2019 ,2019,R,105 min,"Dramas, Comedies, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s538,TV Show,Startup Wars,Imtiaz Ali,"Shah Rukh Khan, Deepika Padukone",united states,31/01/2017,2004,TV-Y,3,Dramas,"A thrilling ride through betrayal, power, and the cost of ambition."
+s178,Movie,Love in Lahore   ,Hansal Mehta,"Irrfan Khan, Tabu",Canada,"October 17, 2024",2017,TV-G,113,"International Movies, Music & Musicals, Comedies",
+s184,TV Show,Dance Academy,Asim Abbasi,"Aamir Khan, Kareena Kapoor",Canada,15/12/2022,2010,PG,5seasons,"Reality TV, Stand-Up Comedy",
+s645,TV Show,The Detective,Anurag Kashyap,"Fawad Khan, Mahira Khan",France, 04-09-2020 ,2011,NR,,"Dramas, Thrillers, Music & Musicals","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s907,Movie,Quantum Break,Meghna Gulzar,"Hania Aamir, Asim Azhar",united kingdom,05/10/2017,2001,r,119 min,Comedies,"When secrets from the past resurface, a family must confront their darkest truths."
+s616,Movie,Stolen Memories,Meghna Gulzar,"Mahira Khan, Hamza Ali Abbasi",india,18/05/2015,2010,r,,Sports Movies,
+s495,TV Show,The Newsroom 2,Hansal Mehta,"Hania Aamir, Asim Azhar",Japan, 04-25-2016 ,2011,NR,1 season,"Kids' TV, Horror Movies, Action & Adventure","In a city full of strangers, one chance encounter changes two lives forever."
+s316,Movie,Stolen Memories,,,south korea,"October 24, 2018",2022,PG-13,,"Crime TV Shows, Romantic Movies, Horror Movies",An emotional journey of self discovery across three generations.
+s544,TV Show,City Lights,Zoya Akhtar,"Priyanka Chopra, Farhan Akhtar",South korea ,30/06/2020,2021,tv-14,5,"Action & Adventure, Documentaries, Kids' TV",Friends become rivals as ambition tears apart years of loyalty.
+s895,TV Show,The Trial,Shoojit Sircar,,U.S.A,02/03/2024,2015,NR,4seasons,Dramas,"When secrets from the past resurface, a family must confront their darkest truths."
+s335,Movie,Iron Will,Reema Kagti,,South korea ,31/03/2022,2019,NR,,Reality TV,A young detective races against time to solve a case that could change everything.
+s550,Movie,Ocean's Whisper,,Nawazuddin Siddiqui,United Kingdom,"August 23, 2022",2008,TV-PG,,"Dramas, Action & Adventure","In a city full of strangers, one chance encounter changes two lives forever."
+s490,Movie,Velvet Sky,Asim Abbasi,,United Kingdom,"October 12, 2023",2014,PG-13,135,International Movies,A young detective races against time to solve a case that could change everything.
+s620,TV Show,The Office India,Anand L. Rai,"Shah Rukh Khan, Deepika Padukone", India,2015-12-20,2018,TV-PG,1 season,"Horror Movies, Thrillers, Comedies",Friends become rivals as ambition tears apart years of loyalty.
+s900,Movie,Crimson Tide   ,Anand L. Rai,"Irrfan Khan, Tabu",,16 April 2016,2019,tv-14,111,Comedies,"When secrets from the past resurface, a family must confront their darkest truths."
+s315,Movie,Northern Lights,,"Fawad Khan, Mahira Khan",UK,11-22-2019,2022,TV-14,,"Sports Movies, Comedies, Reality TV",
+s321,Movie,THE FINAL NOTE,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",Pakistan , 2015-06-16 ,2018,TV-PG,62 min,Dramas,A young detective races against time to solve a case that could change everything.
+s154,Movie,Burning Bridges,Nadeem Baig,"Ranbir Kapoor, Alia Bhatt",,"January 05, 2018",1998,UR,68 minutes,"Action & Adventure, Thrillers, Music & Musicals",
+s278,TV Show,Beyond Borders,Sooraj Barjatya,"Ayushmann Khurrana, Bhumi Pednekar",Turkey,"November 21, 2020",2012,TV-MA,,"Anime Series, Horror Movies, Dramas",
+s671,Movie,The Forgotten Path   ,Shoojit Sircar,"Vicky Kaushal, Yami Gautam",South korea ,18/09/2024,2011,TV-G,,Documentaries,"A thrilling ride through betrayal, power, and the cost of ambition."
+s513,TV Show,Late Night Tales,Nadeem Baig,"Shah Rukh Khan, Deepika Padukone",united states, 29/06/2024 ,2007,tv-14,2seasons,"Dramas, Anime Series, Romantic Movies",Friends become rivals as ambition tears apart years of loyalty.
+s938,Movie,The Forgotten Path,Sajal Aly,"Fawad Khan, Mahira Khan",pakistan,07-09-2023,2011,,,Music & Musicals,
+s892,Movie,falling stars,Ashutosh Gowariker,"Mahira Khan, Hamza Ali Abbasi", India,19/12/2023,2016,r,130,Documentaries,"A thrilling ride through betrayal, power, and the cost of ambition."
+s772,TV Show,  Power Play,,"Fawad Khan, Mahira Khan",united states,26/01/2023,2005,,,"Thrillers, Action & Adventure","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s358,Movie,Eternal Sunshine 2,Meghna Gulzar,"Vicky Kaushal, Yami Gautam",South Korea,"August 15, 2021",2009,,174 minutes,"International Movies, Crime TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s314,Movie,Whispering Pines   ,Hansal Mehta,"Vicky Kaushal, Yami Gautam",South korea ,14/12/2019,2000,r,,Dramas,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s260,Movie,Paper Moon,Anurag Kashyap,Nawazuddin Siddiqui,India,05-04-2023,2023,R,127 min,"Action & Adventure, International Movies",
+s913,Movie,  The Outsiders Club,,"Vicky Kaushal, Yami Gautam",Canada,2018-07-14,2020,TV-PG ,,"Comedies, Anime Series, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s512,Movie,Desert Storm,Karan Johar,,South korea ,2019-05-26,2015,TV-14,,"Anime Series, British TV Shows",An emotional journey of self discovery across three generations.
+s340,Movie,The Silent Witness,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",France,07-29-2024,2009,NR,,Crime TV Shows,A small town hides a big secret that threatens to unravel everything.
+s935,TV Show,Code Red,Zoya Akhtar,"Ranbir Kapoor, Alia Bhatt",INDIA,12-14-2023,2013,PG,,Stand-Up Comedy,
+s807,Movie,NORTHERN LIGHTS,Hansal Mehta,"Sajal Aly, Bilal Abbas",UK,03/05/2015,2023,TV-14,,Documentaries,Friends become rivals as ambition tears apart years of loyalty.
+s357,TV Show,The Newsroom 2,Sajal Aly,Nawazuddin Siddiqui,pakistan,"June 19, 2020",2013,NR,,"Documentaries, Kids' TV, Dramas",An emotional journey of self discovery across three generations.
+s285,TV Show,The Office India,Hansal Mehta,"Shah Rukh Khan, Deepika Padukone",INDIA,21/08/2024,2011,PG-13,1 Season,"Action & Adventure, Thrillers, Horror Movies",
+s4,Movie,Hidden Truth,,"Shah Rukh Khan, Deepika Padukone",United States,2017-09-29,2006,NR,88 min,Comedies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s937,TV Show,Medical Files,Hansal Mehta,"Ranbir Kapoor, Alia Bhatt", India,05/09/2021,2023,R,8seasons,"British TV Shows, Anime Series, Romantic Movies",A young detective races against time to solve a case that could change everything.
+s209,TV Show,The Trial,,,South Korea,16 February 2021,2021,R,8seasons,"Action & Adventure, Sports Movies, Music & Musicals",
+s13,TV Show,Reality Check,Hansal Mehta,,United States,"June 10, 2017",2015,NR,1 Season,"Sports Movies, Kids' TV, British TV Shows",
+s312,Movie,The Silent Witness,Mahira Khan Productions,"Ayushmann Khurrana, Bhumi Pednekar",Pakistan,2021-10-12,2022,TV-PG,74,"Reality TV, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s222,TV Show,Family Matters,Sajal Aly,"Ayushmann Khurrana, Bhumi Pednekar",United States, 03/06/2020 ,2022,tv-14,5,Comedies,Friends become rivals as ambition tears apart years of loyalty.
+s295,TV Show,Suits & Lies,Anurag Kashyap,"Irrfan Khan, Tabu",,08-24-2021,2007,PG13,9 Seasons,"Romantic Movies, Comedies",A small town hides a big secret that threatens to unravel everything.
+s612,TV Show,The Office India,Zoya Akhtar,,INDIA,2016-02-24,2016,TV-G,,"Kids' TV, Anime Series, Horror Movies",
+s600,Movie,Paper Moon,Ashutosh Gowariker,"Fawad Khan, Mahira Khan",South Korea,07-24-2018,2012,r,,"Thrillers, Documentaries, Stand-Up Comedy","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s50,TV Show,  Crime Diaries,Rajkumar Hirani,"Aamir Khan, Kareena Kapoor",USA,12-15-2020,2023,TV-PG ,,"Thrillers, Sports Movies",
+s800,TV Show,Power Play,Ashutosh Gowariker,"Fawad Khan, Mahira Khan",South Korea,22 December 2023,1998,,4seasons,Stand-Up Comedy,
+s237,TV Show,The Detective,Asim Abbasi,"Vicky Kaushal, Yami Gautam",united states,09/02/2015,2000,NR,,Sports Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s591,Movie,Broken Mirror,,"Mahira Khan, Hamza Ali Abbasi",Germany,01 February 2015,2019,TV-G,,"Kids' TV, Anime Series, Comedies",Friends become rivals as ambition tears apart years of loyalty.
+s375,Movie,Quantum Break,Anand L. Rai,"Shah Rukh Khan, Deepika Padukone",INDIA,10-09-2022,2020,UR,154 min,Comedies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s363,Movie,Paper Moon,Anand L. Rai,"Aamir Khan, Kareena Kapoor",Germany,07-24-2024,2021,NR,106,Romantic Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s813,Movie,Shadow Protocol   ,Zoya Akhtar,"Ayushmann Khurrana, Bhumi Pednekar",U.S.A,29/01/2024,2001,,131,Stand-Up Comedy,A young detective races against time to solve a case that could change everything.
+s738,TV Show,Suits & Lies,Anand L. Rai,"Aamir Khan, Kareena Kapoor",South korea ,29 October 2016,1998,NR,,"Romantic Movies, Documentaries",An emotional journey of self discovery across three generations.
+s133,Movie,  Falling Stars,,,South Korea," October 30, 2019 ",2006,,,Music & Musicals,"A thrilling ride through betrayal, power, and the cost of ambition."
+s196,TV Show,The Negotiator,Vishal Bhardwaj,"Irrfan Khan, Tabu",Pakistan," December 25, 2024 ",2002,TV-PG,6,"Kids' TV, Music & Musicals","When secrets from the past resurface, a family must confront their darkest truths."
+s454,TV Show,Legal Eagles,Shoojit Sircar,"Irrfan Khan, Tabu",France,03-09-2019,2018,TV-14,7 Seasons,Anime Series,
+s884,TV Show,The Trial,Nadeem Baig,"Aamir Khan, Kareena Kapoor",United States,15 October 2018,2021,R,9,"British TV Shows, Documentaries, Anime Series","A thrilling ride through betrayal, power, and the cost of ambition."
+s505,TV Show,Code Red,Vishal Bhardwaj,"Ayushmann Khurrana, Bhumi Pednekar",USA,26/06/2022,2007,tv-14,,"Horror Movies, Music & Musicals, Romantic Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s794,Movie,Lost in Karachi,Meghna Gulzar,,India, 22/06/2018 ,2016,TV-MA,60,Anime Series,A small town hides a big secret that threatens to unravel everything.
+s290,Movie,Eternal Sunshine 2,Sajal Aly,"Ayushmann Khurrana, Bhumi Pednekar",United States,11/09/2024,2008,R,71,"Music & Musicals, British TV Shows","In a city full of strangers, one chance encounter changes two lives forever."
+s560,Movie,Shadow Protocol,,"Shah Rukh Khan, Deepika Padukone", India,05-05-2021,1999,,146 min,"Crime TV Shows, Kids' TV, Action & Adventure",
+s33,Movie,Hidden Truth,Hansal Mehta,"Vicky Kaushal, Yami Gautam",USA,23/08/2021,2005,TV-14,172,"Anime Series, Documentaries","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s348,Movie,Paper Moon   ,Anurag Kashyap,"Irrfan Khan, Tabu",Pakistan,09-09-2023,1999,TV-MA,,Sports Movies,"When secrets from the past resurface, a family must confront their darkest truths."
+s451,Movie,  Rebel Hearts,Karan Johar,"Sajal Aly, Bilal Abbas",INDIA,2024-04-27,2000,unrated,81,British TV Shows,A young detective races against time to solve a case that could change everything.
+s266,TV Show,Crime Diaries,,"Irrfan Khan, Tabu",south korea,20 January 2021,2014,TV-PG,,"Action & Adventure, International Movies",An emotional journey of self discovery across three generations.
+s356,Movie,Northern Lights,Hansal Mehta,"Priyanka Chopra, Farhan Akhtar",UK,,2011,TV-14,,"Music & Musicals, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s601,Movie,Neon Nights,Hansal Mehta,"Sajal Aly, Bilal Abbas",Pakistan,17 November 2021,2017,TV-MA,71 minutes,"Action & Adventure, Stand-Up Comedy","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s220,TV Show,The Office India,Karan Johar,"Mahira Khan, Hamza Ali Abbasi",pakistan,"January 10, 2022",1998,TV-MA,,Comedies,
+s726,TV Show,Crime Diaries,Asim Abbasi,"Sajal Aly, Bilal Abbas", India,05 January 2022,2024,unrated,,"Comedies, Thrillers",A young detective races against time to solve a case that could change everything.
+s114,Movie,Shadow Protocol,Rajkumar Hirani,"Irrfan Khan, Tabu",south korea,"September 07, 2024",2007,,136 minutes,Reality TV,A young detective races against time to solve a case that could change everything.
+s328,TV Show,Legal Eagles,Asim Abbasi,"Hania Aamir, Asim Azhar",Pakistan ,2021-08-20,1998,TV-MA,,"Comedies, Crime TV Shows, Kids' TV",An emotional journey of self discovery across three generations.
+s889,Movie,The Last Heist,Reema Kagti,"Sajal Aly, Bilal Abbas",U.S.A,18 January 2023,1998,PG,111 min,"Music & Musicals, Action & Adventure, Anime Series",A young detective races against time to solve a case that could change everything.
+s613,Movie,  Crimson Tide,Asim Abbasi,"Sajal Aly, Bilal Abbas",UK,2016-08-10,1998,TV-MA,,"Sports Movies, Documentaries","In a city full of strangers, one chance encounter changes two lives forever."
+s428,TV Show,THE RESTAURANT,Reema Kagti,"Vicky Kaushal, Yami Gautam",France,"September 25, 2015",2002,PG-13,,"Horror Movies, Documentaries, Reality TV",An emotional journey of self discovery across three generations.
+s162,Movie,Silent Echoes,Karan Johar,"Shah Rukh Khan, Deepika Padukone",united kingdom,2017-06-29,2010,UNKNOWN,,"Kids' TV, Music & Musicals, British TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s11,Movie,The Final Note,Rajkumar Hirani,,Pakistan,02/03/2023,2001,PG13,,Kids' TV,A small town hides a big secret that threatens to unravel everything.
+s746,TV Show,  The Detective,Zoya Akhtar,"Mahira Khan, Hamza Ali Abbasi",india,"August 11, 2024",1998,UR,3 Seasons,Horror Movies,Friends become rivals as ambition tears apart years of loyalty.
+s366,Movie,The Final Note,Anurag Kashyap,"Irrfan Khan, Tabu",United States,27 May 2021,2014,NR,92 min,International Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s716,Movie,Falling Stars,Mahira Khan Productions,"Sajal Aly, Bilal Abbas",INDIA,10-20-2020,2012,PG13,132,"Romantic Movies, Stand-Up Comedy",An emotional journey of self discovery across three generations.
+s655,Movie,Northern Lights,Hansal Mehta,"Priyanka Chopra, Farhan Akhtar",U.S.A,2023-06-27,2008,NR,123,British TV Shows,"In a city full of strangers, one chance encounter changes two lives forever."
+s187,TV Show,Startup Wars,Sajal Aly,"Rajkummar Rao, Kangana Ranaut",Germany,02-04-2016,2006,NR,3,"Action & Adventure, International Movies, Documentaries",Friends become rivals as ambition tears apart years of loyalty.
+s139,TV Show,Undercover,Sajal Aly,"Priyanka Chopra, Farhan Akhtar",pakistan,07-12-2018,2009,PG,3seasons,"Sports Movies, Crime TV Shows",A small town hides a big secret that threatens to unravel everything.
+s674,Movie,The Glass House,Meghna Gulzar,"Ayushmann Khurrana, Bhumi Pednekar",Pakistan,25 May 2023,2005,TV-PG,88 min,"Anime Series, Romantic Movies, Reality TV","When secrets from the past resurface, a family must confront their darkest truths."
+s949,Movie,WILD FIRE,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",india,21 August 2017,2008,TV-14,135 min,"Kids' TV, Crime TV Shows",
+s885,TV Show,REALITY CHECK,Karan Johar,"Aamir Khan, Kareena Kapoor",Pakistan,02-10-2024,1998,TV-MA,1 Season,Reality TV,"A thrilling ride through betrayal, power, and the cost of ambition."
+s693,TV Show,High School Heroes,Anurag Kashyap,,united kingdom,2022-11-17,2016,,,"International Movies, Anime Series",
+s275,Movie,The Forgotten Path,,"Mahira Khan, Hamza Ali Abbasi", India,"January 25, 2023",2024,TV-MA,,"Reality TV, Thrillers","In a city full of strangers, one chance encounter changes two lives forever."
+s734,Movie,The Glass House,Vishal Bhardwaj,,Japan,23/03/2021,2008,TV-PG,,Thrillers,Friends become rivals as ambition tears apart years of loyalty.
+s743,Movie,Falling Stars,Hansal Mehta,"Hania Aamir, Asim Azhar",INDIA,17 June 2023,2004,r,143 minutes,"Dramas, Thrillers",
+s925,Movie,The Forgotten Path,Reema Kagti,Nawazuddin Siddiqui,Pakistan," December 27, 2021 ",2000,tv-14,174,"Documentaries, British TV Shows",Friends become rivals as ambition tears apart years of loyalty.
+s623,Movie,Hidden Truth   ,Mahira Khan Productions,"Aamir Khan, Kareena Kapoor",pakistan,,2001,TV-PG,,"Horror Movies, Reality TV",An emotional journey of self discovery across three generations.
+s25,Movie,Mirage,Hansal Mehta,"Sajal Aly, Bilal Abbas",Pakistan,12-27-2023,2015,PG,,"Music & Musicals, Sports Movies",A young detective races against time to solve a case that could change everything.
+s173,Movie,Crimson Tide,Sajal Aly,, India,11-18-2021,2011,TV-PG,173,International Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s628,Movie,Dark Waters,Shoojit Sircar,,U.S.A,"July 23, 2023",2008,TV-PG,101 minutes,"British TV Shows, Reality TV, Crime TV Shows",
+s56,TV Show,The Trial,Farhan Akhtar,,INDIA,02/06/2015,2001,,,"Horror Movies, Stand-Up Comedy",
+s757,Movie,Whispering Pines,Sooraj Barjatya,"Fawad Khan, Mahira Khan",Pakistan," February 05, 2021 ",2021,TV-14,155 minutes,Sports Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s456,Movie,The Forgotten Path,,"Ayushmann Khurrana, Bhumi Pednekar",United States,,2022,UR,110 min,"Crime TV Shows, Music & Musicals, Sports Movies",A young detective races against time to solve a case that could change everything.
+s303,Movie,The Maze Runner X,,"Mahira Khan, Hamza Ali Abbasi",INDIA,04 October 2019,2010,TV-PG ,,"Thrillers, Horror Movies",
+s337,Movie,Broken Mirror,Meghna Gulzar,"Ranbir Kapoor, Alia Bhatt",,,2008,TV-PG,117,"Reality TV, Comedies, Dramas",An emotional journey of self discovery across three generations.
+s146,TV Show,Crime Diaries   ,Sajal Aly,Nawazuddin Siddiqui,USA,2022-09-21,2007,r,2,"Action & Adventure, Documentaries",A young detective races against time to solve a case that could change everything.
+s20,Movie,fragments,Anand L. Rai,"Hania Aamir, Asim Azhar",UK,"July 02, 2017",2010,tv-14,,"Stand-Up Comedy, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s98,Movie,Northern Lights,Reema Kagti,Nawazuddin Siddiqui,south korea,16/11/2021,2017,R,,"Sports Movies, Horror Movies, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s338,TV Show,The Trial,Karan Johar,"Fawad Khan, Mahira Khan",Germany,18/09/2018,2007,TV-PG,8,"International Movies, Horror Movies, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s520,Movie,Dark Waters,Asim Abbasi,"Irrfan Khan, Tabu",Pakistan,02 April 2020,2012,TV-PG ,,"Crime TV Shows, Sports Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s720,Movie,FRAGMENTS,Imtiaz Ali,"Ayushmann Khurrana, Bhumi Pednekar",South Korea,23 July 2021,1998,TV-Y,70 minutes,Documentaries,A young detective races against time to solve a case that could change everything.
+s707,Movie,Hidden Truth,Mahira Khan Productions,"Rajkummar Rao, Kangana Ranaut",Canada, 01-10-2022 ,2022,UNKNOWN,148 min,Documentaries,A small town hides a big secret that threatens to unravel everything.
+s86,Movie,Burning Bridges,Ashutosh Gowariker,"Aamir Khan, Kareena Kapoor",India,02-24-2022,2023,TV-PG,,"Music & Musicals, Dramas, Action & Adventure","When secrets from the past resurface, a family must confront their darkest truths."
+s231,Movie,Static,Meghna Gulzar,"Ayushmann Khurrana, Bhumi Pednekar",,04-14-2017,2015,NR,121 minutes,"Horror Movies, Anime Series",An emotional journey of self discovery across three generations.
+s946,Movie,Sunset Boulevard 2,Nadeem Baig,"Irrfan Khan, Tabu",UK,05 March 2023,2010,TV-PG,76,"Thrillers, Reality TV, Sports Movies",A young detective races against time to solve a case that could change everything.
+s105,TV Show,Mystery Lane,Sajal Aly,"Irrfan Khan, Tabu",United States,05-29-2015,2003,R,1 Season,"International Movies, Music & Musicals","A thrilling ride through betrayal, power, and the cost of ambition."
+s29,Movie,Neon Nights,Anurag Kashyap,,united kingdom,25/07/2015,2004,NR,108 minutes,"Kids' TV, British TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s317,TV Show,The Negotiator,,Nawazuddin Siddiqui,United States,,1998,PG-13,,Reality TV,A small town hides a big secret that threatens to unravel everything.
+s506,TV Show,Family Matters,Karan Johar,"Hania Aamir, Asim Azhar",U.S.A,10-23-2023,2001,R,3 Seasons,"Romantic Movies, Action & Adventure",An emotional journey of self discovery across three generations.
+s44,Movie,Falling Stars,,Nawazuddin Siddiqui,United Kingdom,20/06/2016,2020,TV-MA,137,"Documentaries, Romantic Movies, Kids' TV","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s110,TV Show,Power Play,Karan Johar,"Ranbir Kapoor, Alia Bhatt",south korea,2022-08-18,2013,,8 Seasons,"Romantic Movies, Kids' TV",An emotional journey of self discovery across three generations.
+s333,Movie,The Long Road Home,Zoya Akhtar,Nawazuddin Siddiqui,Germany,26 January 2020,2019,TV-14,,Action & Adventure,An emotional journey of self discovery across three generations.
+s342,Movie,Ocean's Whisper,,"Vicky Kaushal, Yami Gautam",United Kingdom,13/04/2019,1999,R,,"Music & Musicals, International Movies, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s621,TV Show,Power Play,Karan Johar,"Aamir Khan, Kareena Kapoor",,2018-02-16,2011,PG13,5seasons,Reality TV,"In a city full of strangers, one chance encounter changes two lives forever."
+s35,Movie,wild fire,Asim Abbasi,"Aamir Khan, Kareena Kapoor",South Korea,14/12/2020,2021,TV-Y,94 minutes,"Thrillers, Comedies",Friends become rivals as ambition tears apart years of loyalty.
+s10,TV Show,  The Detective,Rajkumar Hirani,"Rajkummar Rao, Kangana Ranaut",south korea,07-03-2022,2002,PG,,"Crime TV Shows, Comedies","When secrets from the past resurface, a family must confront their darkest truths."
+s853,TV Show,Undercover,Nadeem Baig,"Ayushmann Khurrana, Bhumi Pednekar",France,02 December 2022,2018,,7,"Music & Musicals, Comedies, Kids' TV","In a city full of strangers, one chance encounter changes two lives forever."
+s449,Movie,The Last Train,Rajkumar Hirani,"Ranbir Kapoor, Alia Bhatt",pakistan,2019-03-20,2005,PG,172,"Stand-Up Comedy, Sports Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s211,Movie,Neon Nights,Anurag Kashyap,"Vicky Kaushal, Yami Gautam",Germany, 23 January 2017 ,2014,,71 minutes,Crime TV Shows,"A thrilling ride through betrayal, power, and the cost of ambition."
+s761,Movie,Hidden Truth,Ashutosh Gowariker,"Shah Rukh Khan, Deepika Padukone",pakistan,15/06/2022,2014,TV-PG,75 min,"Documentaries, Stand-Up Comedy, International Movies",A small town hides a big secret that threatens to unravel everything.
+s407,Movie,Falling Stars,Rajkumar Hirani,"Ayushmann Khurrana, Bhumi Pednekar",UK,"March 18, 2015",2015,TV-MA,160,"Music & Musicals, Comedies, Anime Series",
+s927,Movie,Velvet Sky   ,Zoya Akhtar,"Irrfan Khan, Tabu",india,25/10/2022,2023,TV-G,,"Action & Adventure, Anime Series, Kids' TV",A young detective races against time to solve a case that could change everything.
+s82,Movie,Mirage,Reema Kagti,"Priyanka Chopra, Farhan Akhtar",united kingdom,02-16-2022,2006,TV-Y,68,"International Movies, Anime Series, Reality TV","A thrilling ride through betrayal, power, and the cost of ambition."
+s666,TV Show,Royal Affairs,Mahira Khan Productions,"Vicky Kaushal, Yami Gautam",South Korea,07 January 2023,2022,r,3 Seasons,Comedies,A young detective races against time to solve a case that could change everything.
+s877,Movie,Falling Stars,,"Sajal Aly, Bilal Abbas",United States,17 April 2023,2023,PG13,,"International Movies, Documentaries, Crime TV Shows",A young detective races against time to solve a case that could change everything.
+s460,TV Show,  Suits & Lies,Nadeem Baig,"Vicky Kaushal, Yami Gautam",Turkey,"June 21, 2015",2023,,9,"Sports Movies, Anime Series","A thrilling ride through betrayal, power, and the cost of ambition."
+s656,TV Show,High School Heroes,Hansal Mehta,"Rajkummar Rao, Kangana Ranaut",UK,2017-08-07,2007,,8 Seasons,"Reality TV, Music & Musicals, Sports Movies",Friends become rivals as ambition tears apart years of loyalty.
+s403,Movie,The Long Road Home,Zoya Akhtar,,U.S.A,,2003,TV-Y,,International Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s52,Movie,Eternal Sunshine 2,,"Aamir Khan, Kareena Kapoor",Canada,,2024,R,61 min,"Sports Movies, British TV Shows, Romantic Movies",Friends become rivals as ambition tears apart years of loyalty.
+s284,Movie,Neon Nights,Farhan Akhtar,"Hania Aamir, Asim Azhar",India,2016-12-31,2017,NR,,"Comedies, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s455,TV Show,Office Hours,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",South Korea,04-20-2022,2021,unrated,1,"Dramas, Horror Movies, Stand-Up Comedy",A young detective races against time to solve a case that could change everything.
+s457,Movie,Stolen Memories,Hansal Mehta,,Turkey,"August 13, 2019",2016,TV-Y,78,"Anime Series, Horror Movies, Romantic Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s726,TV Show,Crime Diaries,Asim Abbasi,"Sajal Aly, Bilal Abbas", India,05 January 2022,2024,unrated,,"Comedies, Thrillers",A young detective races against time to solve a case that could change everything.
+s836,Movie,Mirage,Karan Johar,"Irrfan Khan, Tabu", India,03/09/2016,2008,TV-MA,99,"Anime Series, Horror Movies, Dramas",
+s339,Movie,  Stolen Memories,,"Rajkummar Rao, Kangana Ranaut",united states,14 August 2015,2016,R,,"Action & Adventure, Kids' TV",An emotional journey of self discovery across three generations.
+s49,TV Show,Royal Affairs,Vishal Bhardwaj,,Japan, 28 May 2015 ,2018,R,4 Seasons,"International Movies, Anime Series","When secrets from the past resurface, a family must confront their darkest truths."
+s554,Movie,The Final Note,Nadeem Baig,"Aamir Khan, Kareena Kapoor",South korea ,07 November 2018,2023,NR,,"Romantic Movies, Thrillers, Stand-Up Comedy",A young detective races against time to solve a case that could change everything.
+s844,Movie,Quantum Break   ,Mahira Khan Productions,Nawazuddin Siddiqui,USA,"July 13, 2017",1999,TV-14,,"Stand-Up Comedy, Crime TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s646,Movie,Beyond the Horizon,Reema Kagti,,France,2016-02-29,2022,TV-14,,"Stand-Up Comedy, Action & Adventure, International Movies",A small town hides a big secret that threatens to unravel everything.
+s306,TV Show,Legal Eagles,,"Aamir Khan, Kareena Kapoor",U.S.A,"June 04, 2021",2007,TV-MA,,Romantic Movies,
+s392,TV Show,Code Red,Farhan Akhtar,,Japan,2017-03-28,2001,PG,5seasons,Comedies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s234,Movie,The Silent Witness,Asim Abbasi,"Ayushmann Khurrana, Bhumi Pednekar",india,"May 06, 2022",2000,TV-G,,"Crime TV Shows, Kids' TV, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s326,Movie,Echoes of War   ,,Nawazuddin Siddiqui,united states,2023-01-27,2006,TV-PG ,64 min,"Romantic Movies, Comedies",A small town hides a big secret that threatens to unravel everything.
+s902,Movie,WILD FIRE,Anurag Kashyap,"Aamir Khan, Kareena Kapoor",south korea,05 January 2022,2008,TV-Y,136 minutes,"Romantic Movies, Dramas",
+s311,Movie,Ocean's Whisper,Imtiaz Ali,, India,,2001,PG,152 minutes,"Crime TV Shows, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s561,Movie,Iron Will,,"Rajkummar Rao, Kangana Ranaut",,01-27-2015,2004,TV-MA,79 min,"International Movies, Sports Movies, Music & Musicals","When secrets from the past resurface, a family must confront their darkest truths."
+s400,Movie,The Long Road Home,Rajkumar Hirani,"Vicky Kaushal, Yami Gautam",Pakistan,"June 02, 2021",2005,NR,89 minutes,"Reality TV, Stand-Up Comedy",
+s782,TV Show,The Office India,Karan Johar,"Fawad Khan, Mahira Khan",south korea,08-07-2022,2021,,,"Anime Series, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s856,Movie,Iron Will,Asim Abbasi,"Hania Aamir, Asim Azhar",Turkey,2022-04-17,2014,,167 minutes,Horror Movies,An emotional journey of self discovery across three generations.
+s307,TV Show,Office Hours   ,Nadeem Baig,"Aamir Khan, Kareena Kapoor",India,2021-10-09,2021,unrated,6seasons,"Thrillers, Sports Movies",A young detective races against time to solve a case that could change everything.
+s258,Movie,Midnight Garden,Meghna Gulzar,"Vicky Kaushal, Yami Gautam",South Korea,20 May 2022,2004,PG,,"Stand-Up Comedy, Crime TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s795,Movie,Falling Stars,Anurag Kashyap,"Rajkummar Rao, Kangana Ranaut",United States,18/10/2021,2022,TV-14,88 minutes,Anime Series,"A thrilling ride through betrayal, power, and the cost of ambition."
+s444,Movie,BURNING BRIDGES,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",United Kingdom,15 July 2015,2020,TV-14,,Dramas,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s603,Movie,midnight garden,Asim Abbasi,"Fawad Khan, Mahira Khan", India,03-28-2019,2021,TV-14,,Dramas,
+s199,TV Show,Dance Academy   ,Asim Abbasi,Nawazuddin Siddiqui,,31 August 2016,2017,UNKNOWN,,"Sports Movies, British TV Shows",A young detective races against time to solve a case that could change everything.
+s459,Movie,Shadow Protocol,Mahira Khan Productions,"Aamir Khan, Kareena Kapoor",France,"January 01, 2022",2003,tv-14,108 min,"Dramas, Reality TV",Friends become rivals as ambition tears apart years of loyalty.
+s922,Movie,Wild Fire,Hansal Mehta,"Priyanka Chopra, Farhan Akhtar",,03-14-2016,2023,TV-G,83 min,"British TV Shows, Horror Movies, Stand-Up Comedy","In a city full of strangers, one chance encounter changes two lives forever."
+s40,Movie,  Wild Fire,Farhan Akhtar,,united kingdom,2022-09-16,2023,PG-13,74,"Romantic Movies, Music & Musicals, Sports Movies",A young detective races against time to solve a case that could change everything.
+s814,TV Show,Undercover,,"Vicky Kaushal, Yami Gautam",Pakistan ,2016-06-02,2024,NR,,Kids' TV,
+s559,Movie,The Final Note   ,Karan Johar,"Ayushmann Khurrana, Bhumi Pednekar",United Kingdom,2019-03-09,2016,TV-MA,168,"Dramas, Thrillers",
+s280,TV Show,Undercover,Sooraj Barjatya,"Irrfan Khan, Tabu",india,2021-08-14,2000,UNKNOWN,3 Seasons,International Movies,A small town hides a big secret that threatens to unravel everything.
+s416,TV Show,the detective,Shoojit Sircar,"Hania Aamir, Asim Azhar",U.S.A,05 December 2022,2004,TV-G,2,"Sports Movies, Action & Adventure, Kids' TV",Friends become rivals as ambition tears apart years of loyalty.
+s62,TV Show,The Newsroom 2,Mahira Khan Productions,"Irrfan Khan, Tabu",Pakistan ,04-12-2024,2021,UR,6,"Romantic Movies, Stand-Up Comedy",A small town hides a big secret that threatens to unravel everything.
+s543,TV Show,Mystery Lane,Rajkumar Hirani,"Shah Rukh Khan, Deepika Padukone",pakistan,10 September 2018,2010,TV-PG ,,"International Movies, Action & Adventure","A thrilling ride through betrayal, power, and the cost of ambition."
+s431,Movie,Rebel Hearts,Asim Abbasi,"Irrfan Khan, Tabu",USA,2021-05-29,2009,tv-14,70 minutes,"Horror Movies, International Movies",
+s156,TV Show,Legal Eagles,Asim Abbasi,"Hania Aamir, Asim Azhar",,"April 06, 2024",2001,TV-MA,3seasons,"Comedies, Crime TV Shows, Sports Movies",A small town hides a big secret that threatens to unravel everything.
+s346,Movie,Lost in Karachi,Ashutosh Gowariker,"Hania Aamir, Asim Azhar",United States,25 September 2016,2004,NR,,"International Movies, Crime TV Shows, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s248,tv show,Royal Affairs,Meghna Gulzar,Nawazuddin Siddiqui,UK,15/06/2018,2002,TV-MA,9seasons,"Reality TV, Thrillers",
+s537,Movie,Sunset Boulevard 2,Nadeem Baig,"Rajkummar Rao, Kangana Ranaut", India,2019-10-25,2009,TV-14,117 min,"Kids' TV, Reality TV, Crime TV Shows","In a city full of strangers, one chance encounter changes two lives forever."
+s711,Movie,Mirage,Sajal Aly,"Ranbir Kapoor, Alia Bhatt",united states,"September 05, 2022",2015,TV-PG ,101 minutes,Romantic Movies,"When secrets from the past resurface, a family must confront their darkest truths."
+s449,Movie,The Last Train,Rajkumar Hirani,"Ranbir Kapoor, Alia Bhatt",pakistan,2019-03-20,2005,PG,172,"Stand-Up Comedy, Sports Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s369,TV Show,Royal Affairs,Anand L. Rai,"Irrfan Khan, Tabu",USA, 12/11/2017 ,2024,R,4seasons,"Stand-Up Comedy, Music & Musicals",An emotional journey of self discovery across three generations.
+s736,Movie,The Last Heist,,Nawazuddin Siddiqui,Canada,08/06/2020,2015,UNKNOWN,,Reality TV,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s863,TV Show,The Newsroom 2,Imtiaz Ali,"Irrfan Khan, Tabu",Germany,2017-03-10,2005,TV-PG ,6,"Documentaries, International Movies, Sports Movies",An emotional journey of self discovery across three generations.
+s747,TV Show,Legal Eagles,Anurag Kashyap,"Aamir Khan, Kareena Kapoor",india,"May 24, 2015",2006,PG13,2 Seasons,"Documentaries, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s71,TV Show,High School Heroes,,"Hania Aamir, Asim Azhar", India,30/01/2022,2016,,2,"Music & Musicals, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s768,Movie,Burning Bridges,Mahira Khan Productions,"Rajkummar Rao, Kangana Ranaut",,16 December 2017,2019,,77 minutes,Horror Movies,
+s228,Movie,Mirage,Reema Kagti,,INDIA,12-27-2016,2017,,124 min,"Romantic Movies, Music & Musicals",
+s845,Movie,The Final Note,Reema Kagti,"Mahira Khan, Hamza Ali Abbasi",INDIA,"April 19, 2015",2008,TV-14,,"Dramas, International Movies, Horror Movies",An emotional journey of self discovery across three generations.
+s740,Movie,The Last Train   ,Meghna Gulzar,"Hania Aamir, Asim Azhar",USA,10-12-2015,1999,TV-G,148 min,Music & Musicals,A young detective races against time to solve a case that could change everything.
+s575,TV Show,Royal Affairs,Imtiaz Ali,"Rajkummar Rao, Kangana Ranaut",India,06-03-2016,1999,,4,Anime Series,A small town hides a big secret that threatens to unravel everything.
+s361,Movie,Love in Lahore,Hansal Mehta,"Sajal Aly, Bilal Abbas",india,06-07-2021,2017,TV-14,151 min,"Stand-Up Comedy, Romantic Movies, Comedies",
+s158,Movie,The Last Heist,Imtiaz Ali,"Vicky Kaushal, Yami Gautam",Canada,2020-12-10,1999,TV-PG,151 min,British TV Shows,"A thrilling ride through betrayal, power, and the cost of ambition."
+s816,Movie,The Final Note,,Nawazuddin Siddiqui, India,22/02/2017,2016,UNKNOWN,75,Comedies,Friends become rivals as ambition tears apart years of loyalty.
+s341,Movie,Sunset Boulevard 2,Ashutosh Gowariker,,United States,"September 15, 2021",2007,,,"Action & Adventure, Dramas",An emotional journey of self discovery across three generations.
+s265,Movie,Neon Nights,Zoya Akhtar,"Ayushmann Khurrana, Bhumi Pednekar",India, 06-18-2021 ,1999,TV-Y,,"International Movies, British TV Shows",Friends become rivals as ambition tears apart years of loyalty.
+s37,Movie,Beyond the Horizon,Hansal Mehta,"Aamir Khan, Kareena Kapoor",United States,06-11-2023,1998,PG,116,Kids' TV,A small town hides a big secret that threatens to unravel everything.
+s904,Movie,Burning Bridges,Hansal Mehta,"Hania Aamir, Asim Azhar",UK,"May 18, 2017",2000,TV-PG,63 min,"International Movies, Documentaries",
+s692,Movie,Midnight Garden,Shoojit Sircar,"Rajkummar Rao, Kangana Ranaut",south korea,2021-05-15,2014,TV-G,150 minutes,"British TV Shows, Documentaries","A thrilling ride through betrayal, power, and the cost of ambition."
+s85,Movie,Mirage,Anurag Kashyap,,USA,2024-03-22,2008,NR,,"British TV Shows, Action & Adventure, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s552,TV Show,High School Heroes,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",U.S.A,"February 23, 2020",2007,NR,8 Seasons,"Dramas, Action & Adventure",An emotional journey of self discovery across three generations.
+s319,Movie,Midnight Garden,,"Fawad Khan, Mahira Khan",,"December 06, 2016",2024,PG,,International Movies,"When secrets from the past resurface, a family must confront their darkest truths."
+s447,Movie,Hidden Truth,Meghna Gulzar,"Fawad Khan, Mahira Khan",Pakistan ,10 August 2023,2001,TV-PG,136 minutes,"Anime Series, Stand-Up Comedy, Sports Movies",A young detective races against time to solve a case that could change everything.
+s486,Movie,Burning Bridges   ,Meghna Gulzar,"Mahira Khan, Hamza Ali Abbasi",France,02-20-2016,2000,TV-PG,,Romantic Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s700,Movie,Sunset Boulevard 2,Sajal Aly,"Priyanka Chopra, Farhan Akhtar",united kingdom,"December 23, 2021",2023,R,73 minutes,"Documentaries, Reality TV, Kids' TV",A young detective races against time to solve a case that could change everything.
+s528,Movie,Wild Fire,Mahira Khan Productions,"Sajal Aly, Bilal Abbas",Germany,03-12-2017,2009,PG,,Horror Movies,Friends become rivals as ambition tears apart years of loyalty.
+s640,TV Show,Suits & Lies   ,Mahira Khan Productions,"Sajal Aly, Bilal Abbas",Turkey,2024-09-12,2021,NR,7,British TV Shows,
+s91,Movie,Broken Mirror,Rajkumar Hirani,"Rajkummar Rao, Kangana Ranaut",INDIA,25/10/2016,2005,,174 min,"Crime TV Shows, Stand-Up Comedy",
+s696,TV Show,City Lights   ,Hansal Mehta,,India,05/08/2015,2022,TV-14,,"Documentaries, Horror Movies, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s77,Movie,  Sunset Boulevard 2,Meghna Gulzar,,Japan,06-09-2023,2005,unrated,84 minutes,"Music & Musicals, Thrillers, Anime Series","In a city full of strangers, one chance encounter changes two lives forever."
+s936,Movie,DESERT STORM,Zoya Akhtar,"Shah Rukh Khan, Deepika Padukone",united kingdom,25 October 2017,2018,TV-MA,,International Movies,A small town hides a big secret that threatens to unravel everything.
+s785,Movie,Broken Mirror,Rajkumar Hirani,"Sajal Aly, Bilal Abbas",Pakistan,06/08/2015,2010,TV-G,97 minutes,"Sports Movies, Dramas, British TV Shows",A small town hides a big secret that threatens to unravel everything.
+s264,TV Show,Family Matters   ,Anand L. Rai,"Hania Aamir, Asim Azhar",pakistan,2021-07-12,2023,,,Action & Adventure,"A thrilling ride through betrayal, power, and the cost of ambition."
+s610,Movie,the maze runner x,Vishal Bhardwaj,"Mahira Khan, Hamza Ali Abbasi",United States, 01-07-2023 ,2011,unrated,60,International Movies,
+s135,Movie,Sunset Boulevard 2,Farhan Akhtar,"Fawad Khan, Mahira Khan",Pakistan,,2008,TV-PG,,Documentaries,"A thrilling ride through betrayal, power, and the cost of ambition."
+s353,TV Show,The Office India   ,Sooraj Barjatya,"Irrfan Khan, Tabu",Pakistan,"November 22, 2016",2004,,7 Seasons,British TV Shows,A small town hides a big secret that threatens to unravel everything.
+s423,Movie,The Final Note,,Nawazuddin Siddiqui,INDIA,2015-09-05,2011,TV-Y,,Romantic Movies,A small town hides a big secret that threatens to unravel everything.
+s219,Movie,Neon Nights,Vishal Bhardwaj,"Irrfan Khan, Tabu",united states,06-26-2017,2009,NR,,"Reality TV, Thrillers",
+s587,Movie,The Last Train,Meghna Gulzar,"Sajal Aly, Bilal Abbas",,2022-10-09,2011,NR,69 minutes,"Sports Movies, Reality TV, International Movies",A small town hides a big secret that threatens to unravel everything.
+s942,TV Show,Mystery Lane,,"Sajal Aly, Bilal Abbas",South korea ,29/07/2017,2014,R,4,Reality TV,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s717,TV Show,Family Matters,Anand L. Rai,"Sajal Aly, Bilal Abbas",United States,16/06/2020,2022,TV-MA,2 Seasons,Dramas,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s424,Movie,Lost in Karachi,Reema Kagti,"Ayushmann Khurrana, Bhumi Pednekar",United States,08 September 2020,2011,PG13,141 min,"Crime TV Shows, Stand-Up Comedy",A small town hides a big secret that threatens to unravel everything.
+s480,Movie,Mirage,,"Rajkummar Rao, Kangana Ranaut",pakistan,2015-07-16,2022,NR,,"Anime Series, Thrillers, Reality TV",A young detective races against time to solve a case that could change everything.
+s897,TV Show,The Negotiator,Meghna Gulzar,"Ranbir Kapoor, Alia Bhatt",south korea,"September 07, 2015",2006,PG-13,7 Seasons,"Stand-Up Comedy, Comedies, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s855,Movie,Echoes of War,Hansal Mehta,"Fawad Khan, Mahira Khan",,,2015,UR,,Music & Musicals,A young detective races against time to solve a case that could change everything.
+s808,movie,Quantum Break,Anurag Kashyap,,,10-04-2023,2012,UNKNOWN,107 min,Music & Musicals,Friends become rivals as ambition tears apart years of loyalty.
+s662,Movie,The Glass House,Meghna Gulzar,"Mahira Khan, Hamza Ali Abbasi",United Kingdom,2020-04-02,2008,r,92 min,International Movies,An emotional journey of self discovery across three generations.
+s859,Movie,Stolen Memories,Nadeem Baig,,India,11-03-2016,1998,,,Comedies,"When secrets from the past resurface, a family must confront their darkest truths."
+s819,Movie,The Maze Runner X   ,Rajkumar Hirani,,pakistan,28/03/2016,2006,TV-MA,,Music & Musicals,"A thrilling ride through betrayal, power, and the cost of ambition."
+s778,Movie,Rebel Hearts,Sooraj Barjatya,"Hania Aamir, Asim Azhar",Pakistan ,"October 12, 2016",2015,tv-14,,Reality TV,A young detective races against time to solve a case that could change everything.
+s827,Movie,Silent Echoes,,"Fawad Khan, Mahira Khan",United Kingdom,2016-10-04,2021,PG13,,Music & Musicals,Friends become rivals as ambition tears apart years of loyalty.
+s320,TV Show,  The Detective,Mahira Khan Productions,"Irrfan Khan, Tabu",united kingdom,08-10-2022,2019,TV-PG,6seasons,Documentaries,"A thrilling ride through betrayal, power, and the cost of ambition."
+s588,Movie,Broken Mirror,Asim Abbasi,"Vicky Kaushal, Yami Gautam",Turkey,16/10/2021,2008,tv-14,113,"Sports Movies, Stand-Up Comedy, Anime Series",Friends become rivals as ambition tears apart years of loyalty.
+s517,TV Show,  City Lights,Sooraj Barjatya,"Sajal Aly, Bilal Abbas",South korea ,16 September 2016,2013,TV-MA,3,"Action & Adventure, Thrillers, Comedies",A small town hides a big secret that threatens to unravel everything.
+s764,Movie,Love in Lahore,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar",,01/06/2024,2024,TV-MA,65 minutes,"Dramas, International Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s670,TV Show,The Office India,,"Aamir Khan, Kareena Kapoor",,03-21-2022,1998,R,6 Seasons,Thrillers,A young detective races against time to solve a case that could change everything.
+s263,Movie,Sunset Boulevard 2,Sooraj Barjatya,"Fawad Khan, Mahira Khan",Canada,2020-10-21,2007,PG13,87 min,"Kids' TV, Music & Musicals, Sports Movies",
+s496,Movie,Rebel Hearts,Sooraj Barjatya,Nawazuddin Siddiqui,Germany,11-08-2016,2010,TV-G,137,Dramas,A young detective races against time to solve a case that could change everything.
+s5,Movie,Neon Nights,Vishal Bhardwaj,"Sajal Aly, Bilal Abbas",France,03-18-2022,2002,,,"Anime Series, Documentaries",Friends become rivals as ambition tears apart years of loyalty.
+s891,Movie,Ocean's Whisper,Zoya Akhtar,, India,2017-05-30,2020,TV-PG,63 minutes,Documentaries,A young detective races against time to solve a case that could change everything.
+s697,TV Show,Code Red,Imtiaz Ali,,Pakistan,01-21-2016,2019,UR,,Stand-Up Comedy,A young detective races against time to solve a case that could change everything.
+s875,Movie,Whispering Pines,Rajkumar Hirani,"Vicky Kaushal, Yami Gautam",South Korea,01-03-2015,2019,PG-13,149 minutes,Horror Movies,An emotional journey of self discovery across three generations.
+s608,TV Show,Legal Eagles   ,Zoya Akhtar,"Irrfan Khan, Tabu",France,2015-02-25,2001,unrated,2 Seasons,"Sports Movies, Action & Adventure",
+s685,Movie,Silent Echoes,Shoojit Sircar,"Sajal Aly, Bilal Abbas",United Kingdom,19/06/2022,2022,PG,,"Anime Series, Dramas",
+s73,TV Show,High School Heroes,Anurag Kashyap,"Priyanka Chopra, Farhan Akhtar",India,11-29-2019,2017,NR,,"Stand-Up Comedy, Sports Movies",
+s474,Movie,  The Glass House,Hansal Mehta,"Ranbir Kapoor, Alia Bhatt",,,2015,NR,,"International Movies, Anime Series, Music & Musicals",Friends become rivals as ambition tears apart years of loyalty.
+s34,Movie,whispering pines,Nadeem Baig,"Hania Aamir, Asim Azhar",South korea , 05 February 2018 ,2004,UR,131,"Sports Movies, Stand-Up Comedy, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s847,TV Show,Startup Wars,,"Aamir Khan, Kareena Kapoor",pakistan,15 June 2019,2024,TV-PG ,7seasons,Documentaries,Friends become rivals as ambition tears apart years of loyalty.
+s205,Movie,Eternal Sunshine 2,,"Mahira Khan, Hamza Ali Abbasi",United Kingdom,05/11/2018,2002,,,"Stand-Up Comedy, Horror Movies",
+s760,Movie,Quantum Break,Asim Abbasi,,,"April 20, 2016",2002,TV-MA,,Horror Movies,
+s916,TV Show,OFFICE HOURS,Ashutosh Gowariker,"Rajkummar Rao, Kangana Ranaut",United States,,2012,unrated,9seasons,Action & Adventure,An emotional journey of self discovery across three generations.
+s790,TV Show,Undercover,Nadeem Baig,"Vicky Kaushal, Yami Gautam",United Kingdom,04-02-2015,2008,R,,Reality TV,"In a city full of strangers, one chance encounter changes two lives forever."
+s452,Movie,Neon Nights,,"Sajal Aly, Bilal Abbas",UK,01-12-2019,2013,,154,"Dramas, Anime Series",An emotional journey of self discovery across three generations.
+s233,TV Show,  The Office India,Asim Abbasi,"Hania Aamir, Asim Azhar",india,30 June 2019,2007,TV-MA,,"Dramas, International Movies",
+s940,Movie,The Forgotten Path,Anurag Kashyap,"Shah Rukh Khan, Deepika Padukone",Pakistan ,12-30-2022,2015,PG,147 min,"Music & Musicals, Sports Movies",An emotional journey of self discovery across three generations.
+s45,Movie,City of Dreams,Zoya Akhtar,,Japan,10 April 2018,2011,PG,118,"Crime TV Shows, Music & Musicals",
+s83,Movie,Northern Lights,Sajal Aly,"Rajkummar Rao, Kangana Ranaut",Japan,2020-05-14,2000,PG,64 min,Comedies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s438,Movie,  Mirage,Vishal Bhardwaj,"Rajkummar Rao, Kangana Ranaut",France,2016-03-29,2013,TV-G,170,Reality TV,An emotional journey of self discovery across three generations.
+s191,TV Show,Reality Check   ,Sooraj Barjatya,"Priyanka Chopra, Farhan Akhtar",United States,07/07/2015,2012,NR,,"Romantic Movies, Documentaries, Thrillers","A thrilling ride through betrayal, power, and the cost of ambition."
+s323,Movie,Stolen Memories,Imtiaz Ali,"Priyanka Chopra, Farhan Akhtar", India,27 January 2016,2022,NR,119,"Comedies, International Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s89,TV Show,Royal Affairs,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",,2022-02-25,2014,PG13,3seasons,"Dramas, Documentaries",
+s673,TV Show,Code Red   ,Imtiaz Ali,"Hania Aamir, Asim Azhar",Pakistan,"September 29, 2015",2012,NR,8seasons,"Dramas, Romantic Movies, Thrillers",A small town hides a big secret that threatens to unravel everything.
+s112,Movie,The Final Note,Sooraj Barjatya,Nawazuddin Siddiqui,France,28 August 2022,2009,,127,Dramas,"In a city full of strangers, one chance encounter changes two lives forever."
+s475,TV Show,Code Red,Sajal Aly,"Fawad Khan, Mahira Khan",South Korea,11 June 2016,2003,r,1 Season,Reality TV,"A thrilling ride through betrayal, power, and the cost of ambition."
+s183,Movie,Velvet Sky,Anurag Kashyap,"Aamir Khan, Kareena Kapoor",india,2021-06-01,2018,PG13,,Dramas,A small town hides a big secret that threatens to unravel everything.
+s433,Movie,Love in Lahore,Hansal Mehta,"Sajal Aly, Bilal Abbas",,24/05/2018,2017,NR,61 minutes,"Horror Movies, Anime Series",An emotional journey of self discovery across three generations.
+s2,Movie,Hidden Truth,Imtiaz Ali,"Vicky Kaushal, Yami Gautam",France,2016-09-28,2008,UR,168 minutes,"Kids' TV, Anime Series, Dramas",A small town hides a big secret that threatens to unravel everything.
+s381,TV Show,Medical Files,Nadeem Baig,"Ayushmann Khurrana, Bhumi Pednekar",South Korea,11 May 2022,2008,TV-PG,4 Seasons,"Reality TV, Documentaries, Anime Series","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s802,TV Show,The Office India,Ashutosh Gowariker,"Mahira Khan, Hamza Ali Abbasi",South korea ,14 July 2018,2006,UNKNOWN,1 season,"Kids' TV, Crime TV Shows, Romantic Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s119,Movie,Paper Moon,Ashutosh Gowariker,"Fawad Khan, Mahira Khan",United Kingdom,08/03/2015,2016,TV-G,85 minutes,Anime Series,
+s94,Movie,The Silent Witness   ,Vishal Bhardwaj,,South Korea,19/06/2016,2001,unrated,94,International Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s751,Movie,Burning Bridges,Karan Johar,"Rajkummar Rao, Kangana Ranaut",Japan,29/07/2019,2000,TV-PG,,"Documentaries, Music & Musicals","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s715,Movie,mirage,Mahira Khan Productions,,Pakistan ,07 March 2023,2012,TV-G,142,"Romantic Movies, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s932,Movie,  Shadow Protocol,,,United States,05/07/2021,2007,TV-G,,"British TV Shows, Crime TV Shows, Thrillers",An emotional journey of self discovery across three generations.
+s276,Movie,BROKEN MIRROR,,"Ayushmann Khurrana, Bhumi Pednekar",South korea ,2021-09-08,1998,unrated,,"Horror Movies, Action & Adventure",An emotional journey of self discovery across three generations.
+s360,TV Show,  The Investigators,Vishal Bhardwaj,"Irrfan Khan, Tabu",South Korea,01-24-2024,2019,unrated,9,Reality TV,"A thrilling ride through betrayal, power, and the cost of ambition."
+s61,TV Show,The Office India,Vishal Bhardwaj,"Ayushmann Khurrana, Bhumi Pednekar",INDIA,06 February 2022,2008,,9,"British TV Shows, Comedies","When secrets from the past resurface, a family must confront their darkest truths."
+s68,Movie,The Outsiders Club,Meghna Gulzar,"Shah Rukh Khan, Deepika Padukone",,03-18-2015,2008,TV-G,113 minutes,Anime Series,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s494,TV Show,Mystery Lane,,"Rajkummar Rao, Kangana Ranaut",,"February 09, 2016",2017,unrated,,"Romantic Movies, Dramas, Action & Adventure",Friends become rivals as ambition tears apart years of loyalty.
+s7,Movie,Wild Fire,Anand L. Rai,"Fawad Khan, Mahira Khan",Canada,2023-07-18,2001,R,,Romantic Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s383,TV Show,Reality Check,,"Ranbir Kapoor, Alia Bhatt", India,2020-09-30,2010,,7 Seasons,"Horror Movies, Reality TV",A young detective races against time to solve a case that could change everything.
+s556,TV Show,Startup Wars,Hansal Mehta,"Ranbir Kapoor, Alia Bhatt",Canada,2023-03-22,2000,TV-MA,8,Anime Series,An emotional journey of self discovery across three generations.
+s399,Movie,Broken Mirror,Hansal Mehta,"Aamir Khan, Kareena Kapoor",south korea,05/11/2020,2003,,90 minutes,"British TV Shows, Kids' TV, Comedies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s881,Movie,Wild Fire,Vishal Bhardwaj,"Rajkummar Rao, Kangana Ranaut", India,11/12/2016,2004,PG,153 min,British TV Shows,A small town hides a big secret that threatens to unravel everything.
+s919,TV Show,The Negotiator,Asim Abbasi,"Ayushmann Khurrana, Bhumi Pednekar",Germany,17 February 2015,2023,,,"Stand-Up Comedy, Thrillers","When secrets from the past resurface, a family must confront their darkest truths."
+s786,Movie,Stolen Memories,Sajal Aly,"Fawad Khan, Mahira Khan",United States, 19/04/2021 ,2014,,,"Music & Musicals, Documentaries",
+s868,Movie,Static,Zoya Akhtar,"Rajkummar Rao, Kangana Ranaut",south korea, 07-28-2018 ,2005,PG,,"British TV Shows, Crime TV Shows, Stand-Up Comedy","When secrets from the past resurface, a family must confront their darkest truths."
+s247,Movie,Broken Mirror   ,Sajal Aly,"Fawad Khan, Mahira Khan",united states,08-25-2018,2015,NR,,Music & Musicals,
+s464,TV Show,Royal Affairs,Anand L. Rai,"Ranbir Kapoor, Alia Bhatt",Pakistan,2021-01-23,2003,TV-14,,"Dramas, Action & Adventure, Documentaries",An emotional journey of self discovery across three generations.
+s735,Movie,Midnight Garden,Zoya Akhtar,"Irrfan Khan, Tabu",Turkey,12-07-2020,2021,unrated,84 minutes,"Romantic Movies, Documentaries, British TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s269,TV Show,Dance Academy   ,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",United Kingdom,"September 30, 2016",1999,,3,Stand-Up Comedy,"When secrets from the past resurface, a family must confront their darkest truths."
+s706,TV Show,High School Heroes,Sooraj Barjatya,"Rajkummar Rao, Kangana Ranaut",united kingdom,2016-09-30,2017,TV-G,5seasons,"Kids' TV, Crime TV Shows, Horror Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s165,TV Show,Undercover,Hansal Mehta,"Vicky Kaushal, Yami Gautam",South korea ,10/05/2019,2008,TV-MA,5 Seasons,"Horror Movies, Anime Series",
+s188,Movie,Northern Lights,,"Aamir Khan, Kareena Kapoor", India,18 September 2024,2017,PG13,,"Reality TV, Crime TV Shows, Dramas",A young detective races against time to solve a case that could change everything.
+s530,Movie,DARK WATERS,,"Irrfan Khan, Tabu",Turkey,02-19-2022,2003,NR,80,Romantic Movies,
+s668,TV Show,legal eagles,Rajkumar Hirani,Nawazuddin Siddiqui,Pakistan ,08 April 2019,2000,NR,9 Seasons,Crime TV Shows,"When secrets from the past resurface, a family must confront their darkest truths."
+s941,Movie,Wild Fire,Sajal Aly,Nawazuddin Siddiqui,Pakistan ,23 March 2021,2003,PG,,Action & Adventure,
+s854,TV Show,The Investigators,,"Sajal Aly, Bilal Abbas",South korea ,29 March 2015,2016,PG-13,3seasons,Documentaries,Friends become rivals as ambition tears apart years of loyalty.
+s92,TV Show,Dance Academy,Reema Kagti,,South korea ,22 May 2022,2017,,1 Season,Comedies,
+s60,TV Show,Medical Files,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",Japan,"November 24, 2021",2019,PG,1 Season,"Anime Series, Crime TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s886,Movie,  Iron Will,Asim Abbasi,"Ranbir Kapoor, Alia Bhatt",Pakistan, 27/09/2024 ,1998,unrated,,"Documentaries, Stand-Up Comedy, Comedies","In a city full of strangers, one chance encounter changes two lives forever."
+s287,Movie,City of Dreams,Mahira Khan Productions,"Vicky Kaushal, Yami Gautam",France,29/09/2018,2018,UNKNOWN,96 minutes,Reality TV,"In a city full of strangers, one chance encounter changes two lives forever."
+s828,Movie,Paper Moon,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",United States,2024-05-07,1998,TV-MA,,Action & Adventure,A young detective races against time to solve a case that could change everything.
+s336,Movie,Lost in Karachi,Rajkumar Hirani,"Ranbir Kapoor, Alia Bhatt",U.S.A,2021-12-08,2007,TV-PG ,150,Thrillers,"When secrets from the past resurface, a family must confront their darkest truths."
+s626,Movie,MIDNIGHT GARDEN,Sajal Aly,"Mahira Khan, Hamza Ali Abbasi",South korea ,2020-11-16,2016,TV-PG,144 min,Reality TV,A young detective races against time to solve a case that could change everything.
+s574,Movie,Broken Mirror,Ashutosh Gowariker,"Priyanka Chopra, Farhan Akhtar",U.S.A,26/11/2021,2008,TV-MA,,Thrillers,An emotional journey of self discovery across three generations.
+s840,TV Show,Startup Wars,Zoya Akhtar,"Aamir Khan, Kareena Kapoor",Canada,"October 17, 2024",2007,TV-G,3,"Reality TV, British TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s516,TV Show,undercover,Mahira Khan Productions,"Vicky Kaushal, Yami Gautam",United States,21 October 2016,2021,NR,,Stand-Up Comedy,"In a city full of strangers, one chance encounter changes two lives forever."
+s841,TV Show,Legal Eagles,Vishal Bhardwaj,"Priyanka Chopra, Farhan Akhtar",Canada,"September 14, 2024",2013,UR,5,"Dramas, Anime Series, International Movies","When secrets from the past resurface, a family must confront their darkest truths."
+s482,Movie,Echoes of War,Asim Abbasi,"Aamir Khan, Kareena Kapoor",Pakistan,24/07/2019,2018,PG13,,Action & Adventure,"In a city full of strangers, one chance encounter changes two lives forever."
+s286,tv show,Reality Check,Vishal Bhardwaj,"Aamir Khan, Kareena Kapoor",South korea ,15 June 2016,2014,PG,8seasons,"Thrillers, Horror Movies, Romantic Movies",Friends become rivals as ambition tears apart years of loyalty.
+s140,TV Show,MEDICAL FILES,,"Fawad Khan, Mahira Khan",United Kingdom,2018-01-30,2003,PG,,International Movies,"In a city full of strangers, one chance encounter changes two lives forever."
+s217,Movie,The Outsiders Club,Farhan Akhtar,"Sajal Aly, Bilal Abbas",South Korea,30 March 2022,2003,r,,Music & Musicals,
+s176,Movie,Hidden Truth,Karan Johar,"Vicky Kaushal, Yami Gautam",Pakistan,09 November 2018,2022,NR,,"Sports Movies, Reality TV",Friends become rivals as ambition tears apart years of loyalty.
+s950,Movie,Stolen Memories,,"Hania Aamir, Asim Azhar",Pakistan,,2004,TV-MA,,Dramas,"A thrilling ride through betrayal, power, and the cost of ambition."
+s831,TV Show,The Investigators,Karan Johar,"Fawad Khan, Mahira Khan",south korea,2023-12-17,1999,NR,2seasons,"Action & Adventure, Documentaries, Kids' TV",
+s282,TV Show,Reality Check,Zoya Akhtar,"Mahira Khan, Hamza Ali Abbasi",Pakistan ,,2022,unrated,,"Dramas, Reality TV, Thrillers",Friends become rivals as ambition tears apart years of loyalty.
+s420,Movie,Northern Lights,Asim Abbasi,"Shah Rukh Khan, Deepika Padukone",united states,19/03/2024,2005,PG,,"International Movies, Comedies, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s351,Movie,the long road home,Zoya Akhtar,"Vicky Kaushal, Yami Gautam",Pakistan,2020-10-29,2009,NR,70 minutes,"International Movies, Crime TV Shows","In a city full of strangers, one chance encounter changes two lives forever."
+s722,movie,Midnight Garden,Sajal Aly,"Fawad Khan, Mahira Khan",Canada, 09/11/2019 ,2021,PG,,Romantic Movies,
+s225,Movie,THE FORGOTTEN PATH,Meghna Gulzar,"Ayushmann Khurrana, Bhumi Pednekar",Pakistan,26/08/2019,2013,PG,,Thrillers,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s914,Movie,Whispering Pines,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",Japan,"April 08, 2022",2016,tv-14,,"Reality TV, Comedies, Crime TV Shows",An emotional journey of self discovery across three generations.
+s648,Movie,Lost in Karachi,Farhan Akhtar,,,12-30-2022,2002,TV-PG,,"Thrillers, Dramas",Friends become rivals as ambition tears apart years of loyalty.
+s65,Movie,Northern Lights,Sajal Aly,"Rajkummar Rao, Kangana Ranaut",," August 04, 2016 ",2014,UR,80 minutes,"Stand-Up Comedy, Anime Series",
+s51,Movie,Velvet Sky,Imtiaz Ali,"Mahira Khan, Hamza Ali Abbasi",Canada,"October 09, 2016",2009,R,148 minutes,"Reality TV, International Movies",An emotional journey of self discovery across three generations.
+s752,TV Show,Late Night Tales   ,Vishal Bhardwaj,"Priyanka Chopra, Farhan Akhtar",United States,2021-06-07,2023,UR,,Comedies,
+s19,TV Show,City Lights,Karan Johar,"Mahira Khan, Hamza Ali Abbasi",United States,2024-02-03,1998,NR,7seasons,"Documentaries, Anime Series","When secrets from the past resurface, a family must confront their darkest truths."
+s589,TV Show,CRIME DIARIES,Ashutosh Gowariker,"Aamir Khan, Kareena Kapoor",Japan,"June 01, 2016",1998,TV-14,,"Anime Series, Music & Musicals, Crime TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s728,Movie,Burning Bridges,Reema Kagti,"Fawad Khan, Mahira Khan",Canada," October 22, 2016 ",2013,TV-MA,,Music & Musicals,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s1,TV Show,Crime Diaries,Asim Abbasi,"Sajal Aly, Bilal Abbas", India,"February 11, 2021",1999,PG13,,"Dramas, Kids' TV, International Movies",
+s509,TV Show,City Lights,Asim Abbasi,"Fawad Khan, Mahira Khan",Pakistan,2022-11-23,1998,TV-G,6 Seasons,"International Movies, Stand-Up Comedy, Reality TV","When secrets from the past resurface, a family must confront their darkest truths."
+s826,TV Show,Undercover,Shoojit Sircar,"Rajkummar Rao, Kangana Ranaut",France,"February 14, 2016",2005,R,,"Horror Movies, Music & Musicals, Documentaries",A small town hides a big secret that threatens to unravel everything.
+s811,Movie,Stolen Memories,Imtiaz Ali,"Aamir Khan, Kareena Kapoor",,16 July 2016,2001,tv-14,102 minutes,Documentaries,
+s839,Movie,Hidden Truth,Anurag Kashyap,"Ranbir Kapoor, Alia Bhatt",Turkey,2023-02-21,2018,R,112 min,British TV Shows,A young detective races against time to solve a case that could change everything.
+s896,Movie,Shadow Protocol,Sajal Aly,"Fawad Khan, Mahira Khan",Canada,25 June 2020,2019,NR,,"Horror Movies, Stand-Up Comedy",Friends become rivals as ambition tears apart years of loyalty.
+s3,TV Show,  Beyond Borders,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",South Korea," November 25, 2022 ",2005,TV-14,4 Seasons,"Kids' TV, Thrillers","A thrilling ride through betrayal, power, and the cost of ambition."
+s909,TV Show,High School Heroes,Anand L. Rai,"Shah Rukh Khan, Deepika Padukone",india, 2016-02-21 ,2020,tv-14,1,"Kids' TV, Thrillers","In a city full of strangers, one chance encounter changes two lives forever."
+s518,TV Show,  Code Red,,"Hania Aamir, Asim Azhar", India,08-28-2023,2013,PG,3 Seasons,"Sports Movies, Dramas, Documentaries","In a city full of strangers, one chance encounter changes two lives forever."
+s799,TV Show,The Restaurant,,"Rajkummar Rao, Kangana Ranaut",India,03/11/2016,2013,TV-Y,3 Seasons,Thrillers,
+s446,Movie,The Glass House,,"Sajal Aly, Bilal Abbas",Germany,"October 19, 2019",2001,TV-PG ,143 minutes,Anime Series,Friends become rivals as ambition tears apart years of loyalty.
+s327,Movie,northern lights,Farhan Akhtar,"Ayushmann Khurrana, Bhumi Pednekar",UK,2021-11-09,2015,TV-14,,Sports Movies,A small town hides a big secret that threatens to unravel everything.
+s47,Movie,The Glass House,Asim Abbasi,"Ayushmann Khurrana, Bhumi Pednekar",united kingdom,28/06/2015,2020,TV-G,144,"Comedies, Action & Adventure",
+s498,Movie,Broken Mirror,Rajkumar Hirani,,United Kingdom,06/01/2015,2009,,,"Reality TV, Documentaries, Dramas","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s382,Movie,The Silent Witness,Sooraj Barjatya,"Aamir Khan, Kareena Kapoor",UK,"January 01, 2016",2003,UR,142,Reality TV,A small town hides a big secret that threatens to unravel everything.
+s301,TV Show,  Mystery Lane,Hansal Mehta,"Rajkummar Rao, Kangana Ranaut",Pakistan,"September 15, 2024",2020,TV-Y,,"British TV Shows, Kids' TV",Friends become rivals as ambition tears apart years of loyalty.
+s698,Movie,Echoes of War,Shoojit Sircar,"Shah Rukh Khan, Deepika Padukone",USA,"December 09, 2018",2022,r,62 min,"Comedies, Stand-Up Comedy, Documentaries","When secrets from the past resurface, a family must confront their darkest truths."
+s355,TV Show,The Office India,Imtiaz Ali,"Ranbir Kapoor, Alia Bhatt",,25 May 2018,2022,,,Reality TV,A small town hides a big secret that threatens to unravel everything.
+s888,TV Show,The Negotiator,Anurag Kashyap,"Priyanka Chopra, Farhan Akhtar",united kingdom,"February 03, 2021",2004,TV-PG,,Dramas,"In a city full of strangers, one chance encounter changes two lives forever."
+s108,TV Show,undercover,Zoya Akhtar,Nawazuddin Siddiqui,USA,15/12/2024,2018,R,,Thrillers,A young detective races against time to solve a case that could change everything.
+s906,Movie,the last heist,Farhan Akhtar,"Fawad Khan, Mahira Khan", India,,2009,TV-G,,"British TV Shows, Music & Musicals","In a city full of strangers, one chance encounter changes two lives forever."
+s842,Movie,The Long Road Home,Nadeem Baig,"Hania Aamir, Asim Azhar",United States,"April 29, 2024",2008,UNKNOWN,169 minutes,Crime TV Shows,Friends become rivals as ambition tears apart years of loyalty.
+s376,Movie,Burning Bridges,,,India,,2014,R,145,"Comedies, Reality TV, Action & Adventure","In a city full of strangers, one chance encounter changes two lives forever."
+s749,TV Show,The Newsroom 2,Farhan Akhtar,,UK,12/07/2022,2004,unrated,1 Season,"British TV Shows, Kids' TV, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s739,TV Show,Late Night Tales,Sajal Aly,"Hania Aamir, Asim Azhar",India,20 August 2018,1999,TV-MA,,Action & Adventure,A young detective races against time to solve a case that could change everything.
+s271,Movie,Falling Stars,Anand L. Rai,,Pakistan,16/01/2018,1998,UNKNOWN,,"International Movies, Music & Musicals, Documentaries",A small town hides a big secret that threatens to unravel everything.
+s725,Movie,The Last Heist,Vishal Bhardwaj,"Rajkummar Rao, Kangana Ranaut",Pakistan,01-08-2022,2008,TV-14,75,Action & Adventure,A young detective races against time to solve a case that could change everything.
+s55,TV Show,Crime Diaries,Zoya Akhtar,Nawazuddin Siddiqui,,07-22-2021,2009,PG13,8 Seasons,"Stand-Up Comedy, Music & Musicals, Reality TV",Friends become rivals as ambition tears apart years of loyalty.
+s461,Movie,Northern Lights,Asim Abbasi,"Hania Aamir, Asim Azhar",France,29/12/2018,1998,UR,166,International Movies,
+s858,Movie,Love in Lahore,Mahira Khan Productions,"Fawad Khan, Mahira Khan",France,2024-04-25,2023,TV-Y,75 minutes,Kids' TV,An emotional journey of self discovery across three generations.
+s602,Movie,Rebel Hearts,Hansal Mehta,"Irrfan Khan, Tabu",United Kingdom,23/10/2016,2004,PG-13,180 min,"International Movies, Kids' TV, Crime TV Shows",A small town hides a big secret that threatens to unravel everything.
+s525,TV Show,Power Play,Hansal Mehta,"Vicky Kaushal, Yami Gautam",USA,2017-05-09,2016,TV-Y,6 Seasons,"Reality TV, Kids' TV","When secrets from the past resurface, a family must confront their darkest truths."
+s343,Movie,Fragments   ,Farhan Akhtar,"Irrfan Khan, Tabu",,"April 27, 2015",2013,TV-14,,"British TV Shows, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s489,Movie,Burning Bridges,Asim Abbasi,"Fawad Khan, Mahira Khan",South Korea,"September 11, 2021",2007,tv-14,,Documentaries,Friends become rivals as ambition tears apart years of loyalty.
+s618,TV Show,Mystery Lane,Hansal Mehta,"Aamir Khan, Kareena Kapoor",United Kingdom,"April 09, 2023",2019,TV-Y,,"Horror Movies, Kids' TV, Dramas",An emotional journey of self discovery across three generations.
+s925,Movie,The Forgotten Path,Reema Kagti,Nawazuddin Siddiqui,Pakistan," December 27, 2021 ",2000,tv-14,174,"Documentaries, British TV Shows",Friends become rivals as ambition tears apart years of loyalty.
+s167,Movie,Burning Bridges,,"Ranbir Kapoor, Alia Bhatt",United Kingdom,02-02-2024,2003,tv-14,89,Sports Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s182,Movie,  The Maze Runner X,Meghna Gulzar,,united states,08-30-2020,2001,PG-13,,Sports Movies,
+s273,TV Show,Startup Wars,Rajkumar Hirani,,USA,"February 20, 2024",2006,NR,7seasons,Anime Series,
+s447,Movie,Hidden Truth,Meghna Gulzar,"Fawad Khan, Mahira Khan",Pakistan ,10 August 2023,2001,TV-PG,136 minutes,"Anime Series, Stand-Up Comedy, Sports Movies",A young detective races against time to solve a case that could change everything.
+s918,Movie,Midnight Garden,Hansal Mehta,"Priyanka Chopra, Farhan Akhtar",Canada,"September 12, 2020",2000,TV-G,,Documentaries,"When secrets from the past resurface, a family must confront their darkest truths."
+s413,TV Show,Family Matters,Nadeem Baig,"Mahira Khan, Hamza Ali Abbasi",South korea ,30/12/2023,2008,PG,5seasons,"Stand-Up Comedy, Documentaries, International Movies",A small town hides a big secret that threatens to unravel everything.
+s607,Movie,Northern Lights,Rajkumar Hirani,"Hania Aamir, Asim Azhar",Turkey,23/01/2015,2022,PG,123,"Music & Musicals, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s730,movie,Burning Bridges,Anand L. Rai,"Hania Aamir, Asim Azhar",France,03-17-2020,2021,TV-G,77 minutes,"Romantic Movies, Crime TV Shows","A thrilling ride through betrayal, power, and the cost of ambition."
+s624,TV Show,High School Heroes,,"Hania Aamir, Asim Azhar",India,01/05/2020,2001,NR,5seasons,"Documentaries, Anime Series","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s95,Movie,Falling Stars,Sajal Aly,"Rajkummar Rao, Kangana Ranaut",South korea ,2017-02-16,2014,r,,"Music & Musicals, International Movies, Sports Movies",
+s288,Movie,The Last Heist   ,Vishal Bhardwaj,"Hania Aamir, Asim Azhar",South korea ,2015-04-30,2024,UNKNOWN,121 min,"Romantic Movies, Thrillers, Action & Adventure",A small town hides a big secret that threatens to unravel everything.
+s149,TV Show,Late Night Tales,Ashutosh Gowariker,"Ayushmann Khurrana, Bhumi Pednekar",United Kingdom,2016-02-16,2016,TV-Y,7,Thrillers,"In a city full of strangers, one chance encounter changes two lives forever."
+s565,Movie,The Forgotten Path,,"Hania Aamir, Asim Azhar",united kingdom,14/02/2018,2000,PG,120,"Kids' TV, Action & Adventure, Horror Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s661,Movie,Love in Lahore,Ashutosh Gowariker,"Rajkummar Rao, Kangana Ranaut",INDIA,2021-06-09,2012,,144 minutes,"Reality TV, Horror Movies, Dramas",A young detective races against time to solve a case that could change everything.
+s817,TV Show,  Legal Eagles,Sooraj Barjatya,"Ranbir Kapoor, Alia Bhatt",Canada,"June 11, 2021",2020,TV-MA,7 Seasons,"Crime TV Shows, Thrillers",A young detective races against time to solve a case that could change everything.
+s690,TV Show,Undercover,Farhan Akhtar,"Vicky Kaushal, Yami Gautam",United States,"October 20, 2022",2000,TV-G,5seasons,"Stand-Up Comedy, Kids' TV, Documentaries",An emotional journey of self discovery across three generations.
+s2,Movie,Hidden Truth,Imtiaz Ali,"Vicky Kaushal, Yami Gautam",France,2016-09-28,2008,UR,168 minutes,"Kids' TV, Anime Series, Dramas",A small town hides a big secret that threatens to unravel everything.
+s99,Movie,Northern Lights,Ashutosh Gowariker,"Ayushmann Khurrana, Bhumi Pednekar",,"January 21, 2022",2006,PG-13,,Anime Series,A young detective races against time to solve a case that could change everything.
+s77,Movie,  Sunset Boulevard 2,Meghna Gulzar,,Japan,06-09-2023,2005,unrated,84 minutes,"Music & Musicals, Thrillers, Anime Series","In a city full of strangers, one chance encounter changes two lives forever."
+s880,Movie,Falling Stars   ,Reema Kagti,"Rajkummar Rao, Kangana Ranaut",Pakistan,09-19-2021,2004,TV-Y,134 min,Horror Movies,Friends become rivals as ambition tears apart years of loyalty.
+s190,TV Show,Family Matters,,"Irrfan Khan, Tabu",U.S.A,04 June 2015,2009,TV-Y,9seasons,Dramas,Friends become rivals as ambition tears apart years of loyalty.
+s617,Movie,Fragments,,"Vicky Kaushal, Yami Gautam", India,,1998,TV-PG,154,British TV Shows,"When secrets from the past resurface, a family must confront their darkest truths."
+s395,TV Show,The Newsroom 2,Zoya Akhtar,"Ranbir Kapoor, Alia Bhatt",South Korea,2016-05-18,2011,TV-MA,,"Reality TV, Kids' TV",A young detective races against time to solve a case that could change everything.
+s304,TV Show,The Investigators,Rajkumar Hirani,"Ayushmann Khurrana, Bhumi Pednekar",united states,"May 26, 2020",2021,R,,Action & Adventure,Friends become rivals as ambition tears apart years of loyalty.
+s500,TV Show,Beyond Borders   ,Asim Abbasi,,South Korea,"May 16, 2020",2012,TV-PG ,,"Documentaries, Stand-Up Comedy","In a city full of strangers, one chance encounter changes two lives forever."
+s142,TV Show,The Newsroom 2,Mahira Khan Productions,"Vicky Kaushal, Yami Gautam",South Korea,11-04-2021,2002,PG-13,,"Kids' TV, Reality TV",
+s766,TV Show,The Newsroom 2   ,,"Fawad Khan, Mahira Khan",USA,17/04/2022,2015,R,,"Anime Series, Sports Movies",
+s688,TV Show,The Newsroom 2,Mahira Khan Productions,"Priyanka Chopra, Farhan Akhtar",Germany,04-22-2023,2022,PG,2,"Thrillers, Documentaries","In a city full of strangers, one chance encounter changes two lives forever."
+s93,Movie,Neon Nights,,"Fawad Khan, Mahira Khan",,14/03/2022,2023,TV-G,98 min,Music & Musicals,An emotional journey of self discovery across three generations.
+s724,Movie,Sunset Boulevard 2,Anurag Kashyap,"Vicky Kaushal, Yami Gautam",South Korea,"April 09, 2016",2023,PG-13,69 min,Thrillers,"When secrets from the past resurface, a family must confront their darkest truths."
+s298,Movie,Love in Lahore,,"Irrfan Khan, Tabu",France,02 November 2018,2003,TV-14,,"International Movies, Reality TV",
+s468,TV Show,  Undercover,Vishal Bhardwaj,"Aamir Khan, Kareena Kapoor",,04 July 2024,2024,r,7 Seasons,"Romantic Movies, British TV Shows",Friends become rivals as ambition tears apart years of loyalty.
+s499,Movie,HIDDEN TRUTH,Imtiaz Ali,"Priyanka Chopra, Farhan Akhtar",Turkey,05-13-2023,2006,NR,164,"Kids' TV, International Movies",
+s472,Movie,The Long Road Home,,"Irrfan Khan, Tabu",France,2016-05-01,2007,TV-PG,143 min,"Anime Series, Romantic Movies",A small town hides a big secret that threatens to unravel everything.
+s121,TV Show,  The Newsroom 2,Karan Johar,"Rajkummar Rao, Kangana Ranaut",Pakistan,2015-02-07,2009,UNKNOWN,,Dramas,
+s322,TV Show,The Investigators,Ashutosh Gowariker,,Japan,2017-04-24,2014,PG13,,"Comedies, Reality TV, Action & Adventure",A small town hides a big secret that threatens to unravel everything.
+s523,Movie,STOLEN MEMORIES,Meghna Gulzar,"Irrfan Khan, Tabu",south korea,10-20-2016,2020,TV-MA,,Action & Adventure,
+s344,Movie,City of Dreams,,"Fawad Khan, Mahira Khan",United States,21/08/2016,2020,TV-PG ,,"Horror Movies, Dramas, Romantic Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s370,Movie,Desert Storm,Shoojit Sircar,Nawazuddin Siddiqui,South Korea,"October 31, 2024",2020,tv-14,,"Stand-Up Comedy, Thrillers, Horror Movies","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s473,Movie,Desert Storm   ,,,United Kingdom,,2016,PG,95 min,"Documentaries, Crime TV Shows, Thrillers",An emotional journey of self discovery across three generations.
+s803,Movie,sunset boulevard 2,Imtiaz Ali,"Irrfan Khan, Tabu", India,25 January 2018,2015,TV-MA,153 minutes,"Comedies, Thrillers, Reality TV",Friends become rivals as ambition tears apart years of loyalty.
+s928,Movie,Neon Nights,,"Fawad Khan, Mahira Khan",,,2010,,78 min,"Kids' TV, Crime TV Shows",
+s143,TV Show,Reality Check,Nadeem Baig,"Rajkummar Rao, Kangana Ranaut",,07-09-2016,2006,TV-PG,3seasons,Stand-Up Comedy,Friends become rivals as ambition tears apart years of loyalty.
+s378,Movie,Crimson Tide,Shoojit Sircar,"Vicky Kaushal, Yami Gautam",Germany, 05-16-2022 ,2002,TV-PG ,120,"Music & Musicals, Crime TV Shows, Comedies",A small town hides a big secret that threatens to unravel everything.
+s586,TV Show,The Office India,Asim Abbasi,"Ayushmann Khurrana, Bhumi Pednekar",South korea ,03-26-2023,2001,NR,,"Music & Musicals, Documentaries","In a city full of strangers, one chance encounter changes two lives forever."
+s780,Movie,  Love in Lahore,Zoya Akhtar,"Aamir Khan, Kareena Kapoor",United States,09-27-2023,2009,TV-PG,179,Stand-Up Comedy,A young detective races against time to solve a case that could change everything.
+s6,Movie,Whispering Pines   ,Rajkumar Hirani,"Rajkummar Rao, Kangana Ranaut",,08-19-2022,2010,unrated,127 min,"International Movies, Stand-Up Comedy, Kids' TV","In a city full of strangers, one chance encounter changes two lives forever."
+s876,TV Show,The Restaurant,Rajkumar Hirani,"Fawad Khan, Mahira Khan",United States,2021-01-28,2008,R,5seasons,"Anime Series, Thrillers, Reality TV",An emotional journey of self discovery across three generations.
+s567,Movie,  Love in Lahore,Nadeem Baig,"Shah Rukh Khan, Deepika Padukone",,24/07/2023,2024,TV-PG ,,"Romantic Movies, Stand-Up Comedy",
+s81,Movie,Falling Stars,Zoya Akhtar,"Rajkummar Rao, Kangana Ranaut",Turkey,01 February 2022,2020,UR,138,"British TV Shows, Action & Adventure, Stand-Up Comedy","When secrets from the past resurface, a family must confront their darkest truths."
+s310,TV Show,Mystery Lane   ,Hansal Mehta,,united kingdom,24/04/2022,2006,R,,"Thrillers, Horror Movies, Stand-Up Comedy",
+s948,movie,  City of Dreams,Asim Abbasi,"Ranbir Kapoor, Alia Bhatt",India,11-08-2020,2010,TV-MA,,"Sports Movies, Horror Movies, Crime TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s390,Movie,  Wild Fire,Sooraj Barjatya,Nawazuddin Siddiqui,,08-11-2022,1999,TV-G,133 min,"British TV Shows, Music & Musicals",A small town hides a big secret that threatens to unravel everything.
+s192,Movie,  Dark Waters,Asim Abbasi,,United Kingdom,12 August 2021,2009,TV-MA,141 minutes,"Comedies, Reality TV, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s851,Movie,The Forgotten Path,Reema Kagti,"Rajkummar Rao, Kangana Ranaut",,2016-04-19,2015,,84 minutes,"Thrillers, Sports Movies",
+s573,Movie,Iron Will,Ashutosh Gowariker,Nawazuddin Siddiqui,united kingdom,"July 21, 2017",1998,PG-13,,"Dramas, Kids' TV, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s592,Movie,Neon Nights,Reema Kagti,"Ayushmann Khurrana, Bhumi Pednekar",USA,23/04/2019,2002,PG13,,"Stand-Up Comedy, Comedies, Documentaries","In a city full of strangers, one chance encounter changes two lives forever."
+s535,TV Show,Power Play,Hansal Mehta,"Fawad Khan, Mahira Khan",UK,20/09/2024,2004,TV-PG ,4 Seasons,"Romantic Movies, Sports Movies, Music & Musicals",A small town hides a big secret that threatens to unravel everything.
+s647,Movie,Love in Lahore,Shoojit Sircar,"Vicky Kaushal, Yami Gautam",pakistan,09-23-2022,2012,R,64,Reality TV,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s870,Movie,Dark Waters,Meghna Gulzar,"Fawad Khan, Mahira Khan",Germany,05/03/2016,2002,NR,158,Romantic Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s915,Movie,Whispering Pines,Rajkumar Hirani,Nawazuddin Siddiqui,pakistan,2024-04-26,2011,,136 minutes,"International Movies, Reality TV, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s368,TV Show,Family Matters,Meghna Gulzar,"Rajkummar Rao, Kangana Ranaut",,"October 17, 2021",2019,TV-MA,4,"Anime Series, Romantic Movies, Stand-Up Comedy","A thrilling ride through betrayal, power, and the cost of ambition."
+s783,Movie,The Long Road Home,Karan Johar,"Vicky Kaushal, Yami Gautam", India,14/02/2019,2011,r,,Dramas,Friends become rivals as ambition tears apart years of loyalty.
+s719,Movie,THE FORGOTTEN PATH,Zoya Akhtar,"Priyanka Chopra, Farhan Akhtar",France,03-12-2021,2006,PG-13,,Comedies,A young detective races against time to solve a case that could change everything.
+s903,TV Show,The Negotiator,Anurag Kashyap,"Vicky Kaushal, Yami Gautam",India,29 May 2017,2002,PG,1 Season,Music & Musicals,"When secrets from the past resurface, a family must confront their darkest truths."
+s442,Movie,SUNSET BOULEVARD 2,Mahira Khan Productions,"Priyanka Chopra, Farhan Akhtar",india,10-15-2022,2021,PG13,61 minutes,Romantic Movies,"A thrilling ride through betrayal, power, and the cost of ambition."
+s136,TV Show,The Detective,,"Ranbir Kapoor, Alia Bhatt",,30 April 2015,2012,TV-G,1 season,Kids' TV,"When secrets from the past resurface, a family must confront their darkest truths."
+s90,Movie,The Outsiders Club   ,Anurag Kashyap,"Shah Rukh Khan, Deepika Padukone",,11-23-2020,2024,TV-PG,,"Horror Movies, Action & Adventure",
+s23,TV Show,Reality Check,Ashutosh Gowariker,"Vicky Kaushal, Yami Gautam",South Korea,2019-12-17,2023,TV-PG,2,"Stand-Up Comedy, Comedies, British TV Shows",Friends become rivals as ambition tears apart years of loyalty.
+s130,Movie,Falling Stars,Vishal Bhardwaj,Nawazuddin Siddiqui,united kingdom,20 April 2022,2008,PG-13,,"Reality TV, Horror Movies",A small town hides a big secret that threatens to unravel everything.
+s243,TV Show,Medical Files,Zoya Akhtar,Nawazuddin Siddiqui,Canada,14 April 2021,2006,UR,2,"Crime TV Shows, Reality TV, Music & Musicals",
+s609,TV Show,Royal Affairs,Imtiaz Ali,"Aamir Khan, Kareena Kapoor",pakistan,14/11/2024,2017,TV-PG,3,"Crime TV Shows, Anime Series, Reality TV","A thrilling ride through betrayal, power, and the cost of ambition."
+s710,Movie,The Last Heist,Vishal Bhardwaj,"Rajkummar Rao, Kangana Ranaut",United States,"April 01, 2017",2002,NR,88,"Music & Musicals, Dramas",A small town hides a big secret that threatens to unravel everything.
+s24,Movie,Rebel Hearts   ,Rajkumar Hirani,"Sajal Aly, Bilal Abbas",Turkey,10-26-2015,2018,TV-G,111,"Dramas, Music & Musicals, Anime Series","When secrets from the past resurface, a family must confront their darkest truths."
+s21,Movie,Quantum Break,Nadeem Baig,"Fawad Khan, Mahira Khan",USA,27/10/2023,2014,,,Crime TV Shows,"A thrilling ride through betrayal, power, and the cost of ambition."
+s466,Movie,City of Dreams   ,,"Mahira Khan, Hamza Ali Abbasi", India,05/06/2016,2016,R,135,"British TV Shows, Documentaries","A thrilling ride through betrayal, power, and the cost of ambition."
+s584,Movie,Love in Lahore,Zoya Akhtar,"Priyanka Chopra, Farhan Akhtar",Pakistan , 03-02-2019 ,2011,TV-PG,137 minutes,"British TV Shows, Music & Musicals","A thrilling ride through betrayal, power, and the cost of ambition."
+s80,Movie,Fragments,Karan Johar,"Vicky Kaushal, Yami Gautam",Japan,"November 21, 2015",2024,,74 minutes,Reality TV,"When secrets from the past resurface, a family must confront their darkest truths."
+s865,TV Show,Beyond Borders   ,Mahira Khan Productions,Nawazuddin Siddiqui,,11/06/2018,2021,TV-Y,1 season,"Reality TV, Kids' TV","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s465,Movie,Velvet Sky,Zoya Akhtar,,south korea,"July 08, 2020",2008,TV-14,,"British TV Shows, Anime Series, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s372,TV Show,OFFICE HOURS,,"Rajkummar Rao, Kangana Ranaut",pakistan,25/08/2019,2010,PG-13,1 Season,"Thrillers, Music & Musicals, Comedies",A small town hides a big secret that threatens to unravel everything.
+s185,Movie,  Silent Echoes,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",Turkey,"September 04, 2022",2008,TV-Y,93 minutes,Romantic Movies,
+s440,TV Show,Reality Check,Anand L. Rai,"Hania Aamir, Asim Azhar",Canada,2024-03-26,2003,TV-G,,"Documentaries, Horror Movies, Reality TV","When secrets from the past resurface, a family must confront their darkest truths."
+s89,TV Show,Royal Affairs,Farhan Akhtar,"Rajkummar Rao, Kangana Ranaut",,2022-02-25,2014,PG13,3seasons,"Dramas, Documentaries",
+s823,TV Show,THE INVESTIGATORS,Sooraj Barjatya,,Turkey,"January 01, 2019",2017,PG13,6 Seasons,"Horror Movies, Thrillers",Friends become rivals as ambition tears apart years of loyalty.
+s380,Movie,Love in Lahore,Shoojit Sircar,,united states,,2019,TV-14,110 min,"Romantic Movies, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s32,TV Show,The Investigators,Meghna Gulzar,"Priyanka Chopra, Farhan Akhtar",united states, 06/04/2022 ,2011,TV-14,7,"Music & Musicals, Horror Movies, Action & Adventure",An emotional journey of self discovery across three generations.
+s373,TV Show,  Code Red,,"Irrfan Khan, Tabu",United States,2019-02-16,2001,,,"Sports Movies, Comedies, International Movies",Friends become rivals as ambition tears apart years of loyalty.
+s75,Movie,The Outsiders Club,Vishal Bhardwaj,"Rajkummar Rao, Kangana Ranaut",, 15 April 2023 ,2019,NR,106,Stand-Up Comedy,A small town hides a big secret that threatens to unravel everything.
+s927,Movie,Velvet Sky   ,Zoya Akhtar,"Irrfan Khan, Tabu",india,25/10/2022,2023,TV-G,,"Action & Adventure, Anime Series, Kids' TV",A young detective races against time to solve a case that could change everything.
+s801,Movie,Mirage,,"Mahira Khan, Hamza Ali Abbasi",France,"March 15, 2023",2021,R,128 min,"Stand-Up Comedy, Dramas",An emotional journey of self discovery across three generations.
+s497,Movie,The Last Heist,Reema Kagti,Nawazuddin Siddiqui,,2018-05-27,2006,TV-PG,65,"Comedies, Stand-Up Comedy",A young detective races against time to solve a case that could change everything.
+s657,Movie,CRIMSON TIDE,Sooraj Barjatya,"Vicky Kaushal, Yami Gautam",INDIA,05/10/2016,2013,TV-G,152,"Sports Movies, Music & Musicals","In a city full of strangers, one chance encounter changes two lives forever."
+s677,Movie,Northern Lights,Sajal Aly,"Aamir Khan, Kareena Kapoor",united kingdom,02-26-2021,2019,NR,160 minutes,"Dramas, Kids' TV",A young detective races against time to solve a case that could change everything.
+s699,TV Show,  Startup Wars,Vishal Bhardwaj,"Irrfan Khan, Tabu",UK,26/04/2021,2003,,8seasons,"Crime TV Shows, Documentaries, Comedies",A young detective races against time to solve a case that could change everything.
+s542,TV Show,Suits & Lies,,"Shah Rukh Khan, Deepika Padukone",india,"July 22, 2016",2020,PG-13,3 Seasons,Horror Movies,
+s484,Movie,Mirage,Rajkumar Hirani,"Ayushmann Khurrana, Bhumi Pednekar",INDIA,21 November 2024,2003,TV-PG ,,"Anime Series, Action & Adventure","A thrilling ride through betrayal, power, and the cost of ambition."
+s122,Movie,Mirage,Hansal Mehta,"Aamir Khan, Kareena Kapoor",united kingdom,2019-10-30,2001,PG-13,127 minutes,"Kids' TV, Anime Series",An emotional journey of self discovery across three generations.
+s580,Movie,Wild Fire,Hansal Mehta,Nawazuddin Siddiqui,,26/10/2020,2010,PG13,61 minutes,"Kids' TV, Comedies, International Movies",
+s651,TV Show,The Negotiator,Sooraj Barjatya,,united states,16 January 2018,2021,TV-14,,"Thrillers, International Movies, Romantic Movies",A young detective races against time to solve a case that could change everything.
+s920,Movie,Rebel Hearts,Anurag Kashyap,"Aamir Khan, Kareena Kapoor",Pakistan,"June 29, 2022",2014,R,,"Romantic Movies, Thrillers, Horror Movies",An emotional journey of self discovery across three generations.
+s533,Movie,The Silent Witness   ,Karan Johar,"Aamir Khan, Kareena Kapoor",INDIA,17/07/2020,2004,unrated,161 min,"Action & Adventure, International Movies",An emotional journey of self discovery across three generations.
+s569,TV Show,HIGH SCHOOL HEROES,,"Priyanka Chopra, Farhan Akhtar",united kingdom,04-12-2024,2009,NR,3 Seasons,"British TV Shows, Stand-Up Comedy",An emotional journey of self discovery across three generations.
+s572,TV Show,The Newsroom 2,Rajkumar Hirani,"Sajal Aly, Bilal Abbas",UK,"November 03, 2021",2000,TV-14,,Kids' TV,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s444,Movie,BURNING BRIDGES,Rajkumar Hirani,"Mahira Khan, Hamza Ali Abbasi",United Kingdom,15 July 2015,2020,TV-14,,Dramas,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s553,TV Show,Family Matters,Imtiaz Ali,"Sajal Aly, Bilal Abbas",France,"May 07, 2023",2010,R,,"Documentaries, Romantic Movies, Stand-Up Comedy","A thrilling ride through betrayal, power, and the cost of ambition."
+s240,Movie,  Static,Meghna Gulzar,"Irrfan Khan, Tabu",United States,08 May 2016,2020,UNKNOWN,86 min,"Horror Movies, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s541,Movie,  Mirage,,"Fawad Khan, Mahira Khan", India,28/08/2019,2022,tv-14,,"Comedies, Crime TV Shows, Romantic Movies",A small town hides a big secret that threatens to unravel everything.
+s14,TV Show,The Office India,Anurag Kashyap,"Ayushmann Khurrana, Bhumi Pednekar",united kingdom,06 May 2016,2017,tv-14,,"Stand-Up Comedy, Music & Musicals, Romantic Movies",Friends become rivals as ambition tears apart years of loyalty.
+s804,Movie,City of Dreams,Sooraj Barjatya,"Priyanka Chopra, Farhan Akhtar",United States,"March 31, 2017",2000,PG13,62,"Kids' TV, Action & Adventure, Stand-Up Comedy","In a city full of strangers, one chance encounter changes two lives forever."
+s471,Movie,the forgotten path,Mahira Khan Productions,,South Korea,"June 15, 2021",2002,UR,146 min,Horror Movies,A small town hides a big secret that threatens to unravel everything.
+s622,Movie,Whispering Pines,Meghna Gulzar,"Hania Aamir, Asim Azhar",Germany, 2022-01-28 ,2024,TV-PG,,"Reality TV, International Movies","A thrilling ride through betrayal, power, and the cost of ambition."
+s398,TV Show,High School Heroes,Imtiaz Ali,"Rajkummar Rao, Kangana Ranaut",south korea,08-24-2016,2004,PG,,Reality TV,"When secrets from the past resurface, a family must confront their darkest truths."
+s164,Movie,Sunset Boulevard 2,Rajkumar Hirani,"Ayushmann Khurrana, Bhumi Pednekar",United Kingdom,08-05-2020,2013,r,77,"Thrillers, Stand-Up Comedy, Anime Series",
+s415,Movie,Eternal Sunshine 2,Meghna Gulzar,"Irrfan Khan, Tabu",UK,"February 04, 2015",2004,PG13,157 minutes,"Horror Movies, International Movies, Comedies",
+s637,Movie,The Final Note,Nadeem Baig,"Aamir Khan, Kareena Kapoor",UK,"July 27, 2018",1998,PG-13,,"British TV Shows, Stand-Up Comedy",
+s579,TV Show,  Royal Affairs,Farhan Akhtar,"Fawad Khan, Mahira Khan",united states,29/10/2021,2006,PG-13,1,"British TV Shows, Sports Movies, Crime TV Shows","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s582,Movie,Burning Bridges,Hansal Mehta,"Sajal Aly, Bilal Abbas",South korea ,06 February 2018,2000,r,95 minutes,"Romantic Movies, International Movies",A young detective races against time to solve a case that could change everything.
+s744,TV Show,The Newsroom 2,Sajal Aly,"Shah Rukh Khan, Deepika Padukone",UK,2024-10-20,2016,R,,"Horror Movies, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s548,Movie,Eternal Sunshine 2,Ashutosh Gowariker,"Sajal Aly, Bilal Abbas",USA,04 February 2018,2014,UNKNOWN,66 min,International Movies,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s387,movie,THE LAST HEIST,Shoojit Sircar,Nawazuddin Siddiqui,Turkey,25 May 2018,2017,UNKNOWN,110 minutes,Romantic Movies,A young detective races against time to solve a case that could change everything.
+s145,Movie,Burning Bridges,Hansal Mehta,"Irrfan Khan, Tabu",USA,19/07/2020,2007,,,"Comedies, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s568,Movie,Whispering Pines,Farhan Akhtar,"Sajal Aly, Bilal Abbas",INDIA, 2020-12-04 ,1998,TV-14,64,Horror Movies,An emotional journey of self discovery across three generations.
+s302,Movie,Rebel Hearts,Meghna Gulzar,"Rajkummar Rao, Kangana Ranaut",pakistan,2022-07-07,2000,TV-PG,,Action & Adventure,A young detective races against time to solve a case that could change everything.
+s208,TV Show,The Detective,Hansal Mehta,"Irrfan Khan, Tabu",UK,22/10/2022,1999,TV-G,7,"Comedies, Dramas, Horror Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s562,TV Show,The Trial,Zoya Akhtar,"Aamir Khan, Kareena Kapoor",INDIA,09 June 2024,2017,TV-14,7seasons,"Dramas, Action & Adventure, Music & Musicals",Friends become rivals as ambition tears apart years of loyalty.
+s430,TV Show,Code Red,,"Vicky Kaushal, Yami Gautam",U.S.A,03/01/2017,2014,PG,8,"Anime Series, Stand-Up Comedy, Sports Movies",
+s441,TV Show,The Detective,Sajal Aly,"Aamir Khan, Kareena Kapoor",Germany,2015-10-01,2011,NR,2,International Movies,
+s200,Movie,The Last Train,Nadeem Baig,"Fawad Khan, Mahira Khan",south korea, 2019-07-10 ,2012,PG,,"International Movies, Thrillers","A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s779,Movie,ocean's whisper,Farhan Akhtar,"Ranbir Kapoor, Alia Bhatt",Pakistan ,"December 18, 2021",2023,TV-PG,,Thrillers,"A gripping tale of love, loss, and redemption set against a vibrant backdrop."
+s576,TV Show,The Office India,Hansal Mehta,"Sajal Aly, Bilal Abbas",,2024-08-18,2007,NR,5seasons,"Kids' TV, Documentaries, Horror Movies",
+s792,TV Show,The Office India,Rajkumar Hirani,"Irrfan Khan, Tabu",USA,"April 22, 2020",2009,PG13,,"Crime TV Shows, Sports Movies",An emotional journey of self discovery across three generations.
+s377,Movie,Northern Lights,Karan Johar,"Shah Rukh Khan, Deepika Padukone",south korea,"December 02, 2017",2002,r,,"Kids' TV, Reality TV","In a city full of strangers, one chance encounter changes two lives forever."
+s16,Movie,Crimson Tide,Hansal Mehta,,UK,02 February 2015,2019,TV-PG ,93 min,"Romantic Movies, Sports Movies, Music & Musicals",
+s630,Movie,Eternal Sunshine 2,Ashutosh Gowariker,"Ranbir Kapoor, Alia Bhatt",USA,"May 22, 2020",2011,UR,147 min,"Action & Adventure, Documentaries","When secrets from the past resurface, a family must confront their darkest truths."
+s536,Movie,The Outsiders Club,Anand L. Rai,,France,2019-06-27,2004,R,,"Documentaries, Anime Series",Friends become rivals as ambition tears apart years of loyalty.
+s43,Movie,Silent Echoes,Vishal Bhardwaj,"Irrfan Khan, Tabu",Canada, 29 June 2019 ,2000,NR,,Music & Musicals,An emotional journey of self discovery across three generations.
+s481,TV Show,Undercover   ,Karan Johar,"Ranbir Kapoor, Alia Bhatt",,19/02/2023,2005,TV-G,8seasons,"Horror Movies, Anime Series",A small town hides a big secret that threatens to unravel everything.
+s634,Movie,Beyond the Horizon,Sooraj Barjatya,"Sajal Aly, Bilal Abbas",south korea,2023-02-24,2011,TV-Y,148,"Music & Musicals, Dramas, Comedies","A thrilling ride through betrayal, power, and the cost of ambition."
+s791,Movie,Iron Will,Asim Abbasi,"Mahira Khan, Hamza Ali Abbasi",Japan,08 February 2016,2011,TV-G,132 min,Documentaries,
+s276,Movie,BROKEN MIRROR,,"Ayushmann Khurrana, Bhumi Pednekar",South korea ,2021-09-08,1998,unrated,,"Horror Movies, Action & Adventure",An emotional journey of self discovery across three generations.
+s606,Movie,Silent Echoes,Vishal Bhardwaj,"Ranbir Kapoor, Alia Bhatt",Pakistan,2016-11-24,2013,TV-14,,"Thrillers, Dramas, Anime Series",A small town hides a big secret that threatens to unravel everything.
+s939,TV Show,Code Red,Nadeem Baig,"Priyanka Chopra, Farhan Akhtar",INDIA,2021-04-02,2006,r,1 Season,"British TV Shows, Romantic Movies, Music & Musicals","A thrilling ride through betrayal, power, and the cost of ambition."
+s945,TV Show,Startup Wars,Hansal Mehta,,South korea ,10 October 2019,2022,,1,"Sports Movies, Reality TV",A young detective races against time to solve a case that could change everything.
+s838,TV Show,Beyond Borders,Reema Kagti,"Shah Rukh Khan, Deepika Padukone",Germany,07/12/2017,2018,unrated,8seasons,"Crime TV Shows, Sports Movies, Horror Movies",Friends become rivals as ambition tears apart years of loyalty.
+s629,Movie,  Quantum Break,,"Ranbir Kapoor, Alia Bhatt",South Korea,"August 15, 2020",2022,tv-14,,Comedies,Friends become rivals as ambition tears apart years of loyalty.
+s409,TV Show,Family Matters,Ashutosh Gowariker,,South korea ,"January 13, 2017",2007,NR,,"Kids' TV, Crime TV Shows","When secrets from the past resurface, a family must confront their darkest truths."
+s103,TV Show,power play,Hansal Mehta,"Aamir Khan, Kareena Kapoor",Canada,26 November 2021,1999,NR,4seasons,International Movies,An emotional journey of self discovery across three generations.
+s332,Movie,Paper Moon   ,Vishal Bhardwaj,"Sajal Aly, Bilal Abbas",,09 June 2023,2020,PG13,174 minutes,"British TV Shows, Romantic Movies, Dramas","When secrets from the past resurface, a family must confront their darkest truths."
+s555,Movie,The Outsiders Club,Farhan Akhtar,Nawazuddin Siddiqui,UK,"February 03, 2020",2024,TV-MA,,"Dramas, Sports Movies","In a city full of strangers, one chance encounter changes two lives forever."
+s458,TV Show,Crime Diaries   ,Ashutosh Gowariker,"Priyanka Chopra, Farhan Akhtar",pakistan,2016-11-29,2020,unrated,,Music & Musicals,
